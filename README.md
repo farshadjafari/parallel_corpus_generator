@@ -1,4 +1,4 @@
-# parallel_corpus_generator
+# Multilingual Parallel Corpus Generator
 Python application, generating parallel corpus for any language pairs, can be used for training nmt (Neural Machine Translation) systems
 
 # Manual
