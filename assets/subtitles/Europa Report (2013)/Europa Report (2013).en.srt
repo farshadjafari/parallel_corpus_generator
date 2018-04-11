@@ -1,0 +1,5029 @@
+﻿1
+00:00:54,687 --> 00:00:56,822
+<i>Hey, buddy.</i>
+
+2
+00:00:56,824 --> 00:00:59,425
+Space is great.
+Umm...
+
+3
+00:01:01,127 --> 00:01:02,661
+I miss you guys.
+
+4
+00:01:02,663 --> 00:01:05,064
+We're a long way away now.
+I can't even see, uh--
+
+5
+00:01:05,066 --> 00:01:07,132
+I can't even see Earth anymore.
+
+6
+00:01:10,471 --> 00:01:13,138
+And, uh... It's peaceful.
+
+7
+00:01:13,140 --> 00:01:14,406
+You know?
+
+8
+00:01:15,809 --> 00:01:17,810
+Don't tell your mom this, but I think
+
+9
+00:01:17,812 --> 00:01:19,511
+I actually sleep...
+
+10
+00:01:19,513 --> 00:01:21,847
+Better up here, away from her snoring.
+
+11
+00:01:24,217 --> 00:01:26,685
+Over.
+
+12
+00:01:26,687 --> 00:01:28,654
+<i>Tanks B-7 and B-9 are</i>
+
+13
+00:01:28,656 --> 00:01:31,123
+<i>showing early signs of freezing. Over.</i>
+
+14
+00:01:33,660 --> 00:01:35,260
+<i>What would you do if you get out there</i>
+
+15
+00:01:35,262 --> 00:01:36,528
+and you find nothing?
+
+16
+00:01:38,298 --> 00:01:39,798
+Well, even if we found nothing,
+
+17
+00:01:39,800 --> 00:01:41,733
+it's in effect a discovery.
+
+18
+00:01:42,735 --> 00:01:44,770
+It would make me very frustrated.
+
+19
+00:01:44,772 --> 00:01:47,106
+<i>I know there's something there.</i>
+
+20
+00:01:47,108 --> 00:01:49,408
+<i>Check on nav bays 3 and 4.</i>
+
+21
+00:01:49,410 --> 00:01:51,176
+<i>You might want to update...</i>
+
+22
+00:01:53,114 --> 00:01:55,814
+Mission control,
+repeat please. Over.
+
+23
+00:01:55,816 --> 00:01:59,751
+- <i>Do you want me to show you how to beat 'em?</i>
+- <i>Europa One.</i>
+
+24
+00:01:59,753 --> 00:02:02,788
+William, I've got some static in
+the comm array feed up here.
+
+25
+00:02:02,790 --> 00:02:05,591
+<i>It looks like a radiation spike.</i>
+
+26
+00:02:05,593 --> 00:02:08,627
+<i>Have you tried recycling the system?</i>
+
+27
+00:02:08,629 --> 00:02:10,762
+<i>Rosa, we've lost your feed.</i>
+
+28
+00:02:12,499 --> 00:02:13,832
+<i>Europa One, come in.</i>
+
+29
+00:02:13,834 --> 00:02:16,635
+<i>Europa One.</i>
+
+30
+00:02:16,637 --> 00:02:18,904
+<i>Europa One.</i>
+
+31
+00:02:38,525 --> 00:02:40,826
+<i>These were the last images we received</i>
+
+32
+00:02:40,828 --> 00:02:42,794
+<i>from the Europa One craft.</i>
+
+33
+00:02:42,796 --> 00:02:45,297
+<i>At the time, it had already gone farther</i>
+
+34
+00:02:45,299 --> 00:02:48,567
+<i>than any human being had ever traveled before.</i>
+
+35
+00:02:51,405 --> 00:02:53,438
+For 16 long months I've been asked
+
+36
+00:02:53,440 --> 00:02:57,209
+the simple but loaded question:
+"What happened?"
+
+37
+00:02:58,711 --> 00:03:00,846
+All-- I'm sorry.
+
+38
+00:03:25,705 --> 00:03:27,739
+We have to tell his family.
+
+39
+00:03:28,942 --> 00:03:30,943
+We can't.
+
+40
+00:03:30,945 --> 00:03:33,612
+The communication fix was never completed.
+
+41
+00:03:33,614 --> 00:03:35,881
+The system is fried!
+
+42
+00:03:35,883 --> 00:03:38,483
+Last sync with mission control was 19 hours ago.
+
+43
+00:03:38,485 --> 00:03:39,985
+We're all alone now.
+
+44
+00:03:42,789 --> 00:03:44,323
+So what happens?
+
+45
+00:03:47,727 --> 00:03:49,261
+Do we go on?
+
+46
+00:04:03,309 --> 00:04:05,410
+I was on a plane,
+
+47
+00:04:05,412 --> 00:04:07,746
+a transatlantic flight,
+
+48
+00:04:07,748 --> 00:04:10,282
+when the mission feed went dark.
+
+49
+00:04:11,284 --> 00:04:14,419
+When I landed, mission control was still saying
+
+50
+00:04:14,421 --> 00:04:17,022
+"maybe it's just
+a transmission delay."
+
+51
+00:04:17,024 --> 00:04:19,891
+But, by the time I made it into mission control,
+
+52
+00:04:19,893 --> 00:04:23,395
+we were looking at over 15 hours of dead feed.
+
+53
+00:04:33,039 --> 00:04:35,307
+After James was lost,
+
+54
+00:04:35,309 --> 00:04:36,541
+the joy of the mission,
+
+55
+00:04:36,543 --> 00:04:39,544
+the exhilaration of it all just--
+
+56
+00:04:39,546 --> 00:04:42,014
+it just left.
+
+57
+00:04:43,883 --> 00:04:45,984
+<i>I stopped feeling like a kid on a family trip.</i>
+
+58
+00:04:48,921 --> 00:04:50,956
+<i>The mission has stretched on ahead of us,</i>
+
+59
+00:04:50,958 --> 00:04:52,991
+<i>somehow longer than it had been before.</i>
+
+60
+00:04:57,330 --> 00:04:59,598
+No one at home knows we're alive.
+
+61
+00:05:08,041 --> 00:05:09,808
+We're doing the right thing, right?
+
+62
+00:05:10,810 --> 00:05:12,678
+Absolutely.
+
+63
+00:05:20,954 --> 00:05:25,357
+<i>Andrei, have you looked out at Jupiter yet?</i>
+
+64
+00:05:32,932 --> 00:05:35,033
+<i>Something to be excited about.</i>
+
+65
+00:05:38,872 --> 00:05:41,540
+- Are you okay?
+- Mmm.
+
+66
+00:05:42,975 --> 00:05:45,610
+You haven't said a word to me in a week.
+
+67
+00:05:58,959 --> 00:06:00,959
+- <i>I woke up one morning--</i>
+- <i>okay.</i>
+
+68
+00:06:02,863 --> 00:06:04,996
+I woke up at some point and...
+
+69
+00:06:04,998 --> 00:06:07,432
+Didn't recognize myself.
+
+70
+00:06:10,670 --> 00:06:12,771
+<i>Objectively, I know it's the zero g</i>
+
+71
+00:06:12,773 --> 00:06:15,974
+<i>and the isolation that changes you.</i>
+
+72
+00:06:15,976 --> 00:06:18,543
+<i>But that doesn't make it any less strange.</i>
+
+73
+00:06:20,747 --> 00:06:23,081
+<i>It doesn't stop you from slowly breaking.</i>
+
+74
+00:06:38,865 --> 00:06:40,866
+<i>I started living my life</i>
+
+75
+00:06:40,868 --> 00:06:44,069
+in tune with the mission
+that I hoped was still going on.
+
+76
+00:06:50,743 --> 00:06:52,110
+- That's good.
+- Okay.
+
+77
+00:06:52,112 --> 00:06:54,579
+How's your appetite?
+
+78
+00:06:54,581 --> 00:06:56,415
+I'm fine.
+
+79
+00:06:56,417 --> 00:06:57,916
+And you're sleeping
+kind of--
+
+80
+00:06:57,918 --> 00:06:59,484
+I'm not.
+
+81
+00:07:01,754 --> 00:07:04,122
+It's been a year since we lost him.
+
+82
+00:07:19,940 --> 00:07:21,673
+Tell me we can still...
+
+83
+00:07:52,940 --> 00:07:54,840
+- Good morning. I am very--
+
+84
+00:07:54,842 --> 00:07:58,009
+<i>We</i> are all very excited to be here today.
+
+85
+00:07:58,011 --> 00:08:01,480
+<i>It has certainly been a long road</i>
+
+86
+00:08:01,482 --> 00:08:04,516
+and all of us up here
+
+87
+00:08:04,518 --> 00:08:06,718
+started with the shared dream
+
+88
+00:08:06,720 --> 00:08:08,620
+of space and possibility.
+
+89
+00:08:08,622 --> 00:08:12,524
+And this really is
+a new first-step for mankind.
+
+90
+00:08:12,526 --> 00:08:14,759
+From one perspective,
+
+91
+00:08:14,761 --> 00:08:17,662
+you can say our mission
+actually began 400 years ago.
+
+92
+00:08:17,664 --> 00:08:19,564
+That's when Galileo first saw...
+
+93
+00:08:19,566 --> 00:08:22,968
+...Jupiter and its moons
+through his telescope.
+
+94
+00:08:22,970 --> 00:08:25,837
+<i>For something this big, you get one shot.</i>
+
+95
+00:08:25,839 --> 00:08:28,974
+An unmanned mission simply wasn't
+going to cut it for us.
+
+96
+00:08:28,976 --> 00:08:31,543
+You put men and women into space
+
+97
+00:08:31,545 --> 00:08:34,179
+because they have strength
+in the face of cosmic odds.
+
+98
+00:08:34,181 --> 00:08:36,047
+<i>Europa One is cleared for launch.</i>
+
+99
+00:08:42,788 --> 00:08:44,723
+<i>T-minus 10,</i>
+
+100
+00:08:44,725 --> 00:08:46,191
+<i>nine, eight,</i>
+
+101
+00:08:46,193 --> 00:08:48,260
+<i>seven, six...</i>
+
+102
+00:08:48,262 --> 00:08:50,529
+- <i>...five, four...</i>
+- <i>We're go for main engine.</i>
+
+103
+00:08:50,531 --> 00:08:53,164
+<i>...three, two, one.</i>
+
+104
+00:08:53,166 --> 00:08:54,699
+<i>Ignition.</i>
+
+105
+00:08:56,702 --> 00:08:59,804
+<i>Liftoff! On the trek to Europa.</i>
+
+106
+00:08:59,806 --> 00:09:02,307
+<i>Our engines at 98% thrust.</i>
+
+107
+00:09:02,309 --> 00:09:04,175
+<i>Fuel rate is nominal.</i>
+
+108
+00:09:04,177 --> 00:09:06,878
+<i>Rolling right in zero-point-six degrees.</i>
+
+109
+00:09:06,880 --> 00:09:08,813
+<i>Telemetry nominal.</i>
+
+110
+00:09:12,251 --> 00:09:14,686
+<i>Loft at 225 meters-per-second.</i>
+
+111
+00:09:14,688 --> 00:09:17,022
+<i>Altitude, 2.3 nautical Miles.</i>
+
+112
+00:09:17,024 --> 00:09:19,991
+<i>And in three, two, one.</i>
+
+113
+00:09:22,028 --> 00:09:24,029
+<i>We have good booster separation.</i>
+
+114
+00:09:24,031 --> 00:09:25,964
+Vehicle is supersonic.
+
+115
+00:09:25,966 --> 00:09:27,832
+Command module jettison in three,
+
+116
+00:09:27,834 --> 00:09:30,669
+two, one.
+
+117
+00:09:35,741 --> 00:09:38,009
+<i>We have a good shell separation.</i>
+
+118
+00:09:38,011 --> 00:09:40,245
+Initial burn is complete.
+
+119
+00:09:40,247 --> 00:09:42,180
+Staging in three,
+
+120
+00:09:42,182 --> 00:09:44,049
+two, one.
+
+121
+00:09:47,186 --> 00:09:49,688
+<i>Copy. We have good stage separation.</i>
+
+122
+00:09:49,690 --> 00:09:51,590
+<i>We have visual of command module.</i>
+
+123
+00:09:52,692 --> 00:09:54,359
+<i>Beginning turn for docking.</i>
+
+124
+00:09:55,962 --> 00:09:58,964
+<i>Trajectory is good. Thrust is good.</i>
+
+125
+00:09:58,966 --> 00:10:02,233
+<i>We hadn't left near-Earth orbit since 1972.</i>
+
+126
+00:10:02,235 --> 00:10:05,604
+Our company was tasked with moving forward
+
+127
+00:10:05,606 --> 00:10:08,773
+where the space programs of the 20th
+century had left off.
+
+128
+00:10:08,775 --> 00:10:10,342
+- <i>10 meters to docking.</i>
+- <i>I believe</i>
+
+129
+00:10:10,344 --> 00:10:12,911
+<i>if you have the scent of a discovery this big...</i>
+
+130
+00:10:12,913 --> 00:10:16,014
+- <i>Five meters.</i>
+- <i>...You do not simply wait and see what happens next.</i>
+
+131
+00:10:16,016 --> 00:10:17,983
+<i>Contact.</i>
+
+132
+00:10:17,985 --> 00:10:19,751
+<i>You go after it.</i>
+
+133
+00:10:19,753 --> 00:10:21,920
+<i>Copy. We are green on hard dock.</i>
+
+134
+00:10:21,922 --> 00:10:23,788
+<i>Locks B through d are green.</i>
+
+135
+00:10:23,790 --> 00:10:26,257
+<i>Connects are stable.</i>
+<i>We are green on dock.</i>
+
+136
+00:10:28,929 --> 00:10:30,929
+Mission control,
+
+137
+00:10:30,931 --> 00:10:34,065
+we are proud to report that
+we are officially underway.
+
+138
+00:10:34,067 --> 00:10:37,202
+<i>Roger that.</i>
+
+139
+00:10:37,204 --> 00:10:39,104
+<i>We'll be here for you when you get back.</i>
+
+140
+00:10:41,240 --> 00:10:44,275
+<i>We've prepped some light traveling music for you.</i>
+
+141
+00:11:07,266 --> 00:11:09,901
+<i>Internal cam check is a go.</i>
+
+142
+00:11:11,771 --> 00:11:14,372
+<i>Must be peaceful up there.</i>
+
+143
+00:11:25,251 --> 00:11:27,452
+<i>External cam check is a go.</i>
+
+144
+00:11:33,025 --> 00:11:36,828
+<i>♪ Come on in!</i>
+
+145
+00:11:36,830 --> 00:11:38,263
+Hello.
+
+146
+00:11:38,265 --> 00:11:40,198
+Please don't vote me off.
+
+147
+00:11:40,200 --> 00:11:42,767
+There's a camera.
+What do ya know?
+
+148
+00:11:42,769 --> 00:11:44,069
+Reality TV.
+
+149
+00:11:44,071 --> 00:11:46,071
+<i>Okay, Jamie, this is your own</i>
+
+150
+00:11:46,073 --> 00:11:49,007
+<i>personal tour of Europa One.</i>
+
+151
+00:11:49,009 --> 00:11:51,209
+Oh look.
+It's you, Jamie.
+Hi, Jamie.
+
+152
+00:11:51,211 --> 00:11:52,911
+"Hi, dad."
+
+153
+00:11:52,913 --> 00:11:55,346
+Hey, Dan. You still upset
+that you got the bottom bunk?
+
+154
+00:11:55,348 --> 00:11:57,415
+How'd you know I was thinking about that?
+I really was
+
+155
+00:12:02,888 --> 00:12:05,223
+<i>"I'm so cramped."</i>
+<i>Look at my spacious bunk.</i>
+
+156
+00:12:05,225 --> 00:12:07,258
+- Film me for a second.
+- Okay.
+
+157
+00:12:07,260 --> 00:12:11,463
+Okay, so this is actually
+one of two living quarters.
+
+158
+00:12:11,465 --> 00:12:14,799
+What they do is they rotate
+around the core module
+
+159
+00:12:14,801 --> 00:12:17,936
+so this gives us simulated gravity.
+
+160
+00:12:17,938 --> 00:12:19,471
+But watch this.
+
+161
+00:12:19,473 --> 00:12:22,107
+We also get to experience
+
+162
+00:12:22,109 --> 00:12:24,909
+real gravity-free
+
+163
+00:12:24,911 --> 00:12:27,078
+space excitement.
+
+164
+00:12:27,080 --> 00:12:28,813
+Whoo!
+
+165
+00:12:28,815 --> 00:12:30,482
+And the head rush that goes with it.
+
+166
+00:12:30,484 --> 00:12:33,284
+- Crew meeting in one hour, guys.
+- Okay.
+
+167
+00:12:33,286 --> 00:12:35,820
+Now the thing about zero gravity is that
+
+168
+00:12:35,822 --> 00:12:38,156
+<i>it makes our bones and muscles really weak.</i>
+
+169
+00:12:38,158 --> 00:12:40,258
+<i>This is why we spend as much time as possible</i>
+
+170
+00:12:40,260 --> 00:12:42,193
+<i>in these living modules.</i>
+
+171
+00:12:42,195 --> 00:12:44,896
+Yeah, okay.
+Just pass it up.
+I got it.
+
+172
+00:12:44,898 --> 00:12:48,366
+Okay. And there's
+the lovely Katya.
+
+173
+00:12:48,368 --> 00:12:50,502
+<i>Now these are some of the science tools</i>
+
+174
+00:12:50,504 --> 00:12:53,238
+<i>that we're using to test for life on Europa.</i>
+
+175
+00:12:53,240 --> 00:12:55,440
+<i>And your dad has to fix them if any of them break.</i>
+
+176
+00:12:55,442 --> 00:12:56,975
+When you're done playing tourist,
+
+177
+00:12:56,977 --> 00:12:58,409
+you can come over here and help me.
+
+178
+00:12:58,411 --> 00:13:01,112
+If you're not afraid to chip a nail.
+
+179
+00:13:01,114 --> 00:13:03,548
+<i>Now-- whoa--</i>
+
+180
+00:13:03,550 --> 00:13:05,250
+- <i>this is the cockpit.</i>
+
+181
+00:13:05,252 --> 00:13:06,417
+<i>Mission control...</i>
+
+182
+00:13:06,419 --> 00:13:07,819
+<i>...Sync.</i>
+
+183
+00:13:07,821 --> 00:13:09,921
+<i>Copy, Rosa. We have sync.</i>
+
+184
+00:13:09,923 --> 00:13:12,524
+<i>And Rosa, our pilot, used to fly jets</i>
+
+185
+00:13:12,526 --> 00:13:15,093
+<i>before she started flying us around.</i>
+
+186
+00:13:15,095 --> 00:13:17,495
+<i>And what's she doing?</i>
+<i>She's setting up the camera system</i>
+
+187
+00:13:17,497 --> 00:13:20,165
+<i>which monitors everything that happens on the ship.</i>
+
+188
+00:13:20,167 --> 00:13:22,267
+<i>Smile for Jamie, Rosa.</i>
+
+189
+00:13:24,571 --> 00:13:27,138
+<i>And now-- last thing I want to show you--</i>
+
+190
+00:13:27,140 --> 00:13:28,540
+<i>have a look at this.</i>
+
+191
+00:13:29,975 --> 00:13:31,810
+The view.
+
+192
+00:13:33,547 --> 00:13:35,446
+Kind of ironic, really.
+
+193
+00:13:36,448 --> 00:13:38,183
+So little space in here
+
+194
+00:13:38,185 --> 00:13:40,552
+and so much space out there.
+
+195
+00:13:42,588 --> 00:13:44,088
+Whoa.
+
+196
+00:13:46,425 --> 00:13:48,259
+<i>As the ship passed the moon,</i>
+
+197
+00:13:48,261 --> 00:13:50,228
+<i>it had already gone farther</i>
+
+198
+00:13:50,230 --> 00:13:51,596
+<i>than any human being</i>
+
+199
+00:13:51,598 --> 00:13:53,364
+<i>had ever traveled before.</i>
+
+200
+00:13:53,366 --> 00:13:55,300
+<i>Think about that.</i>
+
+201
+00:13:56,402 --> 00:13:58,336
+<i>Across all of human history,</i>
+
+202
+00:13:58,338 --> 00:14:02,273
+<i>that moment was the farthest anyone had ever gone.</i>
+
+203
+00:14:02,275 --> 00:14:05,343
+<i>But they still had millions upon millions of Miles to go.</i>
+
+204
+00:14:05,345 --> 00:14:08,613
+<i>Our craft was heading for a moon of Jupiter</i>
+
+205
+00:14:08,615 --> 00:14:10,481
+<i>known as Europa.</i>
+
+206
+00:14:12,117 --> 00:14:14,219
+<i>This mission is riding</i>
+
+207
+00:14:14,221 --> 00:14:17,255
+<i>on the shoulders of many great men and women.</i>
+
+208
+00:14:17,257 --> 00:14:19,257
+<i>And so if we have any legacy at all,</i>
+
+209
+00:14:19,259 --> 00:14:21,359
+<i>I would hope that it would be</i>
+
+210
+00:14:21,361 --> 00:14:24,462
+that we would inspire those who come after us
+
+211
+00:14:24,464 --> 00:14:25,630
+to keep exploring,
+
+212
+00:14:25,632 --> 00:14:28,399
+to keep pushing the boundaries,
+
+213
+00:14:28,401 --> 00:14:30,869
+to keep looking for the answers
+
+214
+00:14:30,871 --> 00:14:32,904
+to those
+really tough questions--
+
+215
+00:14:32,906 --> 00:14:34,038
+who are we?
+
+216
+00:14:34,040 --> 00:14:35,306
+Why are we here?
+
+217
+00:14:35,308 --> 00:14:36,507
+Where do we come from?
+
+218
+00:14:36,509 --> 00:14:39,344
+And... are we alone?
+
+219
+00:14:40,546 --> 00:14:43,414
+<i>For a very long time,</i>
+
+220
+00:14:43,416 --> 00:14:46,651
+Europa has seemed to be just
+a solid sphere of ice.
+
+221
+00:14:46,653 --> 00:14:48,987
+But even just looking at its surface,
+
+222
+00:14:48,989 --> 00:14:50,889
+there are clues, you know?
+
+223
+00:14:50,891 --> 00:14:53,424
+There might be water underneath the ice.
+
+224
+00:14:53,426 --> 00:14:55,093
+And then in the fall of 2011,
+
+225
+00:14:55,095 --> 00:14:57,629
+scientists realized--
+they released data
+
+226
+00:14:57,631 --> 00:15:00,632
+showing the presence
+of sub-surface lakes--
+
+227
+00:15:00,634 --> 00:15:04,235
+of liquid!
+And-- wow!
+
+228
+00:15:04,237 --> 00:15:06,271
+- <i>Wherever we have found water--</i>
+
+229
+00:15:06,273 --> 00:15:08,006
+we have found life.
+
+230
+00:15:08,008 --> 00:15:10,642
+But what came next was, um...
+
+231
+00:15:10,644 --> 00:15:12,377
+Even more startling.
+
+232
+00:15:12,379 --> 00:15:14,579
+NASA discovered heat signatures
+
+233
+00:15:14,581 --> 00:15:18,283
+under an area known as the conamara chaos.
+
+234
+00:15:18,285 --> 00:15:19,951
+<i>Well, they teased the idea that--</i>
+
+235
+00:15:19,953 --> 00:15:22,420
+<i>that simple mono-cellular life</i>
+
+236
+00:15:22,422 --> 00:15:26,624
+in our solar system might not just be possible,
+
+237
+00:15:26,626 --> 00:15:28,059
+it might be probable.
+
+238
+00:15:28,061 --> 00:15:30,662
+I wanna go to Europa and go ice fishing.
+
+239
+00:15:30,664 --> 00:15:32,664
+Cut through the ice, lower a submersible,
+
+240
+00:15:32,666 --> 00:15:34,365
+look around, see what's there.
+
+241
+00:15:34,367 --> 00:15:37,602
+See what swims up to the camera lens and licks it.
+
+242
+00:15:37,604 --> 00:15:40,371
+If life exists on Europa,
+
+243
+00:15:40,373 --> 00:15:43,308
+it will be the single most profound
+
+244
+00:15:43,310 --> 00:15:45,710
+discovery in human history.
+
+245
+00:15:50,582 --> 00:15:53,251
+Dasque to mission control.
+Over.
+
+246
+00:15:53,253 --> 00:15:56,587
+<i>We read you, Rosa. Over.</i>
+
+247
+00:15:56,589 --> 00:15:58,056
+<i>Data sync is live.</i>
+
+248
+00:15:58,058 --> 00:15:59,991
+<i>How's everyone holding up?</i>
+
+249
+00:15:59,993 --> 00:16:01,359
+I think it's potato soup.
+
+250
+00:16:01,361 --> 00:16:03,227
+- Get something to drink.
+- Dude, why--
+
+251
+00:16:03,229 --> 00:16:05,964
+why would you put garlic into a space dish?
+
+252
+00:16:05,966 --> 00:16:08,499
+It's very rich.
+
+253
+00:16:08,501 --> 00:16:10,468
+- It's delicious.
+- I have to say, though...
+
+254
+00:16:15,141 --> 00:16:17,475
+Okay, look look--
+I've got another mile to go.
+
+255
+00:16:17,477 --> 00:16:19,644
+Not bad, eh?
+
+256
+00:16:19,646 --> 00:16:21,980
+What about after your run?
+
+257
+00:16:21,982 --> 00:16:23,681
+When are you gonna actually call someone?
+
+258
+00:16:23,683 --> 00:16:26,284
+None of your business.
+
+259
+00:16:27,686 --> 00:16:30,488
+Hey. It's time.
+
+260
+00:16:30,490 --> 00:16:32,557
+I should have learned mandarin before we left.
+
+261
+00:16:32,559 --> 00:16:34,359
+- He's probably talking about me.
+- Gun it.
+
+262
+00:16:34,361 --> 00:16:36,561
+One, two, one, two, one, two, one...
+
+263
+00:16:43,769 --> 00:16:45,603
+- <i>How did you feel?</i>
+- <i>I said yes</i>
+
+264
+00:16:45,605 --> 00:16:47,171
+<i>before the question even sunk in.</i>
+
+265
+00:16:49,142 --> 00:16:52,543
+<i>They had to ask me four times</i>
+<i>before I could even respond.</i>
+
+266
+00:16:54,647 --> 00:16:56,714
+<i>No trouble on the ping requests.</i>
+
+267
+00:16:56,716 --> 00:16:59,484
+<i>We see a sticking valve in v-tech.</i>
+
+268
+00:16:59,486 --> 00:17:03,321
+<i>Andrei is already working on a fix.</i>
+
+269
+00:17:03,323 --> 00:17:06,257
+If it leaks anymore, we'll isolate the manifold.
+
+270
+00:17:08,727 --> 00:17:11,262
+Oh, and we have a series
+
+271
+00:17:11,264 --> 00:17:13,031
+of fuse events in Rosa's station.
+
+272
+00:17:13,033 --> 00:17:15,767
+Can you have the team on duty investigate? Over.
+
+273
+00:17:17,669 --> 00:17:19,704
+<i>Copy that. But you might have it fixed</i>
+
+274
+00:17:19,706 --> 00:17:21,305
+<i>before we finish the review.</i>
+
+275
+00:17:21,307 --> 00:17:23,274
+<i>You're making us feel two steps behind.</i>
+
+276
+00:17:23,276 --> 00:17:24,776
+<i>Over.</i>
+
+277
+00:17:24,778 --> 00:17:27,678
+<i>You'll make him blush. Over.</i>
+
+278
+00:17:41,160 --> 00:17:43,061
+Mission control, can you hear me?
+
+279
+00:17:44,063 --> 00:17:45,630
+Andrei is in the shower right now,
+
+280
+00:17:45,632 --> 00:17:47,365
+so I want to take this opportunity
+
+281
+00:17:47,367 --> 00:17:50,334
+to tell you that your shower
+system is totally inadequate.
+
+282
+00:17:50,336 --> 00:17:52,070
+And I don't buy your theories about
+
+283
+00:17:52,072 --> 00:17:53,638
+the body adjusting to the new hygiene regime.
+
+284
+00:17:53,640 --> 00:17:55,273
+You know what I can't adjust to?
+
+285
+00:17:55,275 --> 00:17:57,341
+The drinking of the distilled urine.
+
+286
+00:17:57,343 --> 00:17:59,544
+Oh! James!
+
+287
+00:17:59,546 --> 00:18:00,745
+I'm just saying--
+
+288
+00:18:00,747 --> 00:18:02,280
+you're worried about my smell
+
+289
+00:18:02,282 --> 00:18:03,815
+and you're drinking my urine?
+
+290
+00:18:03,817 --> 00:18:06,584
+You know what I think
+they're really pissed off about?
+
+291
+00:18:06,586 --> 00:18:08,820
+You guys only gave them four outfits.
+
+292
+00:18:08,822 --> 00:18:10,755
+So sometimes they wake up in the morning,
+
+293
+00:18:10,757 --> 00:18:13,758
+they find out they're wearing
+the same thing the entire day.
+
+294
+00:18:14,760 --> 00:18:16,194
+They get totally pissed off.
+
+295
+00:18:16,196 --> 00:18:17,829
+- And the shoes--
+
+296
+00:18:17,831 --> 00:18:19,764
+You gave them two pairs of shoes
+
+297
+00:18:19,766 --> 00:18:22,700
+for women.
+I'm just saying.
+
+298
+00:18:22,702 --> 00:18:24,869
+<i>Rosa, dinner!</i>
+<i>Where is she?</i>
+
+299
+00:18:24,871 --> 00:18:26,838
+- <i>Coming.</i>
+- <i>Who's the lasagna?</i>
+
+300
+00:18:26,840 --> 00:18:28,673
+- Yeah.
+- <i>That's you?</i>
+
+301
+00:18:28,675 --> 00:18:31,209
+- <i>Oh God.</i>
+- <i>Who's the pod macaroni and cheese. Ish?</i>
+
+302
+00:18:31,211 --> 00:18:33,578
+- I guess I'll take that.
+- To six months!
+
+303
+00:18:33,580 --> 00:18:37,682
+- Okay, eyes. Eyes.
+- Wait, you're not looking into my eyes.
+
+304
+00:18:37,684 --> 00:18:38,850
+Oh, sorry.
+
+305
+00:18:40,887 --> 00:18:43,821
+- Can I see?
+- Did you see any polar bears?
+
+306
+00:18:43,823 --> 00:18:46,457
+No, really.
+
+307
+00:18:50,797 --> 00:18:54,499
+We pooled our astronauts
+
+308
+00:18:54,501 --> 00:18:58,169
+from the very best space programs across the globe.
+
+309
+00:18:58,171 --> 00:19:00,838
+Our captain is William xu.
+
+310
+00:19:00,840 --> 00:19:02,573
+I think this mission will show people that
+
+311
+00:19:02,575 --> 00:19:05,243
+we're still capable
+of achieving impossible things.
+
+312
+00:19:05,245 --> 00:19:06,811
+<i>Dr. Daniel Luxembourg.</i>
+
+313
+00:19:06,813 --> 00:19:08,479
+My entire adult life has been dedicated
+
+314
+00:19:08,481 --> 00:19:10,248
+to exploring extreme environments.
+
+315
+00:19:10,250 --> 00:19:12,383
+I became an astronaut specifically
+
+316
+00:19:12,385 --> 00:19:13,918
+to have the opportunity
+to do something like this.
+
+317
+00:19:13,920 --> 00:19:15,553
+<i>Dr. Katya petrovna.</i>
+
+318
+00:19:15,555 --> 00:19:18,489
+Life on Earth began in the ocean,
+so in some ways
+
+319
+00:19:18,491 --> 00:19:20,625
+this mission will be like
+taking a trip back in time.
+
+320
+00:19:20,627 --> 00:19:23,895
+My background is in marine
+biology and oceanography.
+
+321
+00:19:23,897 --> 00:19:27,865
+To be honest, sometimes I'm terrified of flying.
+
+322
+00:19:27,867 --> 00:19:29,367
+<i>Andrei blok.</i>
+
+323
+00:19:29,369 --> 00:19:33,671
+I think I have 349 days in outer space,
+
+324
+00:19:33,673 --> 00:19:35,840
+so I'm what you call a veteran.
+
+325
+00:19:35,842 --> 00:19:38,409
+The only thing I can't face is...
+
+326
+00:19:40,379 --> 00:19:43,181
+The food.
+
+327
+00:19:43,183 --> 00:19:44,382
+<i>James corrigan.</i>
+
+328
+00:19:44,384 --> 00:19:46,951
+I remember watching footage at school
+
+329
+00:19:46,953 --> 00:19:49,353
+of Neil Armstrong on the moon,
+
+330
+00:19:49,355 --> 00:19:52,723
+and just-- just knowing
+"I want to do this."
+
+331
+00:19:52,725 --> 00:19:56,194
+- <i>Rosa dasque.</i>
+- <i>Call me immature, reckless, arrogant.</i>
+
+332
+00:19:56,196 --> 00:20:00,331
+I just want to go faster and
+farther than anyone has before.
+
+333
+00:20:00,333 --> 00:20:04,202
+We had to design a spacecraft
+unlike by any before it.
+
+334
+00:20:04,204 --> 00:20:07,972
+Of course, once the decision
+was made to put people onboard,
+
+335
+00:20:07,974 --> 00:20:09,840
+the requirements ballooned.
+
+336
+00:20:09,842 --> 00:20:12,843
+Human beings need food, shelter.
+
+337
+00:20:12,845 --> 00:20:15,713
+They need an environment that is survivable
+
+338
+00:20:15,715 --> 00:20:17,915
+and has some level of comfort.
+
+339
+00:20:21,487 --> 00:20:23,221
+<i>It's cracking the ice.</i>
+
+340
+00:20:41,907 --> 00:20:43,874
+<i>We're a month away, Andrei.</i>
+
+341
+00:20:43,876 --> 00:20:46,744
+<i>We're still concerned about your recovery.</i>
+
+342
+00:20:53,018 --> 00:20:56,887
+So how should I be recovering, exactly?
+
+343
+00:21:07,566 --> 00:21:09,333
+Excuse me.
+
+344
+00:21:23,382 --> 00:21:24,982
+So what do you think?
+
+345
+00:21:28,320 --> 00:21:32,290
+I still wouldn't advise leaving him
+in the orbiter alone for three weeks.
+
+346
+00:21:32,292 --> 00:21:35,326
+I'd rather not leave our only engineer behind.
+
+347
+00:21:38,697 --> 00:21:40,331
+So we take him down with us then.
+
+348
+00:21:42,334 --> 00:21:43,868
+Yeah.
+
+349
+00:21:45,570 --> 00:21:47,805
+<i>Jupiter.</i>
+
+350
+00:21:47,807 --> 00:21:50,875
+<i>Being so close to our destination lifted our spirits.</i>
+
+351
+00:21:50,877 --> 00:21:53,444
+<i>It felt that everything made sense again.</i>
+
+352
+00:21:54,746 --> 00:21:56,947
+The thickness in the air cleared.
+
+353
+00:21:58,984 --> 00:22:02,353
+But what cleared it was sheer adrenaline.
+
+354
+00:22:05,357 --> 00:22:07,525
+<i>Prep for orbital transfer.</i>
+
+355
+00:22:07,527 --> 00:22:09,327
+<i>We're gonna feel some gs here.</i>
+
+356
+00:22:58,944 --> 00:23:00,444
+<i>Pitch maneuver.</i>
+
+357
+00:23:01,646 --> 00:23:03,414
+<i>We are clear of Jupiter's orbit.</i>
+
+358
+00:23:03,416 --> 00:23:05,015
+<i>Beginning orbital transfer.</i>
+
+359
+00:23:06,818 --> 00:23:08,486
+<i>Pitching for power descent.</i>
+
+360
+00:23:14,025 --> 00:23:15,993
+<i>Daniel, can you keep Andrei abreast</i>
+
+361
+00:23:15,995 --> 00:23:17,895
+<i>of any of those changes in the readouts, please?</i>
+
+362
+00:23:17,897 --> 00:23:20,498
+- <i>Roger that.</i>
+- <i>Orbit trajectory, clear.</i>
+
+363
+00:23:20,500 --> 00:23:23,167
+<i>Current speed 60 kilometers per second.</i>
+
+364
+00:23:24,469 --> 00:23:26,704
+- <i>Ready?</i>
+- <i>Yes.</i>
+
+365
+00:23:26,706 --> 00:23:29,039
+<i>Surface conditions in the L.Z.?</i>
+
+366
+00:23:29,041 --> 00:23:31,542
+I've got heat plume and
+radiation analysis incoming,
+
+367
+00:23:31,544 --> 00:23:34,412
+but the data is variable.
+Heat is fluctuating.
+
+368
+00:23:34,414 --> 00:23:35,813
+<i>Not far now.</i>
+
+369
+00:23:38,417 --> 00:23:39,950
+<i>All systems online.</i>
+
+370
+00:23:39,952 --> 00:23:41,585
+<i>Showing green light.</i>
+
+371
+00:23:43,955 --> 00:23:46,424
+<i>Landing gear armed and ready to deploy.</i>
+
+372
+00:23:47,959 --> 00:23:49,760
+<i>Ladies and gentlemen, hold on.</i>
+
+373
+00:23:49,762 --> 00:23:50,995
+<i>Here we go.</i>
+
+374
+00:23:52,164 --> 00:23:53,998
+<i>Trajectory and speed?</i>
+
+375
+00:23:54,000 --> 00:23:56,534
+<i>Heading 270.3.</i>
+
+376
+00:23:56,536 --> 00:23:58,102
+<i>Coming in low across thera macula</i>
+
+377
+00:23:58,104 --> 00:24:01,572
+<i>at 458.4 meters per second.</i>
+
+378
+00:24:02,607 --> 00:24:04,175
+<i>Target site lining up.</i>
+
+379
+00:24:04,177 --> 00:24:06,577
+<i>Landing gear deployed.</i>
+
+380
+00:24:06,579 --> 00:24:08,112
+<i>20 seconds to--</i>
+
+381
+00:24:09,949 --> 00:24:13,651
+It's like a thermal vent.
+Sort of an eruptive feature.
+
+382
+00:24:13,653 --> 00:24:15,186
+- Can you stabilize us?
+- I'm trying!
+
+383
+00:24:15,188 --> 00:24:17,121
+Andrei, I need an option for emergency landing.
+
+384
+00:24:17,123 --> 00:24:19,490
+<i>Vent's coming from the area around our target site.</i>
+
+385
+00:24:19,492 --> 00:24:22,560
+There's a low gradation of ice just
+past the L.Z., along thrace macula.
+
+386
+00:24:22,562 --> 00:24:24,695
+Okay. Land us long.
+Get us past the vent area.
+
+387
+00:24:26,198 --> 00:24:28,532
+- <i>100 meters to contact</i>
+- <i>10 seconds of fuel.</i>
+
+388
+00:24:28,534 --> 00:24:29,767
+Back off the burners on approach
+
+389
+00:24:29,769 --> 00:24:31,068
+or we'll melt our landing site.
+
+390
+00:24:31,070 --> 00:24:32,903
+<i>Roger that. 10 meters.</i>
+
+391
+00:24:32,905 --> 00:24:34,605
+- <i>Five meters.</i>
+- <i>Contact lights.</i>
+
+392
+00:24:34,607 --> 00:24:35,773
+<i>Shut down.</i>
+
+393
+00:24:36,775 --> 00:24:37,908
+I think we've got it.
+
+394
+00:25:30,897 --> 00:25:32,796
+Everything okay up here?
+
+395
+00:25:32,798 --> 00:25:34,532
+Sorry.
+
+396
+00:25:34,534 --> 00:25:36,133
+I can't pull my eyes away from it.
+
+397
+00:25:38,904 --> 00:25:40,738
+It takes your breath away.
+
+398
+00:25:49,315 --> 00:25:51,749
+That night I went out
+
+399
+00:25:51,751 --> 00:25:54,919
+and found Jupiter in the night sky and...
+
+400
+00:25:54,921 --> 00:25:57,721
+I spent a long time looking at it, just...
+
+401
+00:25:57,723 --> 00:25:59,223
+Hoping.
+
+402
+00:26:11,102 --> 00:26:13,737
+<i>Surface temp in current position</i>
+
+403
+00:26:13,739 --> 00:26:15,306
+is holding at absolute zero.
+
+404
+00:26:15,308 --> 00:26:18,943
+Prelim service data has us on
+a bed of what looks like ice 11.
+
+405
+00:26:18,945 --> 00:26:23,581
+We should be there, but we're here.
+
+406
+00:26:23,583 --> 00:26:26,350
+We flew 590 million kilometers
+
+407
+00:26:26,352 --> 00:26:28,886
+and then landed 100 meters off the mark.
+
+408
+00:26:28,888 --> 00:26:30,788
+<i>It seems insignificant,</i>
+
+409
+00:26:30,790 --> 00:26:33,223
+but it will be difficult
+to get useful surface analysis.
+
+410
+00:26:33,225 --> 00:26:36,727
+<i>Ironically, what threw the ship off</i>
+<i>course from the original target zone</i>
+
+411
+00:26:36,729 --> 00:26:39,630
+was a reconfirmation of what we had hoped for.
+
+412
+00:26:39,632 --> 00:26:43,267
+<i>If such heat-plume eruptions were</i>
+<i>escaping through the cracks in the ice,</i>
+
+413
+00:26:43,269 --> 00:26:46,770
+<i>it suggested strong underwater thermal</i>
+<i>activity and the potential for life.</i>
+
+414
+00:26:46,772 --> 00:26:49,373
+<i>If they had landed on the target area</i>
+
+415
+00:26:49,375 --> 00:26:52,076
+<i>which was ripe for surface analysis,</i>
+
+416
+00:26:52,078 --> 00:26:54,812
+<i>the mission would have begun</i>
+<i>with extensive surface tests</i>
+
+417
+00:26:54,814 --> 00:26:56,714
+<i>using the ship's robotic arm</i>
+
+418
+00:26:56,716 --> 00:26:59,149
+<i>followed by a few hours</i>
+<i>of drilling through the ice</i>
+
+419
+00:26:59,151 --> 00:27:01,118
+<i>to deploy a remote underwater probe.</i>
+
+420
+00:27:02,621 --> 00:27:04,722
+So how will that affect procedure?
+
+421
+00:27:04,724 --> 00:27:07,224
+What it means is we won't get
+the data we want very easily.
+
+422
+00:27:07,226 --> 00:27:09,326
+That's why I want to move back
+Daniel's surface test
+
+423
+00:27:09,328 --> 00:27:10,794
+and start the drill immediately.
+
+424
+00:27:10,796 --> 00:27:13,831
+Our best hopes of success lies under the ice.
+
+425
+00:27:13,833 --> 00:27:15,733
+Daniel, what do you think?
+
+426
+00:27:15,735 --> 00:27:18,335
+- I wanna argue...
+- I'm sure you would.
+
+427
+00:27:18,337 --> 00:27:20,270
+...But with our current position in the ice,
+
+428
+00:27:20,272 --> 00:27:22,773
+we won't get key data.
+
+429
+00:27:22,775 --> 00:27:24,808
+Let's go for a swim.
+
+430
+00:27:38,391 --> 00:27:40,791
+<i>Drill head is locked and prepped.</i>
+
+431
+00:27:40,793 --> 00:27:43,060
+Beginning extension.
+
+432
+00:27:43,062 --> 00:27:45,062
+Thermal is live.
+
+433
+00:27:47,133 --> 00:27:49,166
+Entering ice layer now.
+
+434
+00:28:07,018 --> 00:28:09,053
+- <i>Do you hear that?</i>
+- <i>Uh-huh.</i>
+
+435
+00:28:16,161 --> 00:28:18,762
+- Are you getting it?
+- Yeah.
+
+436
+00:28:18,764 --> 00:28:20,698
+I think that's just the ice shifting.
+
+437
+00:28:20,700 --> 00:28:25,035
+We can expect more of that
+as the temperature drops.
+
+438
+00:28:58,437 --> 00:29:00,471
+<i>That was stronger than our data projected it.</i>
+
+439
+00:29:00,473 --> 00:29:03,307
+- <i>Are we stable?</i>
+- <i>Re-working the analysis now.</i>
+
+440
+00:29:04,743 --> 00:29:07,411
+Katya, let's try the frequency of these quakes.
+
+441
+00:29:07,413 --> 00:29:09,379
+Increased Tidal activity means
+
+442
+00:29:09,381 --> 00:29:12,282
+<i>there could be more heat than we</i>
+<i>thought beneath the surface.</i>
+
+443
+00:29:15,520 --> 00:29:17,488
+- You're recording this?
+- Yeah.
+
+444
+00:29:25,430 --> 00:29:27,264
+Okay, let's run some diagnostics here,
+
+445
+00:29:27,266 --> 00:29:29,099
+because it seems to be escalating a little bit.
+
+446
+00:29:34,205 --> 00:29:36,940
+<i>Might be some subsurface aftershocks...</i>
+
+447
+00:29:45,151 --> 00:29:47,284
+You saw it.
+
+448
+00:30:03,469 --> 00:30:05,502
+You got to check out this activity.
+
+449
+00:30:05,504 --> 00:30:07,437
+- It's incredible.
+- Everything's fine here.
+
+450
+00:30:07,439 --> 00:30:08,572
+What about the E.C.S.?
+
+451
+00:30:10,576 --> 00:30:14,077
+- How about the hull and landing gear?
+- You see this?
+
+452
+00:30:14,079 --> 00:30:15,979
+- Check out the activity. Incredible.
+- Yeah, no deflection.
+
+453
+00:30:15,981 --> 00:30:19,449
+- E.C.S.?
+- <i>E.C.S. Okay.</i>
+
+454
+00:30:19,451 --> 00:30:21,185
+<i>No problems here.</i>
+
+455
+00:30:21,187 --> 00:30:23,954
+Guys, I saw something.
+
+456
+00:30:23,956 --> 00:30:25,823
+<i>What do you mean?</i>
+
+457
+00:30:27,292 --> 00:30:29,092
+Uh, umm...
+
+458
+00:30:30,228 --> 00:30:32,529
+I saw something outside the ship.
+
+459
+00:30:32,531 --> 00:30:34,565
+From up there, through the porthole.
+
+460
+00:30:34,567 --> 00:30:36,834
+<i>Maybe 100 meters out.</i>
+
+461
+00:30:36,836 --> 00:30:39,603
+<i>I tried to get a video, but I missed it.</i>
+
+462
+00:30:39,605 --> 00:30:42,372
+It was a light down the linea.
+
+463
+00:30:42,374 --> 00:30:45,242
+I was working one of the
+servers when the ice shook.
+
+464
+00:30:45,244 --> 00:30:47,377
+<i>And... it was there.</i>
+
+465
+00:30:47,379 --> 00:30:51,081
+- A light source outside the ship?
+- I know that I saw it.
+
+466
+00:30:51,083 --> 00:30:53,550
+- It was flickering.
+- How strong was the light?
+
+467
+00:30:53,552 --> 00:30:55,185
+Well...
+
+468
+00:30:55,187 --> 00:30:56,887
+It was like an l.E.D.,
+
+469
+00:30:56,889 --> 00:30:58,589
+but dull from refraction.
+
+470
+00:30:58,591 --> 00:31:01,491
+But the--
+oh, it happened so fast.
+
+471
+00:31:01,493 --> 00:31:03,060
+It was there and then it was gone.
+
+472
+00:31:03,062 --> 00:31:04,261
+You mean it moved?
+
+473
+00:31:04,263 --> 00:31:07,197
+Oh, yeah.
+Yeah, it moved.
+
+474
+00:31:07,199 --> 00:31:09,633
+I can check the heat signatures.
+
+475
+00:31:21,646 --> 00:31:24,248
+<i>Do you see anything?</i>
+
+476
+00:31:25,516 --> 00:31:27,584
+<i>I've checked this footage three times.</i>
+
+477
+00:31:27,586 --> 00:31:29,219
+- <i>There's nothing to see.</i>
+- <i>Yeah,</i>
+
+478
+00:31:29,221 --> 00:31:31,088
+but that doesn't mean there was nothing there.
+
+479
+00:31:31,090 --> 00:31:33,590
+If it was too dim, these cameras
+wouldn't have caught it.
+
+480
+00:31:33,592 --> 00:31:36,493
+<i>That's true. A weak chemiluminescence maybe?</i>
+
+481
+00:31:36,495 --> 00:31:39,263
+Triggered by shifts in the ice?
+
+482
+00:31:39,265 --> 00:31:41,665
+A chemical iridescence doesn't fit this description.
+
+483
+00:31:41,667 --> 00:31:44,902
+Maybe. When we prepare the surface test, we'll know.
+
+484
+00:31:44,904 --> 00:31:48,505
+I find the idea of bacteria clinging to
+the underside of the ice more likely.
+
+485
+00:31:48,507 --> 00:31:52,009
+Something that has a luminescent
+response to radioactivity.
+
+486
+00:31:52,011 --> 00:31:54,044
+Yeah, but do you think it actually moved?
+
+487
+00:31:54,046 --> 00:31:55,913
+Scientifically I doubt it.
+
+488
+00:31:55,915 --> 00:32:00,083
+<i>Wait, did you notice that?</i>
+
+489
+00:32:00,085 --> 00:32:01,985
+<i>What?</i>
+
+490
+00:32:04,123 --> 00:32:07,224
+<i>Radiation interference.</i>
+
+491
+00:32:07,226 --> 00:32:09,092
+<i>It's on all the cameras.</i>
+
+492
+00:32:13,565 --> 00:32:17,567
+I think there's another version
+of this that we have to consider.
+
+493
+00:32:17,569 --> 00:32:19,569
+It's entirely possible Andrei
+didn't see anything at all.
+
+494
+00:32:19,571 --> 00:32:23,440
+It's very dark out there and his mind
+could be filling in the blanks.
+
+495
+00:32:23,442 --> 00:32:26,043
+But it could also be our first indication
+
+496
+00:32:26,045 --> 00:32:28,178
+of exactly what we came out here to find.
+
+497
+00:32:35,353 --> 00:32:38,355
+- Is Andrei sleeping yet?
+- No.
+
+498
+00:32:52,671 --> 00:32:55,072
+<i>In those days there was a raw--</i>
+
+499
+00:32:55,074 --> 00:32:57,240
+<i>a raw mix of emotions.</i>
+
+500
+00:32:58,476 --> 00:33:00,677
+<i>We'd come so far, weathered so much.</i>
+
+501
+00:33:06,617 --> 00:33:08,485
+I think we were all in a place
+
+502
+00:33:08,487 --> 00:33:11,989
+where excitement blended with awe...
+
+503
+00:33:11,991 --> 00:33:13,423
+<i>And fear.</i>
+
+504
+00:33:39,151 --> 00:33:40,650
+<i>Okay, so Daniel is my witness.</i>
+
+505
+00:33:40,652 --> 00:33:43,553
+You find a single microbe up there and I win.
+
+506
+00:33:43,555 --> 00:33:46,757
+If you find a still-living microbe, you win.
+
+507
+00:33:46,759 --> 00:33:49,793
+What? Evidence of extinction
+doesn't win me the bet?
+
+508
+00:33:49,795 --> 00:33:52,662
+You always find a technicality like that
+
+509
+00:33:52,664 --> 00:33:55,699
+- for winning.
+- No no no. It's not a technicality.
+
+510
+00:33:55,701 --> 00:33:58,068
+It means that at some point
+in time we were not alone.
+
+511
+00:33:58,070 --> 00:34:00,270
+It is a technicality.
+
+512
+00:34:00,272 --> 00:34:01,671
+- Daniel.
+- What?
+
+513
+00:34:01,673 --> 00:34:03,306
+What are you doing, buddy?
+What's happening?
+
+514
+00:34:03,308 --> 00:34:04,674
+- You lost something?
+- I lost my toothbrush.
+
+515
+00:34:04,676 --> 00:34:06,810
+- What?
+- He's unpacking his entire bunk.
+
+516
+00:34:06,812 --> 00:34:12,449
+- We have to return to Earth.
+- We better call housekeeping.
+
+517
+00:34:15,054 --> 00:34:16,820
+<i>You should get some rest.</i>
+
+518
+00:34:18,523 --> 00:34:22,759
+Not until I know what I saw out there.
+
+519
+00:34:22,761 --> 00:34:24,728
+We're working on it.
+
+520
+00:34:24,730 --> 00:34:26,797
+<i>We'll figure it out.</i>
+
+521
+00:34:28,833 --> 00:34:32,636
+What if I can't believe or trust my own eyes?
+
+522
+00:34:37,142 --> 00:34:38,775
+You need to sleep.
+
+523
+00:34:38,777 --> 00:34:40,844
+We need you to sleep.
+
+524
+00:34:42,547 --> 00:34:44,281
+<i>There's pills, sedatives.</i>
+
+525
+00:34:45,850 --> 00:34:47,818
+<i>No pills.</i>
+
+526
+00:34:47,820 --> 00:34:50,787
+<i>I need to stay alert.</i>
+<i>I need to stay focused.</i>
+
+527
+00:35:08,573 --> 00:35:10,774
+<i>How are you holding up?</i>
+
+528
+00:35:10,776 --> 00:35:12,109
+Good.
+
+529
+00:35:20,119 --> 00:35:22,886
+<i>We've broken through.</i>
+
+530
+00:35:22,888 --> 00:35:24,688
+Water.
+
+531
+00:35:33,799 --> 00:35:37,801
+Probe microphone live.
+
+532
+00:35:51,883 --> 00:35:55,285
+<i>Wow. This is a completely untouched environment.</i>
+
+533
+00:35:56,320 --> 00:35:57,888
+<i>Just waiting.</i>
+
+534
+00:36:00,292 --> 00:36:02,526
+Hmm.
+
+535
+00:36:12,336 --> 00:36:14,604
+We're so far from home, but...
+
+536
+00:36:14,606 --> 00:36:17,207
+It's like looking at lake vostok right now.
+
+537
+00:36:22,947 --> 00:36:26,383
+Radiation levels down here are minimal.
+
+538
+00:36:26,385 --> 00:36:29,786
+And there's definitely a heat source
+somewhere in our target zone.
+
+539
+00:36:36,894 --> 00:36:39,663
+122 meters
+to heat-plume area.
+
+540
+00:36:40,898 --> 00:36:43,466
+There's 100 kilometers of water down there.
+
+541
+00:36:43,468 --> 00:36:45,902
+It puts the trench zones back on Earth to shame.
+
+542
+00:36:45,904 --> 00:36:48,238
+I think we're seeing some tectonic plates here.
+
+543
+00:36:48,240 --> 00:36:50,340
+The sulfur concentration is showing
+
+544
+00:36:50,342 --> 00:36:52,976
+that the thermal vents are closer than expected.
+
+545
+00:36:52,978 --> 00:36:55,579
+Creepy.
+
+546
+00:36:55,581 --> 00:36:57,514
+That's your scientific assessment, is it?
+
+547
+00:36:57,516 --> 00:36:58,982
+- Yep.
+- "Creepy"?
+
+548
+00:36:58,984 --> 00:37:00,984
+Is that the weathering of the ice?
+
+549
+00:37:00,986 --> 00:37:02,986
+<i>Maybe.</i>
+
+550
+00:37:02,988 --> 00:37:04,988
+Could be a bacteria.
+
+551
+00:37:06,357 --> 00:37:08,692
+<i>Grabbing samples</i>
+
+552
+00:37:08,694 --> 00:37:11,761
+<i>and... moving on.</i>
+
+553
+00:37:11,763 --> 00:37:13,964
+<i>20 meters to target zone.</i>
+
+554
+00:37:17,935 --> 00:37:20,704
+<i>Look at how the sunlight penetrates the ice here.</i>
+
+555
+00:37:20,706 --> 00:37:22,672
+It must be much thinner than we thought.
+
+556
+00:37:25,544 --> 00:37:26,843
+You hear that?
+
+557
+00:37:29,013 --> 00:37:31,314
+It could be coming from reverberations,
+
+558
+00:37:31,316 --> 00:37:33,850
+deeper caverns caught in currents.
+
+559
+00:37:33,852 --> 00:37:35,385
+It's almost like a male whale sound.
+
+560
+00:37:35,387 --> 00:37:37,621
+Hey, a little presumptuous, don't you think?
+
+561
+00:37:37,623 --> 00:37:40,357
+- Maybe.
+- Oh yeah.
+
+562
+00:37:40,359 --> 00:37:42,692
+<i>I've got some irregularities in our data here.</i>
+
+563
+00:37:42,694 --> 00:37:44,628
+I'm getting a radiation spike.
+
+564
+00:37:44,630 --> 00:37:46,596
+Rosa, are you picking up on this?
+
+565
+00:37:46,598 --> 00:37:48,865
+<i>There's something in the video feed too.</i>
+
+566
+00:37:48,867 --> 00:37:51,468
+<i>It's similar to what we saw</i>
+<i>after the last ice shift.</i>
+
+567
+00:37:52,937 --> 00:37:55,572
+That doesn't make any sense.
+
+568
+00:37:55,574 --> 00:37:57,907
+The ice should be shielding
+the probe from radiation.
+
+569
+00:37:57,909 --> 00:37:59,743
+<i>It's not coming from above.</i>
+
+570
+00:37:59,745 --> 00:38:01,911
+It's coming from deeper into the target zone.
+
+571
+00:38:01,913 --> 00:38:03,580
+Yeah.
+
+572
+00:38:03,582 --> 00:38:05,949
+Let's adjust course and depth to investigate.
+
+573
+00:38:05,951 --> 00:38:07,450
+Bringing us down.
+
+574
+00:38:14,692 --> 00:38:16,559
+<i>What was that?</i>
+
+575
+00:38:16,561 --> 00:38:18,328
+What's our temperature down here?
+
+576
+00:38:27,538 --> 00:38:29,039
+<i>Get ready to expand the probe arm</i>
+
+577
+00:38:29,041 --> 00:38:31,541
+<i>to get samples.</i>
+
+578
+00:38:31,543 --> 00:38:35,312
+What was that?
+Oh shit.
+
+579
+00:38:38,984 --> 00:38:41,318
+<i>Cycle power.</i>
+
+580
+00:38:41,320 --> 00:38:43,653
+All right, let's run some tests.
+
+581
+00:38:43,655 --> 00:38:44,988
+<i>There was an abnormal shift</i>
+
+582
+00:38:44,990 --> 00:38:46,756
+<i>in the velocity of the current.</i>
+
+583
+00:38:46,758 --> 00:38:48,958
+- <i>It's not reacting.</i>
+- <i>Is it a remote issue?</i>
+
+584
+00:38:48,960 --> 00:38:51,861
+- I've lost control of it.
+- Shit.
+
+585
+00:38:53,632 --> 00:38:54,898
+Can you play back the video?
+
+586
+00:39:10,849 --> 00:39:13,116
+<i>Did something hit the probe?</i>
+
+587
+00:39:13,118 --> 00:39:15,118
+- <i>What data do we have?</i>
+- <i>It'll take time to process,</i>
+
+588
+00:39:15,120 --> 00:39:18,088
+but I'll tell you right now, not much.
+
+589
+00:39:18,090 --> 00:39:20,123
+<i>It seemed like it was right under the probe.</i>
+
+590
+00:39:20,125 --> 00:39:22,525
+<i>What was the last bits of data it saved?</i>
+
+591
+00:39:22,527 --> 00:39:24,627
+The heat surged 50°,
+
+592
+00:39:24,629 --> 00:39:26,996
+but that couldn't have caused a critical...
+
+593
+00:39:26,998 --> 00:39:28,398
+<i>Shit!</i>
+
+594
+00:39:36,741 --> 00:39:39,909
+<i>A surface walk was always heavily debated</i>
+
+595
+00:39:39,911 --> 00:39:42,379
+<i>at all stages of our mission planning.</i>
+
+596
+00:39:42,381 --> 00:39:46,383
+And our main concern then
+was the radiation from Jupiter.
+
+597
+00:39:46,385 --> 00:39:48,518
+I will walk to the target zone
+
+598
+00:39:48,520 --> 00:39:51,388
+and I'll get the body of samples we need.
+
+599
+00:39:51,390 --> 00:39:52,856
+Katya, the radiation alone--
+
+600
+00:39:52,858 --> 00:39:54,657
+the radiation is fluctuating.
+
+601
+00:39:54,659 --> 00:39:56,393
+It was 200 ram last time I checked.
+
+602
+00:39:56,395 --> 00:39:58,128
+I'm willing to take that risk.
+
+603
+00:39:58,130 --> 00:40:01,064
+- What about everything else that could go wrong?
+- It's 100 meters!
+
+604
+00:40:01,066 --> 00:40:03,133
+<i>Having lost the probe, the only way to get the data</i>
+
+605
+00:40:03,135 --> 00:40:05,034
+was to explore the chaos zones
+
+606
+00:40:05,036 --> 00:40:08,037
+where the ice had cracked
+and re-cracked.
+
+607
+00:40:08,039 --> 00:40:12,542
+And this process would expose any microorganisms
+
+608
+00:40:12,544 --> 00:40:14,411
+that have been trapped inside the ice.
+
+609
+00:40:14,413 --> 00:40:16,012
+Somebody's gotta go out there!
+
+610
+00:40:16,014 --> 00:40:19,816
+- It's too risky.
+- Enough! Enough!
+
+611
+00:40:24,989 --> 00:40:28,057
+I feel like it's a critical
+phase and I'm not there.
+
+612
+00:40:28,059 --> 00:40:30,059
+- I just--
+
+613
+00:40:30,061 --> 00:40:32,529
+I just didn't realize it would be this hard.
+
+614
+00:40:34,098 --> 00:40:36,733
+Over.
+
+615
+00:40:39,437 --> 00:40:41,971
+Sounds like a car.
+
+616
+00:40:45,977 --> 00:40:48,711
+You know take him to the game, if you want.
+
+617
+00:40:48,713 --> 00:40:49,946
+Umm...
+
+618
+00:40:52,183 --> 00:40:55,185
+I miss you guys.
+Love you.
+
+619
+00:40:55,187 --> 00:40:56,920
+Over.
+
+620
+00:40:59,458 --> 00:41:01,958
+You okay?
+
+621
+00:41:01,960 --> 00:41:04,461
+Yeah, I am good.
+
+622
+00:41:04,463 --> 00:41:06,696
+I'm good.
+
+623
+00:41:06,698 --> 00:41:08,531
+Not so easy, is it?
+
+624
+00:41:09,467 --> 00:41:11,634
+No.
+
+625
+00:41:11,636 --> 00:41:12,869
+No, it's not.
+
+626
+00:41:16,807 --> 00:41:20,210
+You know, my boy's gonna be
+six when I see him again.
+
+627
+00:41:22,981 --> 00:41:24,848
+<i>He's gonna be proud of you.</i>
+
+628
+00:41:30,120 --> 00:41:31,588
+What would you do
+
+629
+00:41:31,590 --> 00:41:33,122
+if you get out there and you find nothing?
+
+630
+00:41:34,526 --> 00:41:36,092
+Well, even if we found nothing,
+
+631
+00:41:36,094 --> 00:41:37,994
+it's in effect a discovery.
+
+632
+00:41:37,996 --> 00:41:40,964
+It would make me very frustrated.
+
+633
+00:41:40,966 --> 00:41:43,233
+I know there's something there.
+
+634
+00:41:43,235 --> 00:41:45,535
+<i>Check on nav bays 3 and 4.</i>
+
+635
+00:41:48,273 --> 00:41:50,507
+Mission control,
+repeat please. Over.
+
+636
+00:41:50,509 --> 00:41:54,644
+<i>William, I've got some static</i>
+<i>in the comm array feed up here.</i>
+
+637
+00:41:54,646 --> 00:41:56,279
+<i>It looks like a radiation spike.</i>
+
+638
+00:41:56,281 --> 00:41:58,848
+Have you tried recycling the system?
+
+639
+00:41:58,850 --> 00:42:02,785
+<i>Rosa, we've lost your feed.</i>
+
+640
+00:42:02,787 --> 00:42:04,187
+<i>Come in, Europa One.</i>
+
+641
+00:42:04,189 --> 00:42:06,856
+<i>Europa One, come in.</i>
+
+642
+00:42:06,858 --> 00:42:08,791
+<i>Come in, Europa One.</i>
+
+643
+00:42:08,793 --> 00:42:11,027
+<i>Europa One, come in.</i>
+
+644
+00:42:13,030 --> 00:42:14,230
+<i>Europa One.</i>
+
+645
+00:42:35,019 --> 00:42:37,287
+<i>Europa One, Europa One, do you--</i>
+
+646
+00:42:41,792 --> 00:42:44,227
+<i>Now try as you might to prepare for everything,</i>
+
+647
+00:42:44,229 --> 00:42:46,796
+<i>there will always be that unknown element.</i>
+
+648
+00:42:49,200 --> 00:42:51,668
+<i>In this case a solar storm hit,</i>
+
+649
+00:42:51,670 --> 00:42:55,171
+<i>damaging key systems, including</i>
+<i>communication with mission control.</i>
+
+650
+00:43:00,011 --> 00:43:03,346
+Okay. Oxygen is flowing.
+We're good.
+
+651
+00:43:12,590 --> 00:43:14,824
+This never gets old.
+
+652
+00:43:16,328 --> 00:43:18,595
+Okay, commencing egress.
+
+653
+00:43:20,665 --> 00:43:22,332
+<i>William, I'm gonna tether the emus</i>
+
+654
+00:43:22,334 --> 00:43:24,867
+<i>once we're...</i>
+<i>On the hull.</i>
+
+655
+00:43:24,869 --> 00:43:26,669
+<i>Roger that.</i>
+
+656
+00:43:26,671 --> 00:43:28,838
+<i>Andrei and James had to do</i>
+
+657
+00:43:28,840 --> 00:43:30,940
+<i>an e.V.A.</i>
+<i>To repair the system--</i>
+
+658
+00:43:30,942 --> 00:43:34,010
+<i>a bit like performing ballet</i>
+<i>and rocket science</i>
+
+659
+00:43:34,012 --> 00:43:36,279
+<i>at 125,000 Miles an hour.</i>
+
+660
+00:43:36,281 --> 00:43:40,249
+This reminds me of the iss thrust fix all over again.
+
+661
+00:43:40,251 --> 00:43:43,353
+<i>5 hours, 13 minutes remaining on Eva.</i>
+
+662
+00:43:43,355 --> 00:43:46,723
+You know what time it is back on Earth?
+
+663
+00:43:46,725 --> 00:43:50,093
+Battery block D is non-functional.
+
+664
+00:43:52,363 --> 00:43:54,297
+<i>2 hours 55 minutes.</i>
+
+665
+00:43:55,733 --> 00:43:57,734
+All right, I've got green lights
+on the fan arrays.
+
+666
+00:43:57,736 --> 00:43:59,736
+How are we doing on the comm power supply?
+
+667
+00:43:59,738 --> 00:44:01,304
+So I said to the guy, "you know,
+
+668
+00:44:01,306 --> 00:44:03,406
+I can't just come along
+and stay as long as you want.
+
+669
+00:44:03,408 --> 00:44:05,274
+You have to tell me
+how long it's gonna take."
+
+670
+00:44:05,276 --> 00:44:08,111
+Okay, guys, 50 minutes remaining on Eva.
+
+671
+00:44:08,113 --> 00:44:10,413
+I can't keep you out there much longer.
+
+672
+00:44:10,415 --> 00:44:13,016
+<i>Panels one through six are clear.</i>
+
+673
+00:44:13,018 --> 00:44:14,851
+<i>Moving onto seven.</i>
+
+674
+00:44:16,387 --> 00:44:18,221
+<i>We just need a little more time, William.</i>
+
+675
+00:44:18,223 --> 00:44:20,757
+<i>I think it's a blown fuse</i>
+<i>in the communication panel.</i>
+
+676
+00:44:20,759 --> 00:44:22,358
+<i>You've got 37 minutes.</i>
+
+677
+00:44:22,360 --> 00:44:25,161
+<i>If you don't find it,</i>
+<i>we'll need to begin regress.</i>
+
+678
+00:44:25,163 --> 00:44:27,864
+<i>Okay we're at the communication panel.</i>
+
+679
+00:44:27,866 --> 00:44:29,799
+Opening up the door.
+
+680
+00:44:33,671 --> 00:44:35,438
+What do you got, Andrei?
+
+681
+00:44:35,440 --> 00:44:37,306
+James, get a look at this.
+
+682
+00:44:37,308 --> 00:44:38,941
+Whoo.
+
+683
+00:44:38,943 --> 00:44:40,410
+The receptors are shot.
+
+684
+00:44:40,412 --> 00:44:43,780
+Yeah, William, the whole board is fried.
+
+685
+00:44:43,782 --> 00:44:45,181
+I gotta take the pins out.
+
+686
+00:44:45,183 --> 00:44:47,383
+Okay.
+
+687
+00:44:50,921 --> 00:44:52,155
+Taking out the first pin.
+
+688
+00:44:52,157 --> 00:44:54,857
+<i>Come on.</i>
+
+689
+00:44:54,859 --> 00:44:56,259
+And first pin is clear.
+
+690
+00:44:56,261 --> 00:44:58,194
+Going for number two.
+
+691
+00:44:58,196 --> 00:45:00,329
+<i>Proceed.</i>
+
+692
+00:45:01,265 --> 00:45:02,932
+Come on.
+
+693
+00:45:02,934 --> 00:45:04,834
+Shit.
+
+694
+00:45:04,836 --> 00:45:06,269
+It's not coming.
+
+695
+00:45:07,337 --> 00:45:10,807
+Okay. William,
+we've got a frozen pin.
+
+696
+00:45:10,809 --> 00:45:13,376
+<i>Okay, guys, leave that last panel for now.</i>
+
+697
+00:45:13,378 --> 00:45:15,344
+What do you think?
+
+698
+00:45:15,346 --> 00:45:18,448
+We can't tell how bad it is till we get in there.
+
+699
+00:45:20,417 --> 00:45:22,351
+You sure, man?
+You don't want to put heat on there first?
+
+700
+00:45:22,353 --> 00:45:24,253
+- It just feels--
+- the damage could spread.
+
+701
+00:45:27,358 --> 00:45:30,426
+- <i>Okay.</i>
+- <i>What the hell is going on out there?</i>
+
+702
+00:45:33,897 --> 00:45:35,364
+Okay. I'm set.
+
+703
+00:45:35,366 --> 00:45:37,166
+Come on.
+
+704
+00:45:37,168 --> 00:45:39,502
+Ah! Shit!
+It snapped.
+
+705
+00:45:39,504 --> 00:45:41,904
+The panel snapped.
+
+706
+00:45:41,906 --> 00:45:44,841
+I ripped my glove.
+
+707
+00:45:44,843 --> 00:45:45,942
+I ripped--
+
+708
+00:45:47,211 --> 00:45:49,011
+<i>It's okay. Andrei's okay.</i>
+
+709
+00:45:49,013 --> 00:45:50,480
+- <i>We're tethered.</i>
+- <i>It's a tear of one inch.</i>
+
+710
+00:45:50,482 --> 00:45:52,014
+- I've cut my skin.
+- I got him hooked to me.
+
+711
+00:45:52,016 --> 00:45:55,518
+Andrei, do not attempt
+to climb back in on your own.
+
+712
+00:45:55,520 --> 00:45:57,019
+- James?
+- <i>I see him, I see him.</i>
+
+713
+00:45:57,021 --> 00:45:59,522
+I got him.
+I'm going for him. Hang on.
+
+714
+00:45:59,524 --> 00:46:01,257
+- It's a small rip.
+- Take it easy.
+
+715
+00:46:01,259 --> 00:46:03,526
+- Just relax big guy.
+- <i>Keep calm, Andrei.</i>
+
+716
+00:46:03,528 --> 00:46:05,294
+- I'm bleeding.
+- <i>Save your oxygen.</i>
+
+717
+00:46:05,296 --> 00:46:08,464
+He's losing air, but he's got his hand on it.
+
+718
+00:46:08,466 --> 00:46:11,434
+<i>I got you.</i>
+
+719
+00:46:11,436 --> 00:46:14,837
+- I got you.
+- Oxygen pressure is dropping steadily.
+
+720
+00:46:14,839 --> 00:46:16,939
+You don't have much time.
+
+721
+00:46:25,249 --> 00:46:26,849
+<i>James, listen to me.</i>
+
+722
+00:46:26,851 --> 00:46:28,551
+<i>His oxygen level is red-lighting.</i>
+
+723
+00:46:28,553 --> 00:46:30,787
+Get him back inside the ship.
+
+724
+00:46:30,789 --> 00:46:32,789
+Okay.
+
+725
+00:46:34,925 --> 00:46:38,127
+We're at the lock.
+I'm coming in.
+
+726
+00:46:38,129 --> 00:46:39,495
+Stop, don't go in.
+
+727
+00:46:39,497 --> 00:46:43,499
+- Why?
+- There's something on your suit.
+
+728
+00:46:43,501 --> 00:46:45,434
+It's hydrazine.
+
+729
+00:46:45,436 --> 00:46:48,871
+Uh, guys, we've got a problem.
+
+730
+00:46:48,873 --> 00:46:50,540
+I've got hydrazine on my suit.
+
+731
+00:46:50,542 --> 00:46:53,242
+It must have hit me when we popped the panel.
+
+732
+00:46:53,244 --> 00:46:54,443
+He's covered in it.
+
+733
+00:46:54,445 --> 00:46:56,579
+It's in the seams.
+It's-- it's everywhere.
+
+734
+00:46:56,581 --> 00:46:59,949
+- What can we do to decontaminate?
+- We can't.
+
+735
+00:46:59,951 --> 00:47:02,819
+If we bring him in, the air on
+the ship will become toxic.
+
+736
+00:47:02,821 --> 00:47:05,087
+Come on.
+Shit.
+
+737
+00:47:05,089 --> 00:47:06,956
+We should get him in the lock,
+get a V-cam reading.
+
+738
+00:47:06,958 --> 00:47:09,358
+We can't.
+There'd be too much risk of lingering contamination.
+
+739
+00:47:09,360 --> 00:47:11,494
+We gotta figure out a way to get the suit clean.
+
+740
+00:47:11,496 --> 00:47:13,196
+It's not coming out.
+
+741
+00:47:13,198 --> 00:47:14,463
+I'm totally screwed.
+
+742
+00:47:14,465 --> 00:47:15,965
+<i>Andrei, get in the lock.</i>
+
+743
+00:47:15,967 --> 00:47:17,366
+<i>We need to depressurize your suit now.</i>
+
+744
+00:47:17,368 --> 00:47:18,968
+<i>Then we'll figure out how to get James in.</i>
+
+745
+00:47:18,970 --> 00:47:20,436
+Seriously?!
+
+746
+00:47:20,438 --> 00:47:21,470
+Come on, man, I got--
+
+747
+00:47:21,472 --> 00:47:23,339
+I've got 20 minutes of oxygen.
+
+748
+00:47:23,341 --> 00:47:25,308
+<i>Is there no way to get it clean?</i>
+
+749
+00:47:27,979 --> 00:47:30,446
+- Andrei.
+- I'm not going in.
+
+750
+00:47:30,448 --> 00:47:31,981
+I'll get you out of the suit...
+
+751
+00:47:31,983 --> 00:47:33,950
+- What?
+- <i>...Into the airlock.</i>
+
+752
+00:47:33,952 --> 00:47:35,852
+You'll be out of the suit less than two minutes.
+
+753
+00:47:35,854 --> 00:47:38,120
+- It's survivable.
+- <i>Is that even possible?</i>
+
+754
+00:47:38,122 --> 00:47:40,022
+I'll get you out of this.
+I'll fix it.
+
+755
+00:47:40,024 --> 00:47:41,891
+No. Andrei,
+you're gonna black out.
+
+756
+00:47:41,893 --> 00:47:43,559
+- <i>No, I'm not.</i>
+- <i>This isn't gonna work.</i>
+
+757
+00:47:43,561 --> 00:47:48,264
+- <i>We're going to lose them both.</i>
+- <i>James, he's fading.</i>
+
+758
+00:47:48,266 --> 00:47:49,532
+<i>You have to get him in the lock.</i>
+
+759
+00:47:56,107 --> 00:47:57,907
+Okay. Shit.
+
+760
+00:47:59,509 --> 00:48:01,377
+<i>Rosa, close the airlock now!</i>
+
+761
+00:48:01,379 --> 00:48:03,646
+James is no longer attached to the hull.
+
+762
+00:48:03,648 --> 00:48:05,915
+- I said close the lock!
+- <i>Rosa, close the lock!</i>
+
+763
+00:48:11,289 --> 00:48:13,522
+<i>Airlock is closed.</i>
+
+764
+00:48:13,524 --> 00:48:16,659
+Oxygen is flowing.
+Repressurization in 10 minutes.
+
+765
+00:48:16,661 --> 00:48:19,028
+This is insane.
+You gotta go get him.
+
+766
+00:48:19,030 --> 00:48:22,899
+We can't. By the time
+we get there, he'd--
+
+767
+00:48:26,536 --> 00:48:28,070
+James?
+
+768
+00:48:29,106 --> 00:48:31,908
+Yeah yeah yeah,
+I'm here. Umm...
+
+769
+00:48:32,676 --> 00:48:34,543
+Oh, Christ, I can't...
+
+770
+00:48:34,545 --> 00:48:37,680
+I'm gone.
+
+771
+00:48:37,682 --> 00:48:39,248
+Oh shit.
+
+772
+00:48:43,553 --> 00:48:45,588
+Is Andrei okay?
+
+773
+00:48:46,556 --> 00:48:48,491
+<i>Yeah. He's okay.</i>
+
+774
+00:48:50,193 --> 00:48:51,527
+<i>I'm sorry, James.</i>
+
+775
+00:48:54,564 --> 00:48:56,565
+Don't be sorry.
+
+776
+00:48:58,268 --> 00:49:00,169
+It was an accident, you know?
+
+777
+00:49:01,104 --> 00:49:02,638
+Um...
+
+778
+00:49:05,075 --> 00:49:09,712
+I-- I don't have much time,
+so tell Andrei...
+
+779
+00:49:12,549 --> 00:49:14,617
+Tell Andrei he's a--
+
+780
+00:49:14,619 --> 00:49:17,086
+He's a crazy son of a bitch, you know?
+
+781
+00:49:17,088 --> 00:49:19,388
+<i>And I love him for trying</i>
+<i>to save my life and...</i>
+
+782
+00:49:23,427 --> 00:49:26,662
+If that had been Jamie, I...
+
+783
+00:49:28,131 --> 00:49:29,966
+I love you so much.
+
+784
+00:49:34,604 --> 00:49:36,072
+<i>Forgive me.</i>
+
+785
+00:49:39,209 --> 00:49:42,545
+I thought I was trying to do
+something great for mankind.
+
+786
+00:49:46,316 --> 00:49:49,085
+I always said it was worth the risk but...
+
+787
+00:50:00,697 --> 00:50:03,766
+Forgive me for--
+for hurting you.
+
+788
+00:50:11,641 --> 00:50:16,012
+A part of me wishes I could just
+float out here forever, you know?
+
+789
+00:50:22,652 --> 00:50:25,654
+<i>I can't s--</i>
+<i>I can't see anything.</i>
+
+790
+00:50:25,656 --> 00:50:27,757
+I can't see any...
+
+791
+00:51:26,117 --> 00:51:28,350
+It's stupid to argue like this.
+
+792
+00:51:29,820 --> 00:51:33,355
+Katya, no way you can go out
+there without us behind you.
+
+793
+00:51:34,791 --> 00:51:37,626
+And, William, with all due respect,
+
+794
+00:51:37,628 --> 00:51:41,397
+I think we should all decide
+together how to do this.
+
+795
+00:51:45,102 --> 00:51:46,802
+I know what you think, William.
+
+796
+00:51:48,405 --> 00:51:49,772
+What about you, Daniel?
+
+797
+00:51:51,341 --> 00:51:53,275
+It's ill-advised.
+
+798
+00:51:53,277 --> 00:51:55,845
+A surface walk was always a question mark.
+
+799
+00:51:55,847 --> 00:51:58,247
+Well, we can do it.
+I'll walk the equipment out
+
+800
+00:51:58,249 --> 00:52:00,249
+and you can run the analysis from here.
+
+801
+00:52:00,251 --> 00:52:01,884
+We can get what we came for.
+
+802
+00:52:01,886 --> 00:52:04,220
+And if she goes out there
+and we never see her again?
+
+803
+00:52:04,222 --> 00:52:05,821
+Think hard about that.
+
+804
+00:52:07,891 --> 00:52:09,525
+I think she should do it.
+I'm sorry, William.
+
+805
+00:52:09,527 --> 00:52:11,894
+Thank you.
+
+806
+00:52:13,530 --> 00:52:16,132
+- Andrei?
+- It's too dangerous.
+
+807
+00:52:16,867 --> 00:52:20,803
+I vote no.
+Absolutely.
+
+808
+00:52:21,805 --> 00:52:23,873
+So that's a tie then.
+
+809
+00:52:24,808 --> 00:52:26,542
+Rosa?
+
+810
+00:52:26,544 --> 00:52:29,345
+<i>Katya made our complete cosmic insignificance</i>
+
+811
+00:52:29,347 --> 00:52:31,213
+<i>seem like a call to arms.</i>
+
+812
+00:52:33,517 --> 00:52:35,251
+<i>What can I say?</i>
+
+813
+00:52:35,253 --> 00:52:37,219
+<i>She was right.</i>
+
+814
+00:52:40,157 --> 00:52:41,857
+<i>She's still right.</i>
+
+815
+00:52:41,859 --> 00:52:43,526
+<i>Two hours of e.V.A.</i>
+
+816
+00:52:43,528 --> 00:52:45,161
+<i>210 meters out.</i>
+
+817
+00:52:45,163 --> 00:52:46,595
+<i>Search the top layer of ice</i>
+
+818
+00:52:46,597 --> 00:52:48,197
+<i>while Daniel runs analysis back here.</i>
+
+819
+00:52:48,199 --> 00:52:49,431
+Copy that.
+
+820
+00:53:21,866 --> 00:53:22,898
+Be careful.
+
+821
+00:53:25,236 --> 00:53:27,903
+Compared to the breadth
+of knowledge yet to be known,
+
+822
+00:53:27,905 --> 00:53:30,206
+what does your life actually matter?
+
+823
+00:53:53,264 --> 00:53:56,799
+<i>30 minutes for depressurization.</i>
+
+824
+00:54:02,806 --> 00:54:05,941
+Batteries live.
+
+825
+00:54:08,311 --> 00:54:09,845
+<i>Switching to battery power.</i>
+
+826
+00:54:09,847 --> 00:54:11,714
+<i>Pressure's at 30 kpa.</i>
+
+827
+00:54:11,716 --> 00:54:13,749
+<i>How's your prep?</i>
+
+828
+00:54:18,288 --> 00:54:20,889
+<i>30 seconds to egress.</i>
+
+829
+00:54:20,891 --> 00:54:22,725
+Good luck.
+
+830
+00:54:24,594 --> 00:54:26,996
+<i>I'm ready. ( Sighs )</i>
+
+831
+00:54:59,562 --> 00:55:01,497
+I can't believe I'm here.
+
+832
+00:55:07,804 --> 00:55:10,005
+<i>We're here.</i>
+
+833
+00:55:10,007 --> 00:55:12,007
+<i>This is incredible.</i>
+
+834
+00:55:13,410 --> 00:55:14,843
+Radiation is holding steady.
+
+835
+00:55:14,845 --> 00:55:17,980
+We're at 50 millisieverts per hour--
+
+836
+00:55:17,982 --> 00:55:19,848
+- within acceptable limits.
+- I'll check
+
+837
+00:55:19,850 --> 00:55:21,016
+if I can see her from upstairs.
+
+838
+00:55:25,789 --> 00:55:28,357
+<i>It's so still out here.</i>
+
+839
+00:55:30,593 --> 00:55:33,462
+It's so--
+I don't know what the word is.
+
+840
+00:55:35,699 --> 00:55:37,966
+Creepy?
+
+841
+00:55:37,968 --> 00:55:40,836
+<i>I was going to go with "cosmically outstanding."</i>
+
+842
+00:55:51,081 --> 00:55:54,917
+I wish I could take one of these
+gloves off and touch the ice.
+
+843
+00:55:56,086 --> 00:55:58,987
+- Really feel it.
+- Please don't.
+
+844
+00:56:01,458 --> 00:56:03,459
+I have visual of her from here.
+
+845
+00:56:32,088 --> 00:56:34,523
+I'm heading towards the target zone now.
+
+846
+00:56:34,525 --> 00:56:36,925
+<i>We've got your back.</i>
+
+847
+00:56:36,927 --> 00:56:39,428
+<i>Life support systems look good.</i>
+
+848
+00:56:46,136 --> 00:56:48,737
+<i>Okay, Katya, you are crossing</i>
+
+849
+00:56:48,739 --> 00:56:50,105
+<i>into the target zone.</i>
+
+850
+00:56:51,107 --> 00:56:52,641
+<i>You see that?</i>
+
+851
+00:56:54,544 --> 00:56:56,078
+Where the ice is less deteriorated?
+
+852
+00:56:56,080 --> 00:56:57,880
+Just set up in the middle of that.
+
+853
+00:56:57,882 --> 00:57:00,115
+- Here?
+- <i>Exactly.</i>
+
+854
+00:57:01,184 --> 00:57:03,118
+She must have been out there for an hour.
+
+855
+00:57:06,189 --> 00:57:08,557
+But it-- it felt
+like an eternity.
+
+856
+00:57:09,759 --> 00:57:12,161
+<i>Each minute seemed to</i>
+
+857
+00:57:12,163 --> 00:57:15,864
+<i>divide and divide again</i>
+<i>into endless moments.</i>
+
+858
+00:57:15,866 --> 00:57:17,433
+First sample ready for scan.
+
+859
+00:57:19,003 --> 00:57:21,503
+Sending data back to you now.
+
+860
+00:57:22,972 --> 00:57:24,573
+Are you reading?
+
+861
+00:57:25,708 --> 00:57:27,576
+Running analysis, stand by.
+
+862
+00:57:34,717 --> 00:57:37,519
+We're negative for trace carbon
+<i>and chemotropic processes.</i>
+
+863
+00:57:40,056 --> 00:57:42,024
+<i>Can you try ice with more trace rust?</i>
+
+864
+00:57:42,026 --> 00:57:43,625
+<i>You could feel...</i>
+
+865
+00:57:44,561 --> 00:57:46,128
+Every minute is somehow longer
+
+866
+00:57:46,130 --> 00:57:47,996
+<i>than it had ever been before.</i>
+
+867
+00:57:51,134 --> 00:57:53,802
+- Let's give it another shot.
+- <i>Why don't you take</i>
+
+868
+00:57:53,804 --> 00:57:55,504
+the equipment down the linea to zone three?
+
+869
+00:57:57,107 --> 00:57:59,007
+<i>Radiation is trending upwards, Katya.</i>
+
+870
+00:57:59,009 --> 00:58:00,742
+<i>You've been out there 70 minutes.</i>
+
+871
+00:58:00,744 --> 00:58:02,244
+We're so close.
+
+872
+00:58:02,246 --> 00:58:04,246
+How much time can you give me, William?
+
+873
+00:58:04,248 --> 00:58:06,982
+<i>You've only got time</i>
+<i>for a few more sample sets.</i>
+
+874
+00:58:19,129 --> 00:58:21,697
+<i>All right, Katya, it's time to come back.</i>
+
+875
+00:58:21,699 --> 00:58:23,632
+<i>Okay.</i>
+
+876
+00:58:23,634 --> 00:58:26,134
+I'm digging out
+a sub-surface sample
+
+877
+00:58:26,136 --> 00:58:27,870
+that isn't radiation blasted.
+
+878
+00:58:29,706 --> 00:58:31,740
+Are you guys seeing this?
+
+879
+00:58:37,814 --> 00:58:39,515
+Here.
+
+880
+00:58:39,517 --> 00:58:43,185
+I'm getting imaging... now.
+
+881
+00:58:50,127 --> 00:58:51,693
+It's a unicellular organism,
+
+882
+00:58:51,695 --> 00:58:54,897
+<i>something akin to an algae.</i>
+
+883
+00:59:00,136 --> 00:59:01,670
+I knew it.
+
+884
+00:59:07,311 --> 00:59:11,013
+- What is it?
+- I don't know for sure, but...
+
+885
+00:59:11,015 --> 00:59:12,814
+I mean, it's not like it has a name.
+
+886
+00:59:12,816 --> 00:59:15,117
+It looks like something precambrian to me.
+
+887
+00:59:15,119 --> 00:59:18,587
+That's my first guess
+on an Earth-based analogue.
+
+888
+00:59:18,589 --> 00:59:20,889
+I don't believe it.
+
+889
+00:59:20,891 --> 00:59:22,624
+We did it.
+
+890
+00:59:46,716 --> 00:59:49,284
+Okay, Katya, let's get you back into the ship
+
+891
+00:59:49,286 --> 00:59:52,654
+- and sort out this data.
+- Packing up.
+
+892
+00:59:52,656 --> 00:59:54,923
+I hope the champagne's ready.
+
+893
+00:59:58,861 --> 01:00:00,128
+Look at that.
+
+894
+01:00:01,598 --> 01:00:03,699
+Do you guys read that light in the distance?
+
+895
+01:00:05,602 --> 01:00:06,935
+<i>We're not reading anything.</i>
+
+896
+01:00:06,937 --> 01:00:09,271
+It looks like some kind of chemical iridescence.
+
+897
+01:00:09,273 --> 01:00:13,041
+I'm going to get closer to investigate.
+
+898
+01:00:14,277 --> 01:00:17,379
+Reserve oxygen will give her another 90 minutes.
+
+899
+01:00:17,381 --> 01:00:19,681
+<i>Okay, Katya.</i>
+
+900
+01:00:19,683 --> 01:00:21,283
+<i>Proceed with caution.</i>
+
+901
+01:00:21,285 --> 01:00:23,986
+I can't see her.
+
+902
+01:00:23,988 --> 01:00:25,921
+She's moving farther out.
+
+903
+01:00:37,700 --> 01:00:38,800
+It's beautiful.
+
+904
+01:00:40,370 --> 01:00:42,638
+Andrei.
+This looks like
+
+905
+01:00:42,640 --> 01:00:44,873
+it could be the light you were describing.
+
+906
+01:00:48,411 --> 01:00:50,812
+<i>I can see it again.</i>
+
+907
+01:00:50,814 --> 01:00:52,814
+Can you check on my readouts?
+
+908
+01:00:53,950 --> 01:00:55,283
+<i>It's-- it's-- it's--</i>
+
+909
+01:00:55,285 --> 01:00:57,152
+it's hard to say.
+
+910
+01:00:57,154 --> 01:01:00,389
+I mean maybe there's other microbial organisms
+
+911
+01:01:00,391 --> 01:01:02,224
+out there that eat through the ice.
+
+912
+01:01:02,226 --> 01:01:05,193
+This is a much more complex ecosystem
+
+913
+01:01:05,195 --> 01:01:07,262
+than we'd previously thought.
+
+914
+01:01:09,433 --> 01:01:11,400
+I wanna see if it's reacting to my lights.
+
+915
+01:01:12,368 --> 01:01:14,403
+I'm going to turn them off.
+
+916
+01:01:20,044 --> 01:01:21,410
+I'm going to get closer.
+
+917
+01:01:21,412 --> 01:01:23,445
+<i>Hold that action, Katya.</i>
+
+918
+01:01:28,919 --> 01:01:30,719
+<i>Katya, do you read me?</i>
+
+919
+01:01:30,721 --> 01:01:32,954
+We have severe electromagnetic interference.
+
+920
+01:01:32,956 --> 01:01:34,690
+<i>Did you see that?</i>
+
+921
+01:01:34,692 --> 01:01:36,024
+She has to come back.
+
+922
+01:01:36,026 --> 01:01:37,292
+...have visual.
+
+923
+01:01:37,294 --> 01:01:39,461
+I'm going to try to get it back.
+
+924
+01:01:43,466 --> 01:01:45,333
+I'm seeing it through the ice.
+
+925
+01:01:45,335 --> 01:01:48,704
+I think it's some sort of bioluminescence.
+
+926
+01:01:48,706 --> 01:01:50,405
+<i>We've got the data, Katya.</i>
+
+927
+01:01:50,407 --> 01:01:52,374
+<i>Heat radiation levels are moving with it.</i>
+
+928
+01:01:52,376 --> 01:01:54,876
+<i>I can't wrap my head around this.</i>
+
+929
+01:01:56,313 --> 01:01:58,046
+<i>Okay, the ice is thin here,</i>
+
+930
+01:01:58,048 --> 01:02:00,148
+<i>but it seems stable.</i>
+<i>If I get close,</i>
+
+931
+01:02:00,150 --> 01:02:02,918
+- I should be able to get a better look.
+- <i>Keep your line open.</i>
+
+932
+01:02:02,920 --> 01:02:04,352
+<i>I want to know what's</i>
+<i>happening out there.</i>
+
+933
+01:02:04,354 --> 01:02:05,921
+<i>The ground is not stable!</i>
+
+934
+01:02:05,923 --> 01:02:08,390
+<i>The ice is breaking.</i>
+
+935
+01:02:08,392 --> 01:02:11,493
+Katya, can you hear me?
+Come back to the ship now!
+
+936
+01:02:11,495 --> 01:02:14,196
+It's cracking the ice!
+
+937
+01:02:14,198 --> 01:02:17,232
+My foot is...
+
+938
+01:02:23,406 --> 01:02:25,173
+- Katya, do you read me? Come in!
+- Get her back in!
+
+939
+01:02:25,175 --> 01:02:27,442
+- Get her back in!
+- Katya, come in. Do you read me?
+
+940
+01:02:27,444 --> 01:02:29,244
+- She's not listening.
+- Rosa, do you see her out there?
+
+941
+01:02:29,246 --> 01:02:31,379
+<i>Nothing. Just the ice.</i>
+
+942
+01:02:36,352 --> 01:02:38,520
+- She's under the ice.
+- <i>What?</i>
+
+943
+01:02:41,124 --> 01:02:43,959
+Under the water.
+
+944
+01:02:49,933 --> 01:02:51,967
+We've still got her helmet cam.
+
+945
+01:03:52,461 --> 01:03:54,329
+Whatever it was,
+
+946
+01:03:54,331 --> 01:03:56,565
+it was reacting to the light on her helmet.
+
+947
+01:03:56,567 --> 01:03:59,568
+That's the behavior of a complex organism.
+
+948
+01:04:01,437 --> 01:04:03,338
+The logs, the data--
+
+949
+01:04:03,340 --> 01:04:05,841
+they don't show any proof of complex life.
+
+950
+01:04:05,843 --> 01:04:07,609
+We can't leave until we have that.
+
+951
+01:04:09,045 --> 01:04:11,313
+We don't know how long we'll be stable here.
+
+952
+01:04:11,315 --> 01:04:14,316
+And we've lost two of our crew.
+
+953
+01:04:14,318 --> 01:04:16,117
+If we never leave,
+
+954
+01:04:16,119 --> 01:04:19,588
+no one on Earth will ever
+know what we discovered.
+
+955
+01:04:21,524 --> 01:04:23,191
+I agree.
+
+956
+01:04:23,193 --> 01:04:25,260
+We need to leave now.
+
+957
+01:04:27,630 --> 01:04:30,298
+When the next launch window opens, we take off.
+
+958
+01:04:31,234 --> 01:04:32,601
+Mmm.
+
+959
+01:04:32,603 --> 01:04:36,071
+I want all the data
+secured and double-checked...
+
+960
+01:04:36,073 --> 01:04:39,274
+Especially everything Katya found.
+
+961
+01:04:51,387 --> 01:04:55,156
+- <i>T-minus 32 seconds to liftoff.</i>
+
+962
+01:04:55,158 --> 01:04:57,092
+<i>Prepping for ascent ignition.</i>
+
+963
+01:04:58,428 --> 01:05:00,095
+Orbital sync is established.
+
+964
+01:05:00,097 --> 01:05:03,498
+<i>Docking operation in t-minus eight minutes.</i>
+
+965
+01:05:11,340 --> 01:05:14,109
+- <i>Give me a systems check.</i>
+- <i>Engine temperature's rising.</i>
+
+966
+01:05:14,111 --> 01:05:17,646
+<i>Andrei?</i>
+
+967
+01:05:17,648 --> 01:05:19,547
+<i>Booster 3 is stuck at 30%.</i>
+
+968
+01:05:19,549 --> 01:05:22,217
+<i>We've got to launch now.</i>
+
+969
+01:05:34,398 --> 01:05:37,499
+Launch in three, two, one.
+
+970
+01:05:44,206 --> 01:05:45,206
+<i>What the hell?</i>
+
+971
+01:05:45,208 --> 01:05:46,608
+I can't keep it steady.
+
+972
+01:05:46,610 --> 01:05:48,977
+<i>Our trajectory is way off course.</i>
+
+973
+01:05:52,982 --> 01:05:56,418
+Injectors are melting!
+
+974
+01:05:56,420 --> 01:05:58,620
+We've got engine mixture ratio errors
+
+975
+01:05:58,622 --> 01:06:00,422
+in engines two and three.
+
+976
+01:06:00,424 --> 01:06:03,625
+- We're nowhere near orbital transfer!
+- Hey!
+
+977
+01:06:03,627 --> 01:06:06,594
+I can try to correct course at apogee.
+
+978
+01:06:06,596 --> 01:06:08,730
+- The vernier thrusters might do it!
+- We need to shut
+
+979
+01:06:08,732 --> 01:06:10,632
+- <i>the valves down!</i>
+- <i>Get us back down on the surface.</i>
+
+980
+01:06:10,634 --> 01:06:13,001
+- What?
+- Don't engage the second burn.
+
+981
+01:06:13,003 --> 01:06:14,636
+You mean crash us?
+
+982
+01:06:14,638 --> 01:06:17,639
+What's happening up there?
+
+983
+01:06:23,446 --> 01:06:25,380
+Valves dow...
+
+984
+01:06:36,158 --> 01:06:38,693
+2,000 meters.
+
+985
+01:06:38,695 --> 01:06:40,161
+1900.
+
+986
+01:06:40,163 --> 01:06:41,629
+I can't keep it steady.
+
+987
+01:06:41,631 --> 01:06:46,468
+- ...still dropping!
+- <i>...Coming in too fast!</i>
+
+988
+01:06:51,374 --> 01:06:52,674
+What are you doing?
+William!
+
+989
+01:06:52,676 --> 01:06:55,477
+- William!
+- I'm going to slow us down.
+
+990
+01:06:57,681 --> 01:07:01,016
+I'm going to blow the water shielding.
+
+991
+01:07:02,685 --> 01:07:05,286
+It'll create... thrust!
+
+992
+01:07:05,288 --> 01:07:07,722
+- Brace for impact!
+- <i>200 meters!</i>
+
+993
+01:08:24,700 --> 01:08:27,802
+Andrei? Andrei?
+
+994
+01:08:27,804 --> 01:08:30,605
+- Huh?
+- Wake up, wake up!
+
+995
+01:08:33,776 --> 01:08:37,212
+William?
+
+996
+01:08:39,448 --> 01:08:41,616
+Okay.
+
+997
+01:08:48,190 --> 01:08:49,757
+He's dead.
+
+998
+01:08:49,759 --> 01:08:51,626
+He saved us.
+
+999
+01:08:57,800 --> 01:08:59,834
+<i>Europa wasn't ready to let us go yet.</i>
+
+1000
+01:09:02,872 --> 01:09:04,706
+It quickly became apparent that
+
+1001
+01:09:04,708 --> 01:09:07,175
+we crashed into the original landing zone.
+
+1002
+01:09:08,277 --> 01:09:10,445
+Ironic, I suppose.
+
+1003
+01:09:13,449 --> 01:09:16,384
+<i>This zone was much warmer,</i>
+
+1004
+01:09:16,386 --> 01:09:19,821
+<i>much more active than any</i>
+<i>previous data had suggested.</i>
+
+1005
+01:09:19,823 --> 01:09:22,724
+Underwater vents had rendered the ice brittle
+
+1006
+01:09:22,726 --> 01:09:25,160
+and unstable and constantly shifting
+
+1007
+01:09:25,162 --> 01:09:26,794
+<i>and then you add onto that</i>
+
+1008
+01:09:26,796 --> 01:09:29,197
+<i>William had jettisoned the water shielding</i>
+
+1009
+01:09:29,199 --> 01:09:32,200
+<i>on descent and that had saved them,</i>
+
+1010
+01:09:32,202 --> 01:09:34,903
+but it also left them
+
+1011
+01:09:34,905 --> 01:09:38,173
+dangerously exposed to radiation.
+
+1012
+01:09:38,175 --> 01:09:41,376
+<i>We're leaking oxygen.</i>
+
+1013
+01:09:41,378 --> 01:09:43,645
+And we're also losing heat--
+
+1014
+01:09:43,647 --> 01:09:46,447
+three degrees since I started checking.
+
+1015
+01:09:46,449 --> 01:09:50,618
+If I would bet, we'd freeze before we suffocate.
+
+1016
+01:09:51,820 --> 01:09:54,889
+<i>The exterior light should be working.</i>
+
+1017
+01:09:54,891 --> 01:09:57,659
+<i>Daniel, can you check?</i>
+
+1018
+01:09:58,661 --> 01:10:00,628
+- Daniel?
+- <i>I am.</i>
+
+1019
+01:10:00,630 --> 01:10:02,397
+<i>It's not good.</i>
+
+1020
+01:10:03,332 --> 01:10:06,701
+The ice is cracking under the ship.
+
+1021
+01:10:06,703 --> 01:10:11,206
+<i>You can almost see the ice/water interface.</i>
+
+1022
+01:10:12,441 --> 01:10:14,576
+We're gonna be under the ice
+in a matter of hours.
+
+1023
+01:10:16,812 --> 01:10:18,780
+Our last shot is docking with the orbiter...
+
+1024
+01:10:20,349 --> 01:10:22,717
+And using its back-up
+life support systems.
+
+1025
+01:10:22,719 --> 01:10:25,753
+If the propulsion system is still alive...
+
+1026
+01:10:26,989 --> 01:10:29,357
+I can get us into orbit.
+
+1027
+01:10:30,326 --> 01:10:32,260
+Come help me.
+
+1028
+01:10:42,004 --> 01:10:43,771
+It's pointless.
+
+1029
+01:10:52,248 --> 01:10:54,816
+Is this what you're looking for?
+
+1030
+01:10:54,818 --> 01:10:57,285
+Yeah.
+Thank you.
+
+1031
+01:11:06,930 --> 01:11:08,329
+Shit!
+
+1032
+01:11:12,802 --> 01:11:14,936
+- Are you all right?
+- The ice broke through.
+
+1033
+01:11:14,938 --> 01:11:17,472
+This is it.
+It's happening.
+
+1034
+01:11:21,710 --> 01:11:23,044
+It's the end.
+
+1035
+01:11:31,487 --> 01:11:33,554
+We'll find a way.
+
+1036
+01:11:34,857 --> 01:11:36,457
+We have to.
+
+1037
+01:11:41,397 --> 01:11:43,464
+The fuel line is partially frozen.
+
+1038
+01:11:43,466 --> 01:11:45,833
+That caused the loss of thrust.
+
+1039
+01:11:45,835 --> 01:11:47,902
+We're lodged in the ice.
+
+1040
+01:11:47,904 --> 01:11:49,470
+Can we even take off properly?
+
+1041
+01:11:49,472 --> 01:11:51,005
+If we time it right, maybe.
+
+1042
+01:11:51,007 --> 01:11:53,474
+Two hours is the fastest we can fix it,
+
+1043
+01:11:53,476 --> 01:11:55,777
+but that is if...
+
+1044
+01:11:55,779 --> 01:11:58,079
+Two of us is working on it.
+
+1045
+01:11:58,081 --> 01:12:00,315
+- You mean the three of us?
+- No.
+
+1046
+01:12:00,317 --> 01:12:02,483
+You have to stay inside, prep engines.
+
+1047
+01:12:06,021 --> 01:12:08,856
+The fix must happen outside the ship.
+
+1048
+01:12:10,794 --> 01:12:13,461
+<i>That was that.</i>
+
+1049
+01:12:14,430 --> 01:12:16,497
+Are you ready?
+
+1050
+01:12:17,700 --> 01:12:19,734
+Are you?
+
+1051
+01:12:19,736 --> 01:12:21,703
+<i>Daniel and Andrei entered the airlock</i>
+
+1052
+01:12:21,705 --> 01:12:23,438
+for final
+de-pressurization.
+
+1053
+01:12:24,373 --> 01:12:26,107
+Here.
+
+1054
+01:12:31,780 --> 01:12:33,781
+Two hours.
+
+1055
+01:12:33,783 --> 01:12:36,417
+Then I'll see you both
+back here. Yeah?
+
+1056
+01:12:42,424 --> 01:12:44,992
+<i>And that...</i>
+
+1057
+01:12:50,733 --> 01:12:52,100
+...brings us to now.
+
+1058
+01:12:56,405 --> 01:12:58,439
+<i>If we don't make it...</i>
+
+1059
+01:13:01,811 --> 01:13:03,478
+This record...
+
+1060
+01:13:08,150 --> 01:13:09,951
+One day...
+
+1061
+01:13:13,088 --> 01:13:14,989
+<i>Just in case.</i>
+
+1062
+01:13:17,025 --> 01:13:18,760
+Just in case.
+
+1063
+01:13:58,867 --> 01:14:01,169
+<i>Depressurization complete.</i>
+
+1064
+01:14:01,171 --> 01:14:03,805
+Pressure is 25 kilopascals.
+
+1065
+01:14:05,074 --> 01:14:07,175
+I'll go first,
+
+1066
+01:14:08,444 --> 01:14:10,077
+make sure the ice is stable.
+
+1067
+01:14:10,079 --> 01:14:13,481
+<i>Beginning egress.</i>
+
+1068
+01:14:13,483 --> 01:14:14,982
+Roger that.
+
+1069
+01:14:17,787 --> 01:14:19,921
+<i>System signals are strong.</i>
+
+1070
+01:14:22,659 --> 01:14:24,959
+Hatch is open.
+
+1071
+01:14:30,466 --> 01:14:32,066
+Oh shit.
+
+1072
+01:14:33,702 --> 01:14:35,102
+The ladder is a bit skewed,
+
+1073
+01:14:35,104 --> 01:14:37,205
+but I think I can make it.
+
+1074
+01:14:39,741 --> 01:14:41,742
+The ice beneath the ship is cracked,
+
+1075
+01:14:41,744 --> 01:14:43,845
+but it looks sturdy.
+
+1076
+01:14:43,847 --> 01:14:46,747
+Taking my first step now.
+
+1077
+01:14:46,749 --> 01:14:48,883
+<i>Be careful.</i>
+
+1078
+01:14:48,885 --> 01:14:51,118
+<i>We're picking up the same radiation signature.</i>
+
+1079
+01:14:51,120 --> 01:14:54,822
+Okay.
+Taking my first step now.
+
+1080
+01:14:54,824 --> 01:14:56,891
+<i>I am on the ice.</i>
+
+1081
+01:14:59,795 --> 01:15:01,496
+Oh God.
+I can feel it...
+
+1082
+01:15:03,032 --> 01:15:06,100
+Daniel? Daniel?!
+
+1083
+01:15:06,102 --> 01:15:08,236
+- Do you read me?
+- <i>Daniel?!</i>
+
+1084
+01:15:12,709 --> 01:15:15,009
+Daniel? Andrei?
+
+1085
+01:15:16,145 --> 01:15:18,012
+Talk to me!
+
+1086
+01:15:31,894 --> 01:15:34,829
+Rosa, shut off the exterior lights.
+
+1087
+01:15:34,831 --> 01:15:38,065
+- Turn off the exterior lights!
+- Okay.
+
+1088
+01:15:39,801 --> 01:15:41,536
+<i>I'm getting nothing.</i>
+
+1089
+01:15:41,538 --> 01:15:43,237
+<i>His Mike is dead.</i>
+<i>His camera is dead.</i>
+
+1090
+01:15:43,239 --> 01:15:45,139
+<i>He just vanished.</i>
+
+1091
+01:15:48,644 --> 01:15:50,311
+<i>Do you read me?</i>
+
+1092
+01:15:52,247 --> 01:15:54,215
+What the hell is going on out there?
+
+1093
+01:15:54,217 --> 01:15:56,250
+<i>I don't know.</i>
+
+1094
+01:15:56,252 --> 01:15:58,185
+What?
+
+1095
+01:15:58,187 --> 01:16:01,322
+I lost him. I lost him.
+
+1096
+01:16:02,624 --> 01:16:04,926
+The ice cracked beneath him.
+
+1097
+01:16:04,928 --> 01:16:07,228
+Daniel? Daniel?
+
+1098
+01:16:07,230 --> 01:16:09,230
+<i>He was surrounded by lights,</i>
+
+1099
+01:16:09,232 --> 01:16:11,032
+<i>then he was gone.</i>
+
+1100
+01:16:25,915 --> 01:16:27,748
+Tell me...
+
+1101
+01:16:30,619 --> 01:16:33,120
+Tell me we can still patch the fuel line.
+
+1102
+01:16:36,359 --> 01:16:38,993
+<i>Andrei?</i>
+<i>Say something.</i>
+
+1103
+01:16:40,028 --> 01:16:42,597
+- Andrei?
+- <i>We can't.</i>
+
+1104
+01:16:44,299 --> 01:16:46,367
+There's one thing still worth trying.
+
+1105
+01:16:49,172 --> 01:16:52,173
+<i>The communication array</i>
+<i>is still salvageable.</i>
+
+1106
+01:16:54,643 --> 01:16:57,278
+<i>I can fix it if I take parts</i>
+
+1107
+01:16:57,280 --> 01:16:58,980
+<i>from the life support.</i>
+
+1108
+01:16:58,982 --> 01:17:02,383
+I don't know.
+
+1109
+01:17:02,385 --> 01:17:04,819
+<i>Can you still prep data sync?</i>
+
+1110
+01:17:11,693 --> 01:17:13,794
+<i>Rosa, we can do this.</i>
+
+1111
+01:17:31,713 --> 01:17:33,180
+How will I know when?
+
+1112
+01:17:33,182 --> 01:17:36,083
+<i>When I remove life support batteries</i>
+
+1113
+01:17:36,085 --> 01:17:38,252
+you'll lose power in the command module.
+
+1114
+01:17:38,254 --> 01:17:41,255
+Then data sync...
+
+1115
+01:17:43,792 --> 01:17:45,860
+<i>Keep talking to me.</i>
+
+1116
+01:17:45,862 --> 01:17:47,895
+<i>Keep the line open.</i>
+
+1117
+01:17:52,200 --> 01:17:53,367
+It's dark.
+
+1118
+01:17:53,369 --> 01:17:55,036
+It's not gonna be easy.
+
+1119
+01:17:55,038 --> 01:17:56,404
+<i>Andrei?</i>
+
+1120
+01:17:56,406 --> 01:17:58,239
+I've lost your camera again.
+
+1121
+01:17:58,241 --> 01:18:00,808
+- <i>Can you hear me?</i>
+- <i>Uh-huh.</i>
+
+1122
+01:18:00,810 --> 01:18:02,710
+- Okay.
+- <i>It's not far.</i>
+
+1123
+01:18:02,712 --> 01:18:04,345
+Camera's back up.
+
+1124
+01:18:04,347 --> 01:18:07,415
+10 paces...
+
+1125
+01:18:25,200 --> 01:18:26,934
+Andrei?
+
+1126
+01:18:26,936 --> 01:18:28,402
+Come on, come on.
+
+1127
+01:18:41,883 --> 01:18:44,418
+<i>Andrei, I can see the light behind you.</i>
+
+1128
+01:18:50,025 --> 01:18:51,792
+Hurry, please.
+
+1129
+01:18:53,061 --> 01:18:55,496
+<i>I can see water under the ship.</i>
+
+1130
+01:18:55,498 --> 01:18:57,431
+Come on, hold on.
+
+1131
+01:19:00,136 --> 01:19:01,502
+Another malfunction.
+
+1132
+01:19:01,504 --> 01:19:03,871
+I need to check the drives.
+
+1133
+01:19:07,509 --> 01:19:09,176
+Work, please.
+
+1134
+01:19:11,113 --> 01:19:13,447
+- It's just one more tweak and I'm done.
+- <i>Andrei?</i>
+
+1135
+01:19:13,449 --> 01:19:16,383
+<i>Do you read me?</i>
+<i>Do you read me?!</i>
+
+1136
+01:19:18,754 --> 01:19:21,188
+<i>There's a cabinet in the cockpit...</i>
+
+1137
+01:19:21,190 --> 01:19:23,390
+<i>...That I've been working with.</i>
+
+1138
+01:19:23,392 --> 01:19:25,025
+<i>Join the wires...</i>
+
+1139
+01:19:26,261 --> 01:19:28,095
+<i>And the systems will start.</i>
+
+1140
+01:19:28,097 --> 01:19:30,097
+Command module is just about dead.
+
+1141
+01:19:33,001 --> 01:19:35,035
+We're losing cameras here.
+
+1142
+01:19:35,037 --> 01:19:36,470
+I'm moving to the--
+
+1143
+01:19:44,079 --> 01:19:45,446
+Andrei?
+
+1144
+01:19:46,782 --> 01:19:48,983
+I'm connecting the wires.
+
+1145
+01:19:50,418 --> 01:19:52,052
+Almost there.
+Almost there.
+
+1146
+01:19:54,322 --> 01:19:58,292
+Rosa, it's working! It's working!
+
+1147
+01:20:08,937 --> 01:20:11,972
+Oh God.
+<i>We're running out of time!</i>
+
+1148
+01:20:15,410 --> 01:20:16,944
+Communications are up.
+
+1149
+01:20:16,946 --> 01:20:20,014
+<i>You did it!</i>
+
+1150
+01:20:20,016 --> 01:20:23,918
+You need to see this!
+Are you getting this?!
+
+1151
+01:20:25,521 --> 01:20:28,155
+The luminescence is all around the ship now!
+
+1152
+01:20:28,157 --> 01:20:30,257
+The exterior cameras are dying.
+
+1153
+01:20:31,827 --> 01:20:33,294
+Can you hear me?
+
+1154
+01:20:33,296 --> 01:20:34,995
+Andrei?
+
+1155
+01:20:36,165 --> 01:20:38,332
+The ship is sinking into the ice!
+
+1156
+01:20:38,334 --> 01:20:39,333
+Oh!
+
+1157
+01:20:43,972 --> 01:20:45,272
+Andrei?
+
+1158
+01:20:45,274 --> 01:20:48,275
+Do-- do you read?
+Andrei?
+
+1159
+01:20:50,912 --> 01:20:51,912
+Andrei, do you read?
+
+1160
+01:20:51,914 --> 01:20:53,881
+Talk to me.
+Talk to me.
+
+1161
+01:20:54,616 --> 01:20:56,016
+Andrei, talk to me!
+
+1162
+01:21:37,926 --> 01:21:40,394
+<i>Compared to the breadth</i>
+<i>of knowledge yet to be known...</i>
+
+1163
+01:21:40,396 --> 01:21:44,331
+<i>...what does your life actually matter?</i>
+
+1164
+01:22:40,655 --> 01:22:42,957
+<i>In those final moments,</i>
+
+1165
+01:22:42,959 --> 01:22:45,726
+<i>knowing communication had been re-established,</i>
+
+1166
+01:22:45,728 --> 01:22:48,729
+<i>Rosa chose to open the airlock.</i>
+
+1167
+01:22:53,435 --> 01:22:55,269
+<i>I got the call at 3:00 A.M.</i>
+
+1168
+01:22:55,271 --> 01:22:58,472
+Telling me that communication
+had been re-established.
+
+1169
+01:22:58,474 --> 01:23:01,442
+By the time I got into our mission control
+
+1170
+01:23:01,444 --> 01:23:03,444
+<i>our servers were flooded</i>
+<i>with images of our crew.</i>
+
+1171
+01:23:08,183 --> 01:23:10,451
+Our mission had finally come back to us.
+
+1172
+01:23:21,529 --> 01:23:24,031
+<i>We saw the sacrifices</i>
+<i>they made for each other</i>
+
+1173
+01:23:24,033 --> 01:23:26,467
+<i>to keep the mission alive,</i>
+
+1174
+01:23:26,469 --> 01:23:28,769
+<i>to push the discovery further.</i>
+
+1175
+01:23:33,475 --> 01:23:35,576
+And that final image--
+
+1176
+01:23:35,578 --> 01:23:37,378
+startling.
+
+1177
+01:23:38,580 --> 01:23:40,647
+Terrifying.
+Completely beyond
+
+1178
+01:23:40,649 --> 01:23:43,484
+our wildest theoretic models.
+
+1179
+01:23:45,053 --> 01:23:47,087
+<i>The discovery of this creature</i>
+
+1180
+01:23:47,089 --> 01:23:50,057
+<i>is simply extraordinary.</i>
+
+1181
+01:23:50,725 --> 01:23:53,193
+<i>We now know that our universe</i>
+
+1182
+01:23:53,195 --> 01:23:56,196
+<i>is far stranger, far more alive</i>
+
+1183
+01:23:56,198 --> 01:23:58,098
+<i>than we had ever imagined.</i>
+
+1184
+01:23:59,200 --> 01:24:01,168
+<i>The crew of Europa One</i>
+
+1185
+01:24:01,170 --> 01:24:03,604
+<i>changed the fundamental context</i>
+
+1186
+01:24:03,606 --> 01:24:06,240
+<i>in which all of humanity</i>
+<i>understands itself.</i>
+
+1187
+01:24:08,076 --> 01:24:11,412
+<i>I don't know what greater measure of success</i>
+
+1188
+01:24:11,414 --> 01:24:12,813
+<i>they could have achieved.</i>
+
+1189
+01:24:12,815 --> 01:24:15,282
+- Is this smiling? Smiling?
+- Wet your lip.
+
+1190
+01:24:15,284 --> 01:24:17,351
+- Yeah.
+- Uh-huh.

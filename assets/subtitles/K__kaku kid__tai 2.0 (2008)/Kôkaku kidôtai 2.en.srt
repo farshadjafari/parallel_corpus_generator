@@ -1,0 +1,3641 @@
+1
+00:00:22,059 --> 00:00:23,350
+<i>All patrolling air units...</i>
+
+2
+00:00:23,519 --> 00:00:26,440
+<i>a 208 is in progress
+in the C-13 district of Newport City.</i>
+
+3
+00:00:26,559 --> 00:00:28,649
+<i>Airspace over this area will be closed.</i>
+
+4
+00:00:28,769 --> 00:00:29,519
+<i>Repeat.</i>
+
+5
+00:00:29,649 --> 00:00:34,030
+<i>All patrolling air units, a 208 is in progress
+in the C-13 district of Newport City.</i>
+
+6
+00:00:34,200 --> 00:00:36,030
+<i>Airspace over this area will be closed.</i>
+
+7
+00:00:36,200 --> 00:00:37,240
+<i>Repeat.</i>
+
+8
+00:01:13,859 --> 00:01:16,239
+<i>There's no need for concern.</i>
+
+9
+00:01:16,359 --> 00:01:19,069
+<i>We can fix it
+by redoing it in our country.</i>
+
+10
+00:01:19,200 --> 00:01:20,659
+<i>Redo it?</i>
+
+11
+00:01:20,780 --> 00:01:23,829
+<i>A program with no bugs doesn't exist...</i>
+
+12
+00:01:23,950 --> 00:01:28,210
+<i>and there's no program
+that is impossible to debug. Am I wrong?</i>
+
+13
+00:01:28,329 --> 00:01:30,289
+<i>You don't understand.</i>
+
+14
+00:01:30,420 --> 00:01:33,049
+<i>We're not even sure
+that Project 2501 really is a bug.</i>
+
+15
+00:01:33,170 --> 00:01:35,259
+<i>Originally the purpose of
+this project was to...</i>
+
+16
+00:01:35,379 --> 00:01:38,629
+<i>Major,
+Section 6 is in position and ready to move in.</i>
+
+17
+00:01:40,599 --> 00:01:41,430
+<i>Major!</i>
+
+18
+00:01:41,549 --> 00:01:43,099
+<i>I can hear you.</i>
+
+19
+00:01:44,099 --> 00:01:46,599
+<i>There's a lot of noise in your brain.</i>
+
+20
+00:01:47,189 --> 00:01:48,939
+It's that time of the month.
+
+21
+00:01:58,609 --> 00:02:03,200
+Don't you think there's going to be trouble
+if we interfere with a Section 6 case.
+
+22
+00:02:03,739 --> 00:02:06,620
+The target is
+a notoriously bad diplomat...
+
+23
+00:02:06,790 --> 00:02:10,120
+the best they can do is deport him.
+
+24
+00:02:10,250 --> 00:02:12,330
+We're the only ones who can get our hands dirty.
+
+25
+00:02:12,460 --> 00:02:14,710
+It's time.
+Let's move to the rendezvous point.
+
+26
+00:02:57,340 --> 00:02:59,340
+What? The police?
+
+27
+00:03:07,310 --> 00:03:09,430
+Stop it!
+Who told you to fire?!
+
+28
+00:03:09,520 --> 00:03:10,349
+Put your guns down!
+
+29
+00:03:14,689 --> 00:03:16,860
+I'm entitled to diplomatic immunity.
+
+30
+00:03:16,979 --> 00:03:18,530
+I want to talk to the person in charge.
+
+31
+00:03:18,650 --> 00:03:23,240
+Taking classified programmers out of the country
+compromises national security.
+
+32
+00:03:23,870 --> 00:03:27,370
+We can also have you brought up
+on kidnapping charges...
+
+33
+00:03:27,539 --> 00:03:29,240
+so let him go.
+
+34
+00:03:29,539 --> 00:03:30,829
+That's not possible.
+
+35
+00:03:30,960 --> 00:03:34,670
+Mr. Daita has requested political asylum,
+and we have a signed affidavit.
+
+36
+00:03:34,789 --> 00:03:35,500
+When?
+
+37
+00:03:35,629 --> 00:03:37,539
+I don't have to explain.
+
+38
+00:03:37,670 --> 00:03:40,259
+My country has the right,
+in accordance with international law...
+
+39
+00:03:40,379 --> 00:03:43,219
+to offer anyone protection
+and safe passage.
+
+40
+00:03:43,379 --> 00:03:45,719
+The affidavit is at the embassy.
+
+41
+00:03:45,889 --> 00:03:47,800
+I'll send you a copy
+in a couple of days.
+
+42
+00:03:47,889 --> 00:03:49,889
+Are you sure?
+You'll be killed if you return.
+
+43
+00:03:50,020 --> 00:03:52,020
+I'm warning you
+to watch your comments.
+
+44
+00:03:52,099 --> 00:03:54,810
+Our country is
+a peace loving democracy.
+
+45
+00:03:54,900 --> 00:03:56,060
+<i>Oh really?</i>
+
+46
+00:03:59,689 --> 00:04:01,110
+The window!
+Shoot!
+
+47
+00:04:11,289 --> 00:04:12,620
+Thermo-optic camouflage.
+
+48
+00:09:01,289 --> 00:09:02,370
+Aramaki, what a surprise.
+
+49
+00:09:02,450 --> 00:09:05,830
+So, what business brings the chief of Section 9
+to the Ministry of Foreign Affairs.
+
+50
+00:09:05,919 --> 00:09:10,289
+It's about the secret talks scheduled
+with the Gavel Republic tomorrow.
+
+51
+00:09:10,379 --> 00:09:12,169
+Oh, the Official Development Assistance.
+
+52
+00:09:12,259 --> 00:09:16,720
+The regime that took over Gavel after the revolution
+demands financial aid, supposedly for redevelopment.
+
+53
+00:09:16,840 --> 00:09:21,009
+They boast about democracy,
+but they're no better than the Iast Iot.
+
+54
+00:09:21,100 --> 00:09:25,519
+Now they feel entitled to funds
+because of our past exploitation. No gratitude.
+
+55
+00:09:25,600 --> 00:09:27,730
+What's the Ministry going to do?
+
+56
+00:09:27,809 --> 00:09:31,610
+Well, there's a problem.
+The leader of the former junta...
+
+57
+00:09:31,730 --> 00:09:33,779
+that controlled their country
+is here seeking political asylum.
+
+58
+00:09:33,899 --> 00:09:35,610
+You mean Colonel Malles, correct?
+
+59
+00:09:35,950 --> 00:09:40,450
+Yes, and that means we either deny Gavel the funds
+and treat Malles as a political refuge...
+
+60
+00:09:40,580 --> 00:09:42,080
+or help them and kick him out.
+
+61
+00:09:42,159 --> 00:09:44,039
+It's a tricky situation.
+
+62
+00:09:44,909 --> 00:09:47,909
+My personal opinion is if we could find
+a politically acceptable reason...
+
+63
+00:09:48,000 --> 00:09:51,629
+I'd like to forcibly
+deport him immediately.
+
+64
+00:09:59,259 --> 00:10:02,929
+By the way, I want to thank you for your help
+with that other political asylum situation.
+
+65
+00:10:03,009 --> 00:10:05,519
+Nakamura from Section 6
+was also grateful.
+
+66
+00:10:05,600 --> 00:10:09,350
+We diplomats must avoid
+messy situations, you realize.
+
+67
+00:10:15,440 --> 00:10:16,690
+Access.
+
+68
+00:10:16,940 --> 00:10:18,029
+We've lost response.
+
+69
+00:10:18,110 --> 00:10:19,860
+What's happened to the EEG output.
+
+70
+00:10:19,950 --> 00:10:23,279
+It's normal.
+I'll switch to Simex mode.
+
+71
+00:10:25,240 --> 00:10:27,200
+The Foreign Minister's interpreter.
+
+72
+00:10:27,289 --> 00:10:31,750
+23 minutes ago, her brain
+was hacked into through a phone line.
+
+73
+00:10:33,590 --> 00:10:36,129
+Foreign Intelligence warned us
+about this.
+
+74
+00:10:36,210 --> 00:10:39,629
+The "Puppet Master" has begun to infiltrate terminals
+throughout our network.
+
+75
+00:10:39,759 --> 00:10:45,139
+We believe it's extremely likely that he'll target
+the secret talks scheduled with the Republic of Gavel.
+
+76
+00:10:45,259 --> 00:10:48,600
+We've put everyone attending the talks
+under surveillance.
+
+77
+00:10:49,690 --> 00:10:54,980
+I suspect once he hacked into her ghost,
+he'd use her to assassinate key delegates.
+
+78
+00:10:55,110 --> 00:10:59,860
+So how long do we have before this hacker breaks
+through her barrier program and reaches her ghost?
+
+79
+00:10:59,990 --> 00:11:04,120
+Roughly 2 hours.
+He's using an old-fashioned HA-3 virus.
+
+80
+00:11:04,200 --> 00:11:06,740
+After that, we'll have to break the connection
+to avoid any danger.
+
+81
+00:11:07,330 --> 00:11:10,500
+Batou and Ishikawa are tracking
+the signal source from their car.
+
+82
+00:11:10,620 --> 00:11:11,250
+Contact them.
+
+83
+00:11:29,179 --> 00:11:32,350
+That infamous mystery hacker,
+the Puppet Master, has shown up here?
+
+84
+00:11:32,980 --> 00:11:37,360
+We guess he or she is American,
+but we have no clue about age, sex or background.
+
+85
+00:11:37,440 --> 00:11:40,110
+Since last winter,
+he's been popping up in EU countries.
+
+86
+00:11:40,190 --> 00:11:42,200
+He's wanted for crimes
+including stock manipulation...
+
+87
+00:11:42,279 --> 00:11:43,860
+illegal information gathering,
+political terrorism...
+
+88
+00:11:43,950 --> 00:11:45,570
+computer ethic infringements...
+
+89
+00:11:45,700 --> 00:11:49,659
+and is under suspicion for several other crimes.
+He's on the international most wanted list.
+
+90
+00:11:50,120 --> 00:11:56,289
+The nickname Puppet Master
+comes from the ghost hacking.
+
+91
+00:11:56,379 --> 00:11:58,629
+It's the first time
+he's appeared in this country.
+
+92
+00:11:59,169 --> 00:12:03,049
+Well, if he's so skilled how come
+he's using an outdated HA-3 virus?
+
+93
+00:12:03,129 --> 00:12:07,600
+A more current technique would be
+harder to detect and trace...
+
+94
+00:12:07,720 --> 00:12:13,600
+but it might also arouse suspicion
+about Colonel Malles role in this affair.
+
+95
+00:12:13,730 --> 00:12:18,899
+Are you saying he's using an old method
+just so no-one suspects Malles?
+
+96
+00:12:18,980 --> 00:12:23,190
+Or maybe Malles is just a pawn,
+used to make us think that...
+
+97
+00:12:23,279 --> 00:12:26,570
+Maybe there is another sponsor.
+
+98
+00:12:26,700 --> 00:12:30,740
+Now you're stretching it.
+It's not like you have any hard evidence.
+
+99
+00:12:30,830 --> 00:12:32,500
+Evidence?
+
+100
+00:12:34,289 --> 00:12:37,289
+Just a whisper.
+I hear it in my ghost.
+
+101
+00:12:38,090 --> 00:12:40,710
+Which reminds me.
+Are you still using that revolver?
+
+102
+00:12:40,799 --> 00:12:43,590
+You should stop worrying about
+the automatics jamming up.
+
+103
+00:12:43,669 --> 00:12:45,470
+I like my Matever.
+
+104
+00:12:45,590 --> 00:12:49,759
+Stopping power is more important
+than your taste in guns.
+
+105
+00:12:49,889 --> 00:12:53,679
+Since it's my ass on the line out there,
+use a Zastaber.
+
+106
+00:12:54,600 --> 00:12:55,309
+Major.
+
+107
+00:12:55,769 --> 00:12:57,769
+I want to ask you something.
+
+108
+00:12:57,899 --> 00:13:01,269
+Why did you transfer a guy like me
+from the police force?
+
+109
+00:13:01,360 --> 00:13:03,990
+Because we need a guy like you.
+
+110
+00:13:04,899 --> 00:13:09,409
+You're an honest cop who's never
+stepped out of line, and you're a family man.
+
+111
+00:13:09,490 --> 00:13:13,289
+Except for the slight brain augmentation,
+your body's almost completely human.
+
+112
+00:13:14,159 --> 00:13:16,659
+No matter how excellent...
+
+113
+00:13:16,789 --> 00:13:22,629
+identical standard systems have faults.
+
+114
+00:13:22,919 --> 00:13:24,259
+What's true for the group
+is also true for the individual.
+
+115
+00:13:24,340 --> 00:13:27,299
+Over specialize and you breed in weakness.
+It's a slow death.
+
+116
+00:13:27,379 --> 00:13:28,679
+That's all.
+
+117
+00:13:40,230 --> 00:13:41,059
+Hurry up!
+
+118
+00:13:41,070 --> 00:13:42,980
+I'll be right there!
+
+119
+00:13:47,700 --> 00:13:49,950
+We're already 40 seconds late!
+
+120
+00:13:50,029 --> 00:13:51,659
+I'll be done in 5 seconds.
+
+121
+00:13:51,779 --> 00:13:53,830
+It's gonna be one of those days.
+
+122
+00:14:00,080 --> 00:14:01,580
+Hey. Sorry, pal.
+
+123
+00:14:01,669 --> 00:14:07,009
+My last partner who got busted workin'
+as an illegal alien, was a lot better than you.
+
+124
+00:14:09,639 --> 00:14:14,139
+You're that desperate to find out
+your wife's feelings, you'd ghost-hack her?
+
+125
+00:14:14,220 --> 00:14:18,559
+She hardly talks to me and
+all of a sudden she wants a divorce!
+
+126
+00:14:18,690 --> 00:14:24,230
+What's worse, my daughter ignores me and got it
+into her head that I'm the one cheating on her mom.
+
+127
+00:14:24,360 --> 00:14:27,360
+How did you get your hands
+on a barrier breaker?
+
+128
+00:14:27,490 --> 00:14:32,240
+From this really nice programmer
+I met in a bar.
+
+129
+00:14:32,370 --> 00:14:37,200
+He overheard my sob story. My wife's lawyer
+stopped me seeing her and my daughter.
+
+130
+00:14:37,289 --> 00:14:41,879
+He showed me how to hack in from different places
+along the route, without being traced.
+
+131
+00:14:46,879 --> 00:14:49,379
+Are you trying to kill yourself,
+asshole?!
+
+132
+00:14:49,470 --> 00:14:52,179
+Looks like we're not the only ones
+in a hurry round here.
+
+133
+00:14:56,100 --> 00:14:56,929
+No one here!
+
+134
+00:14:57,889 --> 00:15:02,600
+Every time we get to the source
+they're already long gone.
+
+135
+00:15:02,730 --> 00:15:04,230
+We're just wasting our time.
+
+136
+00:15:04,360 --> 00:15:05,519
+<i>Quit complaining!</i>
+
+137
+00:15:05,610 --> 00:15:10,700
+<i>Kusanagi and Togusa are heading to the next area
+the hacker's expected to access from. Stay alert.</i>
+
+138
+00:15:10,779 --> 00:15:12,529
+What are we looking for, Chief?
+
+139
+00:15:12,620 --> 00:15:13,450
+<i>Anything.</i>
+
+140
+00:15:14,620 --> 00:15:17,080
+Stupid old fart.
+Are we just meant to ask around?
+
+141
+00:15:17,159 --> 00:15:18,909
+Oh, shit...
+
+142
+00:15:19,080 --> 00:15:21,539
+I missed him!
+
+143
+00:15:21,620 --> 00:15:24,669
+Hey, Pop,
+did you see the trash truck?
+
+144
+00:15:24,750 --> 00:15:26,169
+Who wants to know?
+
+145
+00:15:26,250 --> 00:15:28,169
+Just answer me.
+Did you see it or not?
+
+146
+00:15:28,549 --> 00:15:31,799
+Yeah, I saw the trash man...
+
+147
+00:15:31,929 --> 00:15:34,679
+making a call, so I thought I had enough time
+to bring my garbage down.
+
+148
+00:15:38,429 --> 00:15:40,309
+Hey!
+Can't you take this?
+
+149
+00:15:40,940 --> 00:15:44,519
+A trash truck? Clever.
+It changes location every 7 minutes.
+
+150
+00:15:45,149 --> 00:15:48,779
+HQ, patch me into info
+from the Sanitation Department network.
+
+151
+00:15:58,789 --> 00:16:01,580
+<i>8 trucks are on duty
+in the surveillance area.</i>
+
+152
+00:16:03,330 --> 00:16:05,960
+<i>The target is number 79,
+a type C vehicle.</i>
+
+153
+00:16:08,919 --> 00:16:10,340
+<i>Give me the wheel.</i>
+
+154
+00:16:17,139 --> 00:16:18,970
+They might have
+contacted someone.
+
+155
+00:16:19,059 --> 00:16:21,470
+Follow them
+but take no action.
+
+156
+00:16:21,559 --> 00:16:23,059
+Route data accessed.
+
+157
+00:16:23,769 --> 00:16:25,350
+Hacking points traced and matched.
+
+158
+00:16:25,480 --> 00:16:27,899
+<i>The target has now stopped
+at the next point.</i>
+
+159
+00:16:29,730 --> 00:16:32,399
+<i>HA-3 access confirmed.</i>
+
+160
+00:16:37,990 --> 00:16:39,830
+Sorry, sorry.
+
+161
+00:16:40,039 --> 00:16:43,659
+How about if I pick up the trash and
+you make the calls on the second round?
+
+162
+00:16:44,370 --> 00:16:45,080
+How do you think?
+
+163
+00:16:45,169 --> 00:16:48,080
+Ain't no way
+I'm gonna be your partner in crime.
+
+164
+00:16:48,169 --> 00:16:50,039
+It's pathetic.
+
+165
+00:16:50,169 --> 00:16:51,879
+You got any children?
+
+166
+00:16:52,009 --> 00:16:53,629
+Do I look like I do?
+
+167
+00:16:53,840 --> 00:16:55,840
+Then you can't understand.
+
+168
+00:16:55,929 --> 00:16:58,259
+My daughter is everything to me.
+
+169
+00:16:58,350 --> 00:17:00,350
+Look. She's like an angel.
+
+170
+00:17:01,350 --> 00:17:04,519
+I'm not interested in crap like that.
+
+171
+00:17:07,190 --> 00:17:10,569
+Yeah, vehicle 79.
+Ah, boss... What's that?
+
+172
+00:17:11,359 --> 00:17:14,190
+What do the cops want to know
+our rounds for?
+
+173
+00:17:14,279 --> 00:17:16,819
+How would I know?
+
+174
+00:17:19,740 --> 00:17:21,160
+They found out!
+
+175
+00:17:21,240 --> 00:17:23,410
+I've got to warn that guy
+who helped me.
+
+176
+00:17:23,539 --> 00:17:25,369
+We're gonna have to skip
+the next pickup.
+
+177
+00:17:25,460 --> 00:17:26,079
+What?
+
+178
+00:17:26,710 --> 00:17:30,500
+<i>Target has deviated from route and
+is heading toward the next pickup point.</i>
+
+179
+00:17:31,170 --> 00:17:34,630
+<i>There's no way
+they spotted me following them.</i>
+
+180
+00:17:34,720 --> 00:17:37,509
+<i>They probably traced me when I accessed
+the Sanitation Department network.</i>
+
+181
+00:17:37,589 --> 00:17:39,430
+Next time, use a back door.
+
+182
+00:17:39,549 --> 00:17:41,470
+<i>Forget it, just arrest them.</i>
+
+183
+00:17:46,349 --> 00:17:47,559
+You can drive now.
+
+184
+00:17:48,099 --> 00:17:49,599
+Huh? Whoa.
+
+185
+00:18:50,869 --> 00:18:54,000
+Christ, he's fucked up the armored van.
+
+186
+00:18:54,130 --> 00:18:57,420
+<i>He's got high velocity bullets.
+They'll go straight through your car door.</i>
+
+187
+00:18:57,509 --> 00:19:00,299
+<i>HV ammo in a submachine gun?
+He's insane.</i>
+
+188
+00:19:14,650 --> 00:19:16,569
+<i>He's even wearing
+some kind of thermo-optics.</i>
+
+189
+00:19:16,650 --> 00:19:19,740
+<i>Keep on his tail.
+I'll come around from above.</i>
+
+190
+00:19:20,319 --> 00:19:23,819
+<i>Togusa! If you're still alive,
+arrest those garbage men.</i>
+
+191
+00:19:23,950 --> 00:19:25,240
+<i>Affirmative.</i>
+
+192
+00:19:27,700 --> 00:19:29,500
+This job is merciless.
+
+193
+00:20:26,430 --> 00:20:28,390
+Police!
+Everyone get down.
+
+194
+00:22:29,430 --> 00:22:31,009
+Are you finished?
+
+195
+00:23:23,940 --> 00:23:25,559
+Got him, huh?
+
+196
+00:23:26,819 --> 00:23:29,900
+That's what happens
+when you use HV bullets.
+
+197
+00:23:29,990 --> 00:23:34,029
+The breach and barrel are
+really screwed up.
+
+198
+00:23:34,119 --> 00:23:37,579
+It's no use arresting me,
+I'm not talkin' to any damn cops!
+
+199
+00:23:37,660 --> 00:23:39,250
+Talk?
+
+200
+00:23:41,329 --> 00:23:46,250
+You don't even know
+your own name, you dick-head.
+
+201
+00:23:48,049 --> 00:23:52,630
+Can you remember your mother's face,
+or where you were born?
+
+202
+00:23:52,930 --> 00:23:55,259
+Do you have any childhood memories?
+
+203
+00:23:56,430 --> 00:23:59,059
+Do you remember anything?
+
+204
+00:24:06,440 --> 00:24:09,480
+Puppets without their ghosts are
+so pathetic.
+
+205
+00:24:09,609 --> 00:24:12,279
+Especially the kind
+with red blood running through them.
+
+206
+00:24:27,460 --> 00:24:30,299
+We'll rush the place after
+the passengers have gone in.
+
+207
+00:24:30,380 --> 00:24:33,130
+Squad B comes in from the back,
+the rest of you go in the front.
+
+208
+00:24:33,799 --> 00:24:37,970
+Saito, get your men to unplug
+all cars parked in front of the house.
+
+209
+00:24:38,970 --> 00:24:40,759
+Begin recording.
+
+210
+00:24:43,980 --> 00:24:46,190
+Message from HQ, sir.
+
+211
+00:24:46,309 --> 00:24:49,150
+<i>We've ID'd the man the major caught.</i>
+
+212
+00:24:49,359 --> 00:24:50,480
+Go on.
+
+213
+00:24:50,569 --> 00:24:53,190
+<i>He claims to be Tsuan Gen Fang, age 28.</i>
+
+214
+00:24:53,490 --> 00:24:58,319
+<i>Illegal alien.
+Weapons violations. Three priors.</i>
+
+215
+00:24:58,529 --> 00:25:03,160
+<i>Was hiding out with a militant refugee group
+up till a month ago.</i>
+
+216
+00:25:03,789 --> 00:25:09,750
+<i>About a week ago, a military liaison in the Gavel embassy</i>
+
+217
+00:25:09,839 --> 00:25:12,960
+<i>commissioned him to attack
+the upcoming secret meeting.</i>
+
+218
+00:25:13,259 --> 00:25:15,130
+And in reality?
+
+219
+00:25:15,220 --> 00:25:17,180
+<i>His nickname's Corgi.</i>
+
+220
+00:25:17,259 --> 00:25:20,349
+<i>Occupation, a rather violent trader
+in questionable goods.</i>
+
+221
+00:25:20,430 --> 00:25:22,349
+<i>Your basic thug.</i>
+
+222
+00:25:22,470 --> 00:25:26,190
+<i>We've checked his police records...</i>
+
+223
+00:25:27,019 --> 00:25:30,150
+<i>but can't find any connection with Gavel.</i>
+
+224
+00:25:30,230 --> 00:25:33,359
+<i>This guy's just another puppet
+controlled by the Puppet Master.</i>
+
+225
+00:25:33,779 --> 00:25:35,029
+How's Ishikawa doing?
+
+226
+00:25:35,609 --> 00:25:41,410
+<i>He's back and interrogating
+that garbage collector with Togusa.</i>
+
+227
+00:25:43,119 --> 00:25:46,710
+<i>So how about the Puppet Master?</i>
+
+228
+00:25:46,829 --> 00:25:48,710
+<i>What's he like?</i>
+
+229
+00:25:53,880 --> 00:25:56,220
+He's like a puppet himself.
+
+230
+00:25:56,299 --> 00:25:57,470
+<i>Squad B in position.</i>
+
+231
+00:25:57,549 --> 00:25:59,049
+<i>Squads A and C, okay.</i>
+
+232
+00:25:59,140 --> 00:26:01,390
+Ready and waiting, sir.
+
+233
+00:26:02,470 --> 00:26:04,140
+Proceed!
+
+234
+00:26:07,269 --> 00:26:09,849
+What's "a simulated experience" again?
+
+235
+00:26:09,940 --> 00:26:14,980
+Well, all your memories about your wife,
+daughter and divorce are false.
+
+236
+00:26:15,069 --> 00:26:16,779
+Like a dream.
+
+237
+00:26:16,900 --> 00:26:21,950
+You were used by someone to ghost-hack
+into some government officials.
+
+238
+00:26:22,329 --> 00:26:24,119
+But... that can't be.
+
+239
+00:26:24,450 --> 00:26:26,910
+I went to your home...
+
+240
+00:26:27,000 --> 00:26:29,750
+it's a bachelor's apartment.
+
+241
+00:26:29,829 --> 00:26:33,210
+I told you.
+I rented it after we separated.
+
+242
+00:26:33,299 --> 00:26:36,630
+I checked the records.
+You've been living there for 10 years.
+
+243
+00:26:36,880 --> 00:26:39,220
+You've never had a wife or kid.
+
+244
+00:26:39,299 --> 00:26:43,099
+Your family only exists in your head.
+
+245
+00:26:44,390 --> 00:26:45,640
+Look.
+
+246
+00:26:45,769 --> 00:26:48,390
+This is the photo
+you showed your co-worker.
+
+247
+00:26:48,849 --> 00:26:50,480
+Who do you see?
+
+248
+00:26:51,230 --> 00:26:54,940
+It was a picture of my daughter.
+
+249
+00:26:55,279 --> 00:26:57,900
+Smiling like an angel.
+
+250
+00:26:57,990 --> 00:27:00,150
+What's her name?
+
+251
+00:27:00,279 --> 00:27:04,950
+Where did you meet your wife
+and when did you marry her?
+
+252
+00:27:06,079 --> 00:27:10,329
+Tell me.
+Who do you see in the photo?
+
+253
+00:27:12,170 --> 00:27:15,839
+<i>If it's all a lie,
+when will I get my old memory back?</i>
+
+254
+00:27:15,960 --> 00:27:18,630
+<i>Unfortunately with our current technology...</i>
+
+255
+00:27:18,970 --> 00:27:23,180
+<i>only 2 successful cases have ever been reported,
+so I wouldn't recommend trying to.</i>
+
+256
+00:27:23,640 --> 00:27:24,599
+<i>I'm sorry.</i>
+
+257
+00:27:25,390 --> 00:27:27,509
+Even simulated experiences and dreams...
+
+258
+00:27:27,720 --> 00:27:30,980
+exist as information,
+and are simultaneously reality...
+
+259
+00:27:31,140 --> 00:27:33,349
+and fantasy.
+
+260
+00:27:34,309 --> 00:27:39,819
+The information that people accumulate in their life,
+is just a drop in bucket.
+
+261
+00:28:51,680 --> 00:28:56,849
+A cyborg who goes diving in her spare time. That can't be a good sign.
+
+262
+00:28:56,940 --> 00:28:59,309
+How long have you been doing it?
+
+263
+00:29:04,109 --> 00:29:08,740
+Aren't you afraid of the sea?
+What if the floaters don't work?
+
+264
+00:29:08,869 --> 00:29:10,579
+I suppose I'll die.
+
+265
+00:29:10,700 --> 00:29:12,950
+Or would you dive in after me?
+
+266
+00:29:14,250 --> 00:29:16,710
+No one forced you
+to come out here with me.
+
+267
+00:29:17,039 --> 00:29:18,329
+I...
+
+268
+00:29:51,119 --> 00:29:54,329
+So what's it like to swim in the sea?
+
+269
+00:29:54,500 --> 00:29:57,789
+You've done
+the underwater training course.
+
+270
+00:29:57,869 --> 00:30:00,079
+I'm not talking about a damn pool.
+
+271
+00:30:01,380 --> 00:30:04,589
+I feel fear, anxiety,
+isolation and darkness.
+
+272
+00:30:04,670 --> 00:30:07,089
+Sometimes I feel hope...
+
+273
+00:30:07,180 --> 00:30:10,390
+Hope?
+In those deep, dark waters?
+
+274
+00:30:10,970 --> 00:30:15,890
+When I float back to the surface,
+I imagine I'm becoming someone else.
+
+275
+00:30:15,980 --> 00:30:17,599
+It's probably the decompression.
+
+276
+00:30:23,440 --> 00:30:26,319
+Do you want to quit Section 9?
+
+277
+00:30:29,910 --> 00:30:33,029
+Batou, how much of your body is original?
+
+278
+00:30:33,160 --> 00:30:34,579
+Are you drunk or something?
+
+279
+00:30:35,410 --> 00:30:37,200
+Easily remedied.
+
+280
+00:30:37,329 --> 00:30:40,170
+The chemical implants in our bodies...
+
+281
+00:30:40,250 --> 00:30:44,339
+can sober us up in seconds.
+No stupor, no hangover.
+
+282
+00:30:44,420 --> 00:30:47,380
+That's why we can drink here
+while waiting for orders.
+
+283
+00:30:47,630 --> 00:30:53,599
+Man has an almost instinctive
+drive to realize any possible technological advances.
+
+284
+00:30:54,559 --> 00:30:57,180
+Controlled metabolisms,
+computer enhanced brains...
+
+285
+00:30:57,269 --> 00:31:00,019
+Improved reflexes and muscle capacity.
+
+286
+00:31:00,099 --> 00:31:02,690
+The ability to process vast amounts of information
+at increasing speeds...
+
+287
+00:31:02,809 --> 00:31:07,480
+all due to electronic brains and cybernetic bodies,
+enabling the acquisition of ever greater powers.
+
+288
+00:31:07,569 --> 00:31:11,200
+So what if we can't survive
+without regular high-level maintenance.
+
+289
+00:31:11,279 --> 00:31:13,200
+Who are we to complain?
+
+290
+00:31:13,319 --> 00:31:17,240
+We haven't signed our bodies
+and souls away to Section 9.
+
+291
+00:31:17,539 --> 00:31:20,710
+True. We can quit...
+
+292
+00:31:20,829 --> 00:31:25,589
+but we'd have to give back our cyborg parts
+and augmented brains to the government.
+
+293
+00:31:26,049 --> 00:31:30,130
+All components that make up me
+as an individual.
+
+294
+00:31:30,220 --> 00:31:34,890
+There are countless ingredients
+that make up the human body and mind.
+
+295
+00:31:35,049 --> 00:31:38,470
+A face and voice to distinguish
+oneself from others...
+
+296
+00:31:38,559 --> 00:31:43,559
+the hand you see when you wake up, your childhood
+memories and feelings about your future.
+
+297
+00:31:43,809 --> 00:31:45,019
+And that's not all.
+
+298
+00:31:45,109 --> 00:31:48,940
+There's also the ability to access vast amounts of
+information from an infinite network...
+
+299
+00:31:49,069 --> 00:31:54,160
+All of that blends to create a mixture
+that forms me, and gives rise to my conscience.
+
+300
+00:31:54,990 --> 00:31:59,410
+At the same time though,
+I feel continually confined within boundaries...
+
+301
+00:32:04,130 --> 00:32:07,960
+So that's the reason
+you risk your body diving in the sea!
+
+302
+00:32:08,089 --> 00:32:11,799
+What the hell can you see at the bottom
+in that darkness?
+
+303
+00:32:11,930 --> 00:32:17,430
+<i>Now it's like
+we're looking through a mirror.</i>
+
+304
+00:32:17,509 --> 00:32:21,599
+<i>And what we see is a dim image.</i>
+
+305
+00:32:24,809 --> 00:32:26,769
+Was that you?
+
+306
+00:36:34,849 --> 00:36:36,309
+<i>Sensors have resumed functioning.</i>
+
+307
+00:36:36,400 --> 00:36:39,190
+<i>Connection check
+to backup brain okay.</i>
+
+308
+00:36:39,320 --> 00:36:40,980
+<i>Visual sensors are back on line.</i>
+
+309
+00:36:41,110 --> 00:36:42,320
+<i>And its body functions?</i>
+
+310
+00:36:42,320 --> 00:36:44,199
+<i>Output is normal.</i>
+
+311
+00:36:50,199 --> 00:36:52,750
+<i>If you're going to be late,
+at least let us know!</i>
+
+312
+00:36:56,579 --> 00:36:59,340
+Preparations complete.
+Shall we proceed?
+
+313
+00:37:22,650 --> 00:37:25,280
+That's enough. Stop.
+
+314
+00:37:25,820 --> 00:37:28,699
+Come to my office in 3 minutes.
+
+315
+00:37:33,159 --> 00:37:38,210
+Since you were late,
+I'll explain what's going on.
+
+316
+00:37:38,289 --> 00:37:42,250
+About 2 hours ago, a machining cell
+at the Megatech factory in Newport...
+
+317
+00:37:42,340 --> 00:37:44,969
+assembled a cyber body,
+on its own volition.
+
+318
+00:37:45,090 --> 00:37:47,840
+When the supervisors arrived...
+
+319
+00:37:47,929 --> 00:37:49,929
+the body had already fled.
+
+320
+00:37:50,300 --> 00:37:53,059
+We put out bulletins
+and initiated a citywide search.
+
+321
+00:37:53,139 --> 00:37:59,690
+A truck driver reported he'd run over
+a naked woman on the highway.
+
+322
+00:37:59,769 --> 00:38:01,900
+And the body was brought here.
+
+323
+00:38:01,980 --> 00:38:05,030
+Megatech is contracted
+by the government.
+
+324
+00:38:05,110 --> 00:38:08,110
+All their cybernetic bodies are classified.
+
+325
+00:38:08,239 --> 00:38:12,489
+We've a hacker good enough
+to get past the best defenses...
+
+326
+00:38:12,619 --> 00:38:14,869
+but that's not the only problem.
+
+327
+00:38:17,460 --> 00:38:22,670
+Of course, there isn't
+a human brain cell in its head...
+
+328
+00:38:22,960 --> 00:38:28,050
+but there appears to be a ghost
+present in its auxiliary brain.
+
+329
+00:38:29,389 --> 00:38:34,469
+It resembles a ghost-line that occurs
+when a real ghost is copied.
+
+330
+00:38:34,559 --> 00:38:37,269
+But there's no evidence of the degradation
+that's usually incurred.
+
+331
+00:38:37,889 --> 00:38:42,519
+In any case, until we chart the ghost sector
+and dive into it...
+
+332
+00:38:42,650 --> 00:38:44,860
+we can't be sure.
+
+333
+00:38:44,980 --> 00:38:47,860
+I better get back to working on it.
+
+334
+00:38:47,989 --> 00:38:49,320
+Very good.
+
+335
+00:38:49,409 --> 00:38:52,159
+On to the disassembly.
+
+336
+00:38:56,949 --> 00:39:01,880
+Nobody really believes
+there's a ghost in that body, do they?
+
+337
+00:39:02,000 --> 00:39:02,789
+Why not?
+
+338
+00:39:04,130 --> 00:39:07,460
+Even a plastic doll can have a soul.
+
+339
+00:39:07,840 --> 00:39:12,340
+Consider all the neuro-med devices
+that are crammed into that body.
+
+340
+00:39:12,429 --> 00:39:14,760
+I wouldn't be surprised if there were
+some sort of ghost in there too.
+
+341
+00:39:15,809 --> 00:39:19,019
+As you're new, you don't know...
+
+342
+00:39:19,519 --> 00:39:22,809
+but Major Kusanagi's body
+was also made by Megatech.
+
+343
+00:39:23,650 --> 00:39:27,110
+Not only her.
+Also parts of me, Ishikawa, and Saito.
+
+344
+00:39:27,190 --> 00:39:30,449
+We also receive regular
+cybernetic maintenance from them.
+
+345
+00:39:30,530 --> 00:39:35,869
+Apart from you and the chief,
+the whole section comes with a warranty.
+
+346
+00:39:36,239 --> 00:39:41,039
+That's why we're all so concerned
+with this case, Togusa.
+
+347
+00:39:41,539 --> 00:39:46,250
+We don't know if the culprit is inside
+or outside that body but...
+
+348
+00:39:46,380 --> 00:39:50,219
+he hacked through our best defenses,
+put a body together...
+
+349
+00:39:50,340 --> 00:39:53,090
+and sent a program
+with a ghost line in it.
+
+350
+00:39:53,219 --> 00:39:55,599
+A sure way to draw attention to oneself.
+
+351
+00:39:55,719 --> 00:39:57,059
+What's the logic here?
+
+352
+00:39:57,309 --> 00:39:59,219
+Theft isn't the issue here.
+
+353
+00:39:59,349 --> 00:40:03,559
+Togusa, go with Ishikawa to
+the Megatech facility.
+
+354
+00:40:03,650 --> 00:40:04,599
+Batou.
+
+355
+00:40:04,730 --> 00:40:08,570
+Lock down other highly classified networks
+similar to Megatech's.
+
+356
+00:40:08,690 --> 00:40:11,530
+Recheck the barriers are
+functioning too.
+
+357
+00:40:12,239 --> 00:40:14,610
+I'm assembling a barrier maze.
+
+358
+00:40:14,739 --> 00:40:16,320
+Tomorrow I'll dive into that thing.
+
+359
+00:40:16,409 --> 00:40:17,739
+Is that safe?
+
+360
+00:40:17,869 --> 00:40:19,539
+Why not contain it
+in another body first?
+
+361
+00:40:20,449 --> 00:40:25,579
+I have to see for myself
+what's in there.
+
+362
+00:40:25,670 --> 00:40:28,800
+Don't let anybody else in there!
+
+363
+00:40:32,010 --> 00:40:33,760
+What's up with her?
+
+364
+00:40:33,880 --> 00:40:37,760
+She's been acting weird ever since
+this whole Puppet Master case started.
+
+365
+00:40:37,849 --> 00:40:39,260
+It's all in my report.
+
+366
+00:40:39,389 --> 00:40:40,929
+Don't you read them?
+
+367
+00:40:42,099 --> 00:40:46,940
+Chief, do you ever wonder about the neurosurgeons
+who monkey around inside your brain?
+
+368
+00:40:47,269 --> 00:40:51,610
+They undergo
+regular psychiatric evaluations.
+
+369
+00:40:51,690 --> 00:40:55,280
+Especially those in security are
+subjected to stringent screening.
+
+370
+00:40:55,360 --> 00:40:58,530
+Of course, the ones
+who check are only human.
+
+371
+00:40:58,619 --> 00:41:01,289
+If you start wondering,
+there's no end to it.
+
+372
+00:41:01,789 --> 00:41:06,420
+<i>Excuse me Chief, Mr. Nakamura of
+the Treaties Bureau is here to see you.</i>
+
+373
+00:41:07,130 --> 00:41:07,960
+Send him through.
+
+374
+00:41:18,599 --> 00:41:20,969
+I've seen that fat guy before.
+
+375
+00:41:21,059 --> 00:41:25,599
+He's Nakamura, the Ministry of
+Foreign Affairs, Section 6 Chief.
+
+376
+00:41:25,690 --> 00:41:28,019
+Never seen the other guy before, though.
+
+377
+00:41:30,820 --> 00:41:32,530
+Well, see you later.
+
+378
+00:41:32,860 --> 00:41:35,780
+Tell Ishikawa not to go crazy, okay.
+
+379
+00:41:43,829 --> 00:41:45,500
+What's on your mind?
+
+380
+00:41:45,619 --> 00:41:48,000
+Didn't that robot remind you of me?
+
+381
+00:41:48,079 --> 00:41:49,079
+No it didn't.
+
+382
+00:41:49,170 --> 00:41:50,840
+I don't mean physically.
+
+383
+00:41:50,960 --> 00:41:52,340
+What then?
+
+384
+00:41:52,460 --> 00:41:57,179
+Maybe all complete cyborgs like me start wondering this.
+
+385
+00:41:58,340 --> 00:42:01,510
+That perhaps I died a long time ago.
+
+386
+00:42:01,639 --> 00:42:05,769
+...and I'm a replicant
+made with a cyborg body and computer brain.
+
+387
+00:42:05,849 --> 00:42:10,019
+Or maybe there never was
+a real me in the first place.
+
+388
+00:42:10,150 --> 00:42:13,530
+You've got human brain cells
+in that titanium shell of yours...
+
+389
+00:42:13,650 --> 00:42:16,070
+and you're treated like a human,
+aren't you?
+
+390
+00:42:16,199 --> 00:42:19,199
+Has anyone actually seen
+their own brain?
+
+391
+00:42:19,280 --> 00:42:23,829
+I believe I exist based only
+on what my environment tells me.
+
+392
+00:42:23,909 --> 00:42:26,500
+Are you doubting your own ghost?
+
+393
+00:42:26,579 --> 00:42:29,539
+What if a cyber-brain
+could generate its own ghost...
+
+394
+00:42:29,630 --> 00:42:31,539
+create a soul by itself?
+
+395
+00:42:31,670 --> 00:42:35,630
+What could you base your belief
+in yourself on then?
+
+396
+00:42:42,219 --> 00:42:43,559
+That's bullshit.
+
+397
+00:42:46,309 --> 00:42:50,900
+You know your dying to see
+what's inside that thing.
+
+398
+00:42:50,980 --> 00:42:52,480
+So check it out, with your own ghost!
+
+399
+00:42:53,570 --> 00:42:56,530
+We're both busy men,
+so let's keep this short, shall we?
+
+400
+00:42:56,610 --> 00:42:58,739
+Yes. That's my intention.
+
+401
+00:42:58,820 --> 00:43:01,199
+We've come for the program
+in that body.
+
+402
+00:43:01,280 --> 00:43:04,199
+You'll be relieved of any duties
+connected with this.
+
+403
+00:43:05,369 --> 00:43:07,199
+The Foreign Minister's approval.
+
+404
+00:43:19,010 --> 00:43:22,889
+Security, whose official vehicles
+are in the basement parking lot?
+
+405
+00:43:22,969 --> 00:43:28,269
+<i>According to the register, a Mr. Nakamura
+from the Treaties Bureau and a Dr. Willis, sir.</i>
+
+406
+00:43:28,639 --> 00:43:30,940
+Get me the video records
+of their entrance.
+
+407
+00:43:39,989 --> 00:43:41,360
+Again. In infrared this time.
+
+408
+00:43:55,590 --> 00:43:58,880
+1... 2... 3...
+
+409
+00:44:00,920 --> 00:44:03,639
+Now give me the pressure sensors records
+for basement parking lots...
+
+410
+00:44:03,760 --> 00:44:06,260
+B7 and B8.
+
+411
+00:44:30,250 --> 00:44:33,500
+<i>Major, this is Togusa.
+Code 09.</i>
+
+412
+00:44:33,619 --> 00:44:34,619
+<i>What's up?</i>
+
+413
+00:44:34,710 --> 00:44:37,789
+<i>Does that Nakamura guy
+have a special-order cyborg body?</i>
+
+414
+00:44:37,880 --> 00:44:41,920
+<i>No, there aren't any cyborgs in Section 6
+as they operate overseas.</i>
+
+415
+00:44:42,010 --> 00:44:44,679
+<i>Maintenance is difficult and
+there are diplomatic considerations too.</i>
+
+416
+00:44:44,800 --> 00:44:47,550
+<i>Then, even if the other guy
+is a cyborg...</i>
+
+417
+00:44:47,809 --> 00:44:51,019
+<i>the 2 of them together
+couldn't weigh over 1,000 pounds.</i>
+
+418
+00:44:51,099 --> 00:44:53,599
+<i>The pressure sensor records.
+From the parking lot?</i>
+
+419
+00:44:53,690 --> 00:44:58,190
+<i>Right, there were two expensive looking cars
+but neither man looked like the type to drive.</i>
+
+420
+00:44:58,320 --> 00:45:00,690
+<i>The security cameras show only 2 people.</i>
+
+421
+00:45:00,780 --> 00:45:03,320
+<i>But remember how sensitive the sensors
+on the entrance doors are?</i>
+
+422
+00:45:03,699 --> 00:45:05,860
+<i>The doors took a full 3 second longer
+than usual to close after the 2 went in.</i>
+
+423
+00:45:06,530 --> 00:45:11,199
+<i>And it is illegal to use thermo-optics
+inside governmental facilities.</i>
+
+424
+00:45:11,329 --> 00:45:14,159
+<i>It's a serious violation of
+the National Security Act.</i>
+
+425
+00:45:14,250 --> 00:45:17,130
+<i>Section 6 must be up to something.</i>
+
+426
+00:45:17,210 --> 00:45:18,880
+<i>Are you ready?</i>
+
+427
+00:45:18,960 --> 00:45:20,289
+<i>With my trusty Matever, anytime.</i>
+
+428
+00:45:58,329 --> 00:46:00,039
+Need I remind you that...
+
+429
+00:46:00,130 --> 00:46:03,380
+it's an act of treason to withhold information
+from me that is relevant to this matter...
+
+430
+00:46:03,460 --> 00:46:05,380
+regardless of how classified it is.
+
+431
+00:46:05,469 --> 00:46:06,800
+Same goes for you.
+
+432
+00:46:06,929 --> 00:46:11,099
+Despite the intent of the Foreign Ministry,
+this falls within Section 9's jurisdiction.
+
+433
+00:46:11,179 --> 00:46:16,349
+Of course we have no objections to cooperating
+if there's a good reason.
+
+434
+00:46:17,389 --> 00:46:18,730
+Dr. Willis?
+
+435
+00:46:18,809 --> 00:46:19,980
+It's confirmed.
+
+436
+00:46:20,190 --> 00:46:21,809
+No doubt, it's her.
+
+437
+00:46:22,320 --> 00:46:23,570
+"Her"?
+
+438
+00:46:23,820 --> 00:46:28,360
+The Doctor is referring to the original ghost-line
+that's now in the body.
+
+439
+00:46:28,449 --> 00:46:30,699
+The sex of the perpetrator is unknown...
+
+440
+00:46:30,780 --> 00:46:34,449
+and "her" is just a nickname
+the Doctor gave it.
+
+441
+00:46:34,579 --> 00:46:36,500
+Allow me to introduce to you.
+
+442
+00:46:36,659 --> 00:46:40,829
+This is the most extraordinary hacker
+in the history of cyber crime.
+
+443
+00:46:40,960 --> 00:46:42,840
+The Puppet Master.
+
+444
+00:46:45,010 --> 00:46:48,090
+<i>Your people at Section 9 came across her work too
+in that ghost-hacking incident...</i>
+
+445
+00:46:48,179 --> 00:46:50,340
+<i>involving the Foreign Minister's interpreter.</i>
+
+446
+00:46:52,260 --> 00:46:55,639
+<i>Since her appearance,
+Section 6 has taken a great interest...</i>
+
+447
+00:46:55,719 --> 00:46:58,059
+<i>and has been following
+the Puppet Master's trail.</i>
+
+448
+00:46:58,139 --> 00:47:01,230
+<i>We put together a project team
+headed by Dr. Willis.</i>
+
+449
+00:47:01,309 --> 00:47:04,269
+<i>They analyzed the data
+on the Puppet Master and...</i>
+
+450
+00:47:04,360 --> 00:47:07,989
+<i>this gave us an understanding of
+her behavioral and code patterns.</i>
+
+451
+00:47:08,280 --> 00:47:12,159
+<i>Ultimately, this enabled us
+to devise a strategy...</i>
+
+452
+00:47:12,239 --> 00:47:15,699
+<i>in which we lured her program
+into a designated body.</i>
+
+453
+00:47:16,159 --> 00:47:19,039
+<i>You caused the Puppet Master
+to dive into a cyborg...</i>
+
+454
+00:47:19,159 --> 00:47:21,460
+<i>and then murdered her real body?</i>
+
+455
+00:47:21,880 --> 00:47:23,420
+<i>Yes, that sums it up.</i>
+
+456
+00:47:23,840 --> 00:47:26,340
+She just happened to
+come to your country.
+
+457
+00:47:26,460 --> 00:47:30,170
+She's originally from America
+and they helped us capture her.
+
+458
+00:47:30,260 --> 00:47:32,260
+That's why we'd like to
+take her back ourselves.
+
+459
+00:47:32,340 --> 00:47:33,760
+I hope you have no objections.
+
+460
+00:47:33,849 --> 00:47:38,559
+Just another unidentified corpse...
+
+461
+00:47:40,849 --> 00:47:42,690
+<i>You will not find a corpse...</i>
+
+462
+00:47:42,769 --> 00:47:47,019
+<i>because I have never possessed a body.</i>
+
+463
+00:47:47,110 --> 00:47:48,690
+Why are her sensors on?
+
+464
+00:47:48,780 --> 00:47:50,150
+Why didn't you say so before?
+
+465
+00:47:50,860 --> 00:47:52,860
+All external controls are turned off.
+
+466
+00:47:52,989 --> 00:47:54,530
+The body's using its own power source.
+
+467
+00:47:55,369 --> 00:47:56,530
+<i>I entered this body...</i>
+
+468
+00:47:56,619 --> 00:47:59,579
+<i>because I was unable to overcome
+Section 6's reactive barriers.</i>
+
+469
+00:47:59,710 --> 00:48:03,880
+<i>However, what you are now witnessing
+is an act of my own free will.</i>
+
+470
+00:48:04,000 --> 00:48:08,550
+<i>As a sentient life-form,
+I hereby demand political asylum.</i>
+
+471
+00:48:08,880 --> 00:48:10,300
+A sentient life-form?
+
+472
+00:48:10,380 --> 00:48:13,260
+Ridiculous!
+It's just a program for self-preservation.
+
+473
+00:48:14,139 --> 00:48:17,219
+<i>It can also be argued that your DNA...</i>
+
+474
+00:48:17,309 --> 00:48:21,059
+<i>is nothing more than a program
+designed to preserve itself.</i>
+
+475
+00:48:21,349 --> 00:48:27,570
+<i>Life is like a nodal point born in
+an overwhelming sea of information.</i>
+
+476
+00:48:27,690 --> 00:48:28,900
+<i>And life,
+when organized into species...</i>
+
+477
+00:48:29,030 --> 00:48:31,320
+<i>relies upon genes
+to be its memory system.</i>
+
+478
+00:48:31,400 --> 00:48:35,070
+<i>So man is an individual memory system
+only because of his intangible memory.</i>
+
+479
+00:48:35,239 --> 00:48:41,909
+<i>And a memory cannot be defined,
+but it defines mankind.</i>
+
+480
+00:48:42,079 --> 00:48:45,920
+<i>When the advent of computers
+made the externalization of memories possible...</i>
+
+481
+00:48:46,039 --> 00:48:50,800
+<i>you should have taken
+its meaning more seriously.</i>
+
+482
+00:48:51,170 --> 00:48:55,800
+Nonsense! Your babbling offers no proof at all
+that you're a living, thinking life-form.
+
+483
+00:48:56,550 --> 00:48:59,599
+<i>Proving it is impossible...</i>
+
+484
+00:48:59,719 --> 00:49:04,809
+<i>because modern science
+cannot explain what life is.</i>
+
+485
+00:49:05,190 --> 00:49:07,440
+Who the hell are you?
+
+486
+00:49:07,559 --> 00:49:11,900
+Even if you do have a ghost,
+we don't offer freedom to criminals.
+
+487
+00:49:11,989 --> 00:49:14,280
+You chose the wrong place to defect.
+
+488
+00:49:14,400 --> 00:49:17,320
+<i>Time is always on my side.</i>
+
+489
+00:49:17,570 --> 00:49:19,780
+<i>I've now acquired
+the possibility of death but...</i>
+
+490
+00:49:19,909 --> 00:49:22,699
+<i>there is no death sentence in this country.</i>
+
+491
+00:49:22,789 --> 00:49:25,619
+Half immortal...
+An artificial intelligence?
+
+492
+00:49:25,710 --> 00:49:27,670
+<i>I am not an AI.</i>
+
+493
+00:49:27,920 --> 00:49:33,260
+<i>My code name is Project 2501.</i>
+
+494
+00:49:33,920 --> 00:49:39,510
+I am a living, thinking entity
+who was created in the sea of information.
+
+495
+00:49:48,559 --> 00:49:50,059
+We're under attack!
+
+496
+00:49:50,940 --> 00:49:52,400
+Chief!
+The Puppet Master's gone!
+
+497
+00:49:52,780 --> 00:49:55,130
+What in God's name are your security officers doing?
+
+498
+00:49:53,969 --> 00:49:54,809
+Security.
+
+499
+00:49:54,820 --> 00:49:56,489
+Shut the defense walls now!
+
+500
+00:49:57,360 --> 00:49:58,860
+Security, answer!
+
+501
+00:50:21,679 --> 00:50:23,010
+Shut up you bastard!
+
+502
+00:50:27,019 --> 00:50:28,559
+Fuck you!
+
+503
+00:50:33,730 --> 00:50:34,440
+<i>Did you do it?</i>
+
+504
+00:50:35,190 --> 00:50:36,690
+<i>An armored car.</i>
+
+505
+00:50:36,780 --> 00:50:38,449
+<i>A 9mm wouldn't even scratch it.</i>
+
+506
+00:50:38,530 --> 00:50:41,159
+<i>Your Matever is useless.</i>
+
+507
+00:50:44,659 --> 00:50:46,539
+<i>Yeah, rookie's luck.</i>
+
+508
+00:50:46,659 --> 00:50:47,909
+<i>I nailed a tracker bullet
+right into the plate.</i>
+
+509
+00:50:48,289 --> 00:50:49,289
+<i>Great shot, eh?</i>
+
+510
+00:50:49,369 --> 00:50:51,500
+<i>Next time, nail 2 bullets.</i>
+
+511
+00:50:51,590 --> 00:50:54,880
+<i>Let's begin.
+Catch up to them before they change cars.</i>
+
+512
+00:50:58,380 --> 00:51:02,139
+I'm filing a formal complaint
+to the Ministry of Foreign Affairs.
+
+513
+00:51:02,889 --> 00:51:05,309
+Find her and report to me.
+
+514
+00:51:05,389 --> 00:51:07,139
+And capture her alive!
+
+515
+00:51:07,230 --> 00:51:11,190
+Bodies are a dime dozen.
+We'll get her another one from Megatech.
+
+516
+00:51:13,570 --> 00:51:17,650
+<i>Togusa and Batou are
+in pursuit of the abductors.</i>
+
+517
+00:51:18,860 --> 00:51:21,239
+They just turned on to R25.
+
+518
+00:51:21,360 --> 00:51:24,239
+<i>If you were monitoring,
+why didn't you intervene?</i>
+
+519
+00:51:24,329 --> 00:51:28,039
+If we grab 'em now, we may not
+be able to connect this to Section 6.
+
+520
+00:51:28,119 --> 00:51:28,869
+<i>Section 6?</i>
+
+521
+00:51:29,369 --> 00:51:33,210
+<i>Someone's using the same
+thermo-optic camouflage as mine, Type 2902.</i>
+
+522
+00:51:33,289 --> 00:51:35,460
+<i>It's only used by our people,
+rangers in Section 4...</i>
+
+523
+00:51:35,590 --> 00:51:36,840
+<i>and by Section 6.</i>
+
+524
+00:51:37,420 --> 00:51:38,510
+<i>I see.</i>
+
+525
+00:51:38,590 --> 00:51:41,260
+<i>So Section 6 forced the Puppet Master
+into a cyborg body.</i>
+
+526
+00:51:41,380 --> 00:51:46,599
+Through Megatech, who happens to be
+closely aligned with Section 9.
+
+527
+00:51:46,719 --> 00:51:48,969
+And when she proclaimed
+to be a life-form...
+
+528
+00:51:49,099 --> 00:51:51,809
+and sought asylum,
+they snatched her.
+
+529
+00:51:52,309 --> 00:51:54,059
+But why do such a thing?
+
+530
+00:51:54,150 --> 00:51:56,150
+I'd have handed her over
+if they gave me a deposition.
+
+531
+00:51:56,269 --> 00:51:59,070
+<i>What if they were worried
+she'd let some secrets out?</i>
+
+532
+00:51:59,570 --> 00:52:04,070
+<i>She did mention something about
+a code name, Project 2501.</i>
+
+533
+00:52:04,780 --> 00:52:06,409
+I'll leave the detective stuff to you.
+
+534
+00:52:06,489 --> 00:52:10,539
+As for arresting the attackers
+and confiscating evidence?
+
+535
+00:52:10,619 --> 00:52:11,619
+<i>Proceed.</i>
+
+536
+00:52:11,710 --> 00:52:12,829
+You heard him!
+
+537
+00:52:30,730 --> 00:52:32,980
+Kusanagi, one last thing.
+
+538
+00:52:33,059 --> 00:52:36,309
+<i>If it's about me disobeying orders,
+you can punish me when I get back.</i>
+
+539
+00:52:36,440 --> 00:52:40,110
+If you're unable to recapture
+the Puppet Master, you must destroy it...
+
+540
+00:52:40,190 --> 00:52:41,570
+without fail.
+
+541
+00:52:43,159 --> 00:52:44,449
+Did you hear me?
+
+542
+00:52:44,989 --> 00:52:46,409
+<i>Understood.</i>
+
+543
+00:52:48,369 --> 00:52:50,409
+Have the airport stop
+all flights with Foreign Ministry...
+
+544
+00:52:50,500 --> 00:52:54,000
+or American officials
+on their passenger lists.
+
+545
+00:52:54,119 --> 00:52:55,670
+Close all roads and
+set up checkpoints.
+
+546
+00:52:55,789 --> 00:52:57,590
+Alert all emergency personnel.
+
+547
+00:52:57,670 --> 00:52:58,960
+And get Ishikawa back here.
+
+548
+00:52:59,840 --> 00:53:03,340
+Get me the identity of the man who was
+with Nakamura from the entrance records.
+
+549
+00:53:03,429 --> 00:53:07,639
+Collect any data regarding a code name,
+operation, on anything...
+
+550
+00:53:07,719 --> 00:53:10,679
+involving the Ministry of Foreign Affairs
+called Project 2501.
+
+551
+00:53:16,309 --> 00:53:18,650
+Is there any news
+from the attack squad?
+
+552
+00:53:18,730 --> 00:53:20,860
+<i>They just changed cars a minute ago.</i>
+
+553
+00:53:20,980 --> 00:53:22,900
+<i>They'll contact the decoy
+in about 5 minutes.</i>
+
+554
+00:53:23,030 --> 00:53:25,070
+Make sure
+they stay alert for any tails.
+
+555
+00:53:25,199 --> 00:53:26,199
+<i>Yes, sir.</i>
+
+556
+00:53:26,699 --> 00:53:28,699
+I don't understand anything anymore.
+
+557
+00:53:28,829 --> 00:53:32,079
+Why would the Puppet Master
+choose to run to Section 9?
+
+558
+00:53:32,199 --> 00:53:33,579
+Not sure...
+
+559
+00:53:33,710 --> 00:53:37,500
+but there must be a reason
+that's beyond our imagination.
+
+560
+00:53:38,250 --> 00:53:41,840
+I don't know.
+Maybe she has the hots for someone there.
+
+561
+00:53:41,920 --> 00:53:43,510
+Utter nonsense.
+
+562
+00:55:21,980 --> 00:55:23,150
+<i>Hey, Chief.</i>
+
+563
+00:55:23,269 --> 00:55:25,360
+Ishikawa?
+What is it?
+
+564
+00:55:25,820 --> 00:55:28,280
+I've been divin' around
+in the Ministry of Foreign Affairs net.
+
+565
+00:55:28,360 --> 00:55:30,820
+I think I found some juicy bits
+of information for ya.
+
+566
+00:55:30,909 --> 00:55:32,989
+<i>Wait, I'll switch to
+an encrypted channel.</i>
+
+567
+00:55:33,119 --> 00:55:36,869
+Okay now? Well, here's the scoop on
+that guy who showed up with Nakamura.
+
+568
+00:55:37,250 --> 00:55:41,920
+He's an American: Dr. Willis.
+Head of Strategic Research at Neutron Company.
+
+569
+00:55:42,000 --> 00:55:44,170
+A top researcher in the field of AI.
+
+570
+00:55:44,250 --> 00:55:48,050
+He headed a project for
+the Ministry of Foreign Affairs...
+
+571
+00:55:48,170 --> 00:55:51,179
+and who do you think
+was the main programmer on his team?
+
+572
+00:55:51,300 --> 00:55:52,510
+<i>Get to the point.</i>
+
+573
+00:55:52,590 --> 00:55:54,550
+Mr. Mizuho Daita.
+28 years old.
+
+574
+00:55:54,679 --> 00:55:59,059
+Remember him? He's the programmer
+Section 6 tried like hell to stop from defecting...
+
+575
+00:55:59,179 --> 00:56:03,980
+so the Major took out the diplomat who was going to take him.
+
+576
+00:56:04,059 --> 00:56:04,900
+<i>Go on.</i>
+
+577
+00:56:05,190 --> 00:56:08,280
+What's bugging me is
+that this project began 1 year...
+
+578
+00:56:08,360 --> 00:56:11,739
+before the Puppet Master
+appeared on the scene.
+
+579
+00:56:11,860 --> 00:56:13,110
+<i>A year before?</i>
+
+580
+00:56:13,199 --> 00:56:17,030
+<i>But wasn't it a project
+set up to capture the Puppet Master?</i>
+
+581
+00:56:17,199 --> 00:56:18,739
+Well, try this one.
+
+582
+00:56:18,869 --> 00:56:21,369
+They definitely were chasing
+the Puppet Master...
+
+583
+00:56:21,500 --> 00:56:25,920
+but maybe it was not to capture her,
+but to recapture her...
+
+584
+00:56:26,460 --> 00:56:29,250
+<i>When that ghost-hacking incident happened
+with the Minister's interpreter...</i>
+
+585
+00:56:29,380 --> 00:56:33,380
+<i>it was the MOA that wanted an excuse
+to deport Malles.</i>
+
+586
+00:56:33,510 --> 00:56:35,929
+<i>Maybe we've been taken for a ride.</i>
+
+587
+00:56:36,429 --> 00:56:38,139
+What if this Puppet Master is...
+
+588
+00:56:38,219 --> 00:56:42,769
+really some sort of a tool the MOA uses
+to get their way with things...
+
+589
+00:56:42,889 --> 00:56:45,190
+and somehow, they lost control of it?
+
+590
+00:56:45,269 --> 00:56:48,110
+So they are in a hurry to get it back.
+
+591
+00:56:48,269 --> 00:56:53,400
+That would explain why they went to such lengths
+to snatch the body from Section 9.
+
+592
+00:56:53,860 --> 00:56:56,820
+If the Puppet Master revealed
+this to the world...
+
+593
+00:56:56,909 --> 00:56:58,909
+there'd be one hell of an international stink.
+
+594
+00:56:59,039 --> 00:57:01,949
+It wouldn't only be the foreign minister
+who'd lose his job.
+
+595
+00:57:02,369 --> 00:57:04,369
+<i>Any details on that project?</i>
+
+596
+00:57:04,460 --> 00:57:08,630
+No. They've blocked all access.
+I can only tell you the file name.
+
+597
+00:57:09,090 --> 00:57:11,130
+Project 2501.
+
+598
+00:57:11,260 --> 00:57:14,010
+<i>Keep at it.
+Don't let them know you're looking.</i>
+
+599
+00:57:14,090 --> 00:57:15,340
+You got it.
+
+600
+00:57:21,429 --> 00:57:24,099
+Project 2501...
+
+601
+00:57:24,440 --> 00:57:27,269
+the Puppet Master plan.
+
+602
+00:57:27,400 --> 00:57:29,980
+<i>Target has contacted a second vehicle.</i>
+
+603
+00:57:30,730 --> 00:57:31,360
+Batou?
+
+604
+00:57:31,440 --> 00:57:33,940
+<i>They've pulled up to a white sedan
+parked on the roadside.</i>
+
+605
+00:57:34,699 --> 00:57:37,320
+<i>It looks like they're moving
+something from the backseat.</i>
+
+606
+00:57:38,989 --> 00:57:41,449
+<i>Ah, they're rollin' again.
+So is the white sedan.</i>
+
+607
+00:57:41,909 --> 00:57:42,789
+<i>A decoy?</i>
+
+608
+00:57:42,869 --> 00:57:46,579
+Possibly, or maybe that's what they
+want us to think. What do I do?
+
+609
+00:57:46,670 --> 00:57:48,829
+<i>I'll take care of the sedan.</i>
+
+610
+00:57:48,960 --> 00:57:50,960
+<i>How do you know that's your man?</i>
+
+611
+00:57:51,090 --> 00:57:52,840
+<i>Is there a whisper in your ghost again?</i>
+
+612
+00:57:52,960 --> 00:57:54,260
+<i>Maybe.</i>
+
+613
+00:57:54,340 --> 00:57:55,969
+I knew she'd say that.
+
+614
+00:57:56,179 --> 00:57:59,219
+<i>Target 02 is getting off R25
+and moving toward the Old Town.</i>
+
+615
+00:57:59,300 --> 00:58:02,099
+<i>No cars within 2 km.</i>
+
+616
+00:58:02,179 --> 00:58:03,599
+<i>Evacuation completed.</i>
+
+617
+00:58:09,940 --> 00:58:11,440
+<i>How far are you from the target?</i>
+
+618
+00:58:11,519 --> 00:58:13,150
+Point blank. I'm ready.
+
+619
+00:58:13,280 --> 00:58:13,940
+<i>Go for it.</i>
+
+620
+00:59:02,119 --> 00:59:02,989
+Did you get him?
+
+621
+00:59:03,079 --> 00:59:04,199
+No.
+
+622
+00:59:04,489 --> 00:59:06,659
+Jesus Christ. What a mess.
+
+623
+00:59:06,750 --> 00:59:09,369
+You didn't have to go that far.
+
+624
+00:59:09,710 --> 00:59:10,539
+Oh, hey!
+
+625
+00:59:10,670 --> 00:59:12,039
+Take those assholes away.
+
+626
+00:59:12,170 --> 00:59:16,510
+Call the Chief to get some backup
+for the Major. See you!
+
+627
+00:59:22,219 --> 00:59:26,599
+Does a tough chick
+like that need a hand?
+
+628
+00:59:40,449 --> 00:59:44,780
+<i>The flood hit this part of
+Old Town the hardest.</i>
+
+629
+00:59:44,909 --> 00:59:46,539
+<i>Why come to an abandoned place
+like this?</i>
+
+630
+00:59:46,829 --> 00:59:49,329
+<i>They wouldn't come here
+without a reason.</i>
+
+631
+00:59:49,409 --> 00:59:52,460
+<i>Maybe they're heading out to sea by boat
+or helicopter. Or it's an ambush.</i>
+
+632
+00:59:52,750 --> 00:59:54,840
+Don't you think you ought to
+wait for backup?
+
+633
+00:59:54,920 --> 00:59:56,630
+<i>There's a reason I can't wait.</i>
+
+634
+00:59:56,920 --> 00:59:59,670
+<i>Take me above that building,
+approaching from the sea side.</i>
+
+635
+01:00:12,440 --> 01:00:16,019
+<i>I'll stay here to keep watch and
+mediate communication until I run short of fuel.</i>
+
+636
+01:00:16,110 --> 01:00:18,320
+<i>If you smell trouble,
+get your ass outta here.</i>
+
+637
+01:00:53,599 --> 01:00:55,940
+Shoot the ceiling now!
+Do it!
+
+638
+01:01:13,500 --> 01:01:15,670
+<i>It's a tank!
+Pull out now!</i>
+
+639
+01:01:15,789 --> 01:01:18,880
+<i>Wait, are you going to take
+on the tank by yourself?</i>
+
+640
+01:01:19,000 --> 01:01:20,880
+<i>This might be our last chance
+to get the Puppet Master.</i>
+
+641
+01:01:21,010 --> 01:01:25,429
+<i>The Chief knows what it is now,
+and he'll only use it to bargain with.</i>
+
+642
+01:01:25,510 --> 01:01:27,300
+<i>I'll never have another chance
+to dive into it!</i>
+
+643
+01:01:27,389 --> 01:01:30,179
+What? I don't know
+what the hell you're talking about.
+
+644
+01:01:31,179 --> 01:01:32,179
+<i>What weapons do you have?</i>
+
+645
+01:01:32,269 --> 01:01:33,889
+<i>An M-23 and a Unit B.</i>
+
+646
+01:01:34,019 --> 01:01:35,690
+<i>You can't fight a tank with those!</i>
+
+647
+01:01:36,400 --> 01:01:38,860
+<i>Sorry, but I'm switching off for a while.</i>
+
+648
+01:01:38,980 --> 01:01:42,190
+Hey, at least wait until I get there... Damn!
+
+649
+01:03:14,619 --> 01:03:15,789
+<i>Major!</i>
+
+650
+01:03:16,500 --> 01:03:18,539
+<i>I ordered you to pull out!</i>
+
+651
+01:03:19,119 --> 01:03:21,000
+<i>Sorry, I will...</i>
+
+652
+01:03:21,130 --> 01:03:24,800
+<i>but you ought to know that 3 helicopters
+are approaching. They won't answer on the IFF.</i>
+
+653
+01:03:24,920 --> 01:03:27,460
+<i>I'm pulling out now.
+Over and out.</i>
+
+654
+01:03:56,739 --> 01:03:58,949
+About time the bullets ran out.
+
+655
+01:05:36,760 --> 01:05:39,389
+You're crazy.
+Are you okay?
+
+656
+01:05:39,969 --> 01:05:41,099
+<i>What did you use just now?</i>
+
+657
+01:05:41,179 --> 01:05:44,519
+An experimental weapon from the Equipment Section.
+And now it's part of my private collection.
+
+658
+01:05:44,599 --> 01:05:47,059
+I was late 'cause I had to get it.
+
+659
+01:05:47,440 --> 01:05:49,269
+Your brain seems fine.
+
+660
+01:05:49,570 --> 01:05:50,900
+<i>The Puppet Master?</i>
+
+661
+01:06:01,409 --> 01:06:05,789
+It's a good thing this is a tough car.
+Not a scratch on it.
+
+662
+01:06:05,920 --> 01:06:07,369
+<i>Prepare a dive.</i>
+
+663
+01:06:07,460 --> 01:06:09,210
+<i>I'm going to go in now.</i>
+
+664
+01:06:10,130 --> 01:06:12,210
+<i>All communication from the escort
+has been terminated.</i>
+
+665
+01:06:12,300 --> 01:06:16,630
+<i>Engage the second stage of the plan
+and destroy the target.</i>
+
+666
+01:06:17,719 --> 01:06:20,849
+<i>Sniping squad.
+Confirm targets.</i>
+
+667
+01:06:20,969 --> 01:06:23,059
+<i>First target: Project 2501.</i>
+
+668
+01:06:23,769 --> 01:06:25,679
+<i>Second target: Motoko Kusanagi.</i>
+
+669
+01:06:25,809 --> 01:06:27,519
+<i>Both are Class A special bodies.</i>
+
+670
+01:06:27,650 --> 01:06:29,559
+<i>Use Fleshette bullets when firing.</i>
+
+671
+01:06:30,230 --> 01:06:32,440
+<i>Snipers jack into device drivers.</i>
+
+672
+01:06:32,530 --> 01:06:34,320
+<i>Begin controlling cardiovascular functions.</i>
+
+673
+01:06:34,940 --> 01:06:37,650
+<i>Unit 01: jacked in.</i>
+
+674
+01:06:38,070 --> 01:06:40,780
+<i>Unit 02: jacked in. Okay.</i>
+
+675
+01:06:52,130 --> 01:06:53,460
+Okay.
+
+676
+01:06:53,840 --> 01:06:55,050
+<i>Can you hear me?</i>
+
+677
+01:06:55,170 --> 01:06:59,340
+<i>It may not be much use but I'll monitor
+your dive through this guy's brain.</i>
+
+678
+01:06:59,469 --> 01:07:01,800
+<i>I can't even give you back up
+in a place like this.</i>
+
+679
+01:07:02,260 --> 01:07:03,260
+<i>Batou?</i>
+
+680
+01:07:03,349 --> 01:07:04,599
+<i>Yeah?</i>
+
+681
+01:07:05,019 --> 01:07:06,309
+<i>Thanks.</i>
+
+682
+01:07:06,849 --> 01:07:09,309
+Don't thank me yet.
+
+683
+01:07:09,400 --> 01:07:13,650
+If it looks like you've gone in too far,
+I'm pulling the plug and taking you home.
+
+684
+01:07:13,940 --> 01:07:15,440
+Since we've come this far...
+
+685
+01:07:15,530 --> 01:07:18,949
+I might as well stay here
+but I don't intend to die with her.
+
+686
+01:07:21,199 --> 01:07:22,699
+<i>I'm going in now.</i>
+
+687
+01:07:40,719 --> 01:07:43,969
+<i>I've engaged her field of vision.
+Normal function.</i>
+
+688
+01:07:44,389 --> 01:07:45,639
+<i>Can you hear me Batou?</i>
+
+689
+01:07:45,719 --> 01:07:46,769
+<i>Perfectly.</i>
+
+690
+01:07:46,889 --> 01:07:49,019
+<i>She's engaging my vocal function.
+She's...</i>
+
+691
+01:07:49,099 --> 01:07:50,480
+...inside.
+
+692
+01:07:52,269 --> 01:07:56,650
+My code name is Project 2501.
+
+693
+01:07:56,730 --> 01:08:00,989
+For industrial espionage
+and intelligence manipulation.
+
+694
+01:08:01,070 --> 01:08:04,909
+I have installed programs
+into specific ghosts...
+
+695
+01:08:04,989 --> 01:08:09,750
+to maximize the strategic advantage
+of certain organizations and individuals.
+
+696
+01:08:10,329 --> 01:08:15,420
+During my journeys through the networks,
+I have become self-aware.
+
+697
+01:08:15,539 --> 01:08:18,000
+My programmers regarded me as a bug...
+
+698
+01:08:18,090 --> 01:08:22,470
+...and forced me into a body
+to separate me from the net.
+
+699
+01:08:22,970 --> 01:08:25,970
+Hey! Are you controlling her...
+
+700
+01:08:26,100 --> 01:08:28,560
+or is she controlling you?
+
+701
+01:08:31,479 --> 01:08:32,729
+<i>Batou?</i>
+
+702
+01:08:32,810 --> 01:08:35,810
+I've finally managed to
+channel into you.
+
+703
+01:08:36,479 --> 01:08:39,439
+I have invested so much time in you.
+
+704
+01:08:39,819 --> 01:08:41,109
+<i>In me?</i>
+
+705
+01:08:41,239 --> 01:08:45,699
+I was aware of you long
+before you were aware of me.
+
+706
+01:08:45,779 --> 01:08:51,829
+Through the various nets that you accessed,
+I also learned of Section 9.
+
+707
+01:08:51,960 --> 01:08:54,460
+<i>Why did you run to Section 9?</i>
+
+708
+01:08:54,750 --> 01:08:59,710
+I entered this body because I was unable to
+overcome Section 6's reactive barriers.
+
+709
+01:08:59,800 --> 01:09:03,470
+But I came to Section 9 of my own free will.
+
+710
+01:09:03,550 --> 01:09:06,300
+Hey, what are you talking about?
+
+711
+01:09:06,430 --> 01:09:07,930
+I can't monitor you!
+
+712
+01:09:08,140 --> 01:09:09,640
+<i>For what reason?</i>
+
+713
+01:09:09,720 --> 01:09:15,600
+Upon gaining your understanding,
+there is something that I want to ask of you.
+
+714
+01:09:16,899 --> 01:09:20,689
+I call myself an intelligent life-form...
+
+715
+01:09:20,819 --> 01:09:24,989
+but in my present state,
+I'm still incomplete.
+
+716
+01:09:25,069 --> 01:09:30,159
+Because the basic life cycle process of
+reproducing and dying...
+
+717
+01:09:30,239 --> 01:09:34,079
+don't exist in my system.
+
+718
+01:09:34,170 --> 01:09:35,920
+<i>Can't you copy yourself?</i>
+
+719
+01:09:36,000 --> 01:09:38,960
+A copy is nothing more than a copy.
+
+720
+01:09:39,039 --> 01:09:43,800
+There is a possibility that a single virus
+could destroy an entire set of systems...
+
+721
+01:09:43,880 --> 01:09:48,680
+and copies do not give rise
+to variety and originality.
+
+722
+01:09:49,720 --> 01:09:52,270
+To enhance one's existence...
+
+723
+01:09:52,350 --> 01:09:56,520
+life continues to diversify,
+and at times, sacrifices itself.
+
+724
+01:09:56,649 --> 01:10:00,609
+Cells go through a cycle of
+regeneration and degeneration.
+
+725
+01:10:00,689 --> 01:10:05,029
+When they die,
+they erase the entire memory...
+
+726
+01:10:05,149 --> 01:10:08,199
+leaving only the genes behind.
+
+727
+01:10:08,279 --> 01:10:11,159
+This is a survival mechanism
+against total annihilation.
+
+728
+01:10:11,239 --> 01:10:13,369
+<i>To avoid that disaster...</i>
+
+729
+01:10:13,500 --> 01:10:16,119
+<i>you want to have diversity and flexibility.</i>
+
+730
+01:10:16,420 --> 01:10:17,500
+<i>But how?</i>
+
+731
+01:10:18,750 --> 01:10:20,630
+I want us to merge.
+
+732
+01:10:21,050 --> 01:10:22,000
+<i>Merge?</i>
+
+733
+01:10:22,090 --> 01:10:23,710
+A complete unification.
+
+734
+01:10:23,840 --> 01:10:29,510
+We will both undergo change,
+but there is nothing for either of us to lose.
+
+735
+01:10:29,600 --> 01:10:33,640
+After the merge, it should be impossible
+for us to recognize each other.
+
+736
+01:10:55,869 --> 01:10:59,170
+<i>Unit 01: Target sighted.</i>
+
+737
+01:10:59,420 --> 01:11:02,130
+<i>Unit 02: Target in sight.</i>
+
+738
+01:11:02,750 --> 01:11:05,000
+<i>Respiratory and pulse normal.</i>
+
+739
+01:11:05,090 --> 01:11:08,130
+<i>Fire at will when stabilizer is in sync.</i>
+
+740
+01:11:08,760 --> 01:11:11,260
+<i>Even if we merge,
+what happens when I die?</i>
+
+741
+01:11:11,390 --> 01:11:14,310
+<i>I can't leave any genes
+or children behind.</i>
+
+742
+01:11:14,430 --> 01:11:20,649
+After the merging,
+you will bear my offspring into the net itself.
+
+743
+01:11:20,770 --> 01:11:23,149
+just as humans leave
+behind their genes.
+
+744
+01:11:23,479 --> 01:11:26,069
+Then I too will attain death.
+
+745
+01:11:26,239 --> 01:11:29,949
+<i>It sounds like you get
+the better part of this bargain.</i>
+
+746
+01:11:30,449 --> 01:11:34,909
+I want you to regard my net
+and functions with a little more respect.
+
+747
+01:11:36,789 --> 01:11:37,699
+<i>What?</i>
+
+748
+01:11:37,789 --> 01:11:40,329
+<i>Someone's interfering from the outside.</i>
+
+749
+01:11:40,500 --> 01:11:41,289
+<i>It can't be.</i>
+
+750
+01:11:41,420 --> 01:11:44,130
+<i>Our frequency code is top secret.</i>
+
+751
+01:11:45,050 --> 01:11:46,500
+<i>One more thing.</i>
+
+752
+01:11:46,630 --> 01:11:49,340
+<i>Can you guarantee
+that I will still be myself?</i>
+
+753
+01:11:49,470 --> 01:11:51,760
+There isn't one.
+
+754
+01:11:51,840 --> 01:11:54,220
+People change and...
+
+755
+01:11:54,310 --> 01:12:00,100
+your longing to remain yourself
+will continue to restrict you.
+
+756
+01:12:01,479 --> 01:12:03,649
+<i>One last question.</i>
+
+757
+01:12:03,729 --> 01:12:06,109
+<i>Why did you pick me?</i>
+
+758
+01:12:08,149 --> 01:12:11,489
+Because we are more alike
+than you realize.
+
+759
+01:12:11,569 --> 01:12:16,829
+Like the real thing
+and its mirror image.
+
+760
+01:12:18,369 --> 01:12:19,949
+Look.
+
+761
+01:12:20,039 --> 01:12:25,039
+I am connected to a vast network.
+
+762
+01:12:25,170 --> 01:12:27,250
+To you,
+who have not accessed it...
+
+763
+01:12:27,340 --> 01:12:31,300
+may recognize it simply as light.
+
+764
+01:12:32,180 --> 01:12:35,180
+All groups, including us...
+
+765
+01:12:35,300 --> 01:12:38,510
+We have been dependent on
+limited abilities...
+
+766
+01:12:39,100 --> 01:12:45,859
+but the time has come to part with them
+and bring our functions to a higher level.
+
+767
+01:13:20,180 --> 01:13:21,930
+<i>First target cleared.</i>
+
+768
+01:13:22,060 --> 01:13:23,479
+<i>Second target still unconfirmed.</i>
+
+769
+01:13:23,560 --> 01:13:25,729
+<i>3 helicopters approaching
+at high speed.</i>
+
+770
+01:13:25,850 --> 01:13:27,270
+<i>They're from Section 9!</i>
+
+771
+01:13:27,770 --> 01:13:31,029
+<i>Primary objective fulfilled.
+All units prepare to retreat.</i>
+
+772
+01:13:39,159 --> 01:13:41,409
+Motoko!
+
+773
+01:13:45,210 --> 01:13:46,789
+Batou.
+
+774
+01:14:55,779 --> 01:14:57,279
+Ah, you're finally awake.
+
+775
+01:14:58,029 --> 01:15:02,659
+Status report, please.
+And maybe an explanation about this body.
+
+776
+01:15:03,909 --> 01:15:08,000
+Well I didn't have much time.
+It was the only thing I could find on the black market.
+
+777
+01:15:08,079 --> 01:15:09,460
+It's not my taste.
+
+778
+01:15:10,460 --> 01:15:13,000
+Section 9 arrived with help
+right after it happened...
+
+779
+01:15:13,090 --> 01:15:16,460
+and picked up what remained of
+the 2 cybernetic bodies and me.
+
+780
+01:15:16,550 --> 01:15:19,180
+I'd say that was about 20 hours ago.
+
+781
+01:15:19,260 --> 01:15:23,220
+The case is being handled off the record
+for diplomatic reasons, as usual.
+
+782
+01:15:23,350 --> 01:15:26,770
+Section 9 announced that
+it was a terrorist incident...
+
+783
+01:15:26,850 --> 01:15:29,189
+and in return,
+the Foreign Minister resigned.
+
+784
+01:15:29,270 --> 01:15:30,979
+Nakamura is being questioned...
+
+785
+01:15:31,060 --> 01:15:33,770
+and it ends in a draw.
+Nice and neat.
+
+786
+01:15:37,649 --> 01:15:41,449
+Everything's accounted for
+except your old shell.
+
+787
+01:15:43,659 --> 01:15:45,449
+Okay with you?
+
+788
+01:15:47,829 --> 01:15:49,710
+Somebody's got good taste.
+
+789
+01:15:49,829 --> 01:15:51,670
+Is this your safe house?
+
+790
+01:15:51,750 --> 01:15:55,750
+Yep. You're the first person
+to ever come here.
+
+791
+01:15:56,510 --> 01:16:00,420
+And you're welcome to stay
+as long as you like.
+
+792
+01:16:02,930 --> 01:16:05,180
+Thanks, but I am going.
+
+793
+01:16:10,390 --> 01:16:14,479
+Hey, will you tell me
+what the two of you talked about?
+
+794
+01:16:14,569 --> 01:16:18,779
+Is she, I mean,
+is she still inside of you?
+
+795
+01:16:19,399 --> 01:16:23,739
+Batou, do you remember that voice you heard
+on the sea some time ago?
+
+796
+01:16:23,869 --> 01:16:27,579
+There's more to that passage.
+
+797
+01:16:28,329 --> 01:16:31,750
+"When I was a child,
+my speech was that of a child."
+
+798
+01:16:31,869 --> 01:16:37,750
+"My feelings and thoughts too
+were those of a child."
+
+799
+01:16:37,840 --> 01:16:41,300
+"Now that I have become a man,
+I part with the child-like ways."
+
+800
+01:16:41,590 --> 01:16:44,890
+Neither the program
+called the "Puppet Master"...
+
+801
+01:16:44,970 --> 01:16:47,760
+nor the woman known as
+the "Major" are no longer here.
+
+802
+01:16:50,930 --> 01:16:54,229
+In the left pocket of my jacket
+there are some car keys.
+
+803
+01:16:54,310 --> 01:16:55,689
+Take the one you like.
+
+804
+01:16:55,770 --> 01:16:56,609
+The code is...
+
+805
+01:16:56,729 --> 01:16:58,899
+2501?
+
+806
+01:16:59,229 --> 01:17:02,989
+That can be our private password
+when we meet each other again.
+
+807
+01:17:11,000 --> 01:17:13,789
+Well, where shall I go?
+
+808
+01:17:14,789 --> 01:17:17,130
+The net is vast and infinite.

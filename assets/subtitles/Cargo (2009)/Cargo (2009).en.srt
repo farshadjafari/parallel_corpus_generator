@@ -1,0 +1,2455 @@
+1
+00:04:30,600 --> 00:04:35,400
+You were right. Earth won't make it.
+
+2
+00:04:35,400 --> 00:04:39,600
+Even the last ones who escaped earth arrived.
+
+3
+00:04:39,600 --> 00:04:42,011
+But there is no more place in here either.
+
+4
+00:04:43,700 --> 00:04:46,463
+The epidemics are spreading faster.
+
+5
+00:04:47,500 --> 00:04:50,047
+I'm not able to keep up.
+
+6
+00:04:50,047 --> 00:04:53,261
+The people are dying in my arms.
+
+7
+00:05:01,200 --> 00:05:04,900
+I applied as a doctor on a cargo ship.
+
+8
+00:05:04,900 --> 00:05:09,400
+Four years until we are there and 4 years back.
+
+9
+00:05:09,400 --> 00:05:12,370
+I'll spend most of the time in hibernation.
+
+10
+00:05:12,370 --> 00:05:14,000
+This single flight...
+
+11
+00:05:14,000 --> 00:05:15,500
+... and I'll have enough money to ...
+
+12
+00:05:15,500 --> 00:05:17,800
+... go to Rhea.
+
+13
+00:05:17,800 --> 00:05:19,833
+Then we'll finally be together again.
+
+14
+00:05:26,100 --> 00:05:29,472
+Did you hear my dear sister? I have to go.
+
+15
+00:05:31,500 --> 00:05:33,600
+I want to get to Rhea.
+
+16
+00:05:33,600 --> 00:05:36,877
+And finally see you and the kids again.
+
+17
+00:07:41,400 --> 00:07:43,000
+Dr. Laura Portmann?
+
+18
+00:07:43,000 --> 00:07:46,600
+Anna Lindbergh, first officer.
+
+19
+00:07:46,600 --> 00:07:48,880
+Welcome aboard.
+
+20
+00:08:09,800 --> 00:08:12,000
+Everybody listen.
+
+21
+00:08:22,400 --> 00:08:26,500
+Miyuki Yoshida, system administrator.
+
+22
+00:08:26,500 --> 00:08:29,300
+This loudmouth here is Vespucci.
+
+23
+00:08:29,300 --> 00:08:32,931
+Thankfully Prokoff isn't talking that much.
+
+24
+00:08:33,900 --> 00:08:37,738
+Dr. Portmann.
+
+25
+00:08:41,682 --> 00:08:44,700
+Station 42 will be upgraded to a transport hub.
+
+26
+00:08:49,800 --> 00:08:52,797
+It's in the Orth's Cloud, half way to Proxima ...
+
+27
+00:08:52,797 --> 00:08:57,789
+... and is in a stable orbit around RH278.
+
+28
+00:08:59,300 --> 00:09:00,607
+The autopilot is activated.
+
+29
+00:09:03,000 --> 00:09:05,839
+Because of all the recent terror attacks ...
+
+30
+00:09:05,839 --> 00:09:09,300
+... the temporary government ordered to have ...
+
+31
+00:09:09,300 --> 00:09:13,596
+... a sky marshal on every ship.
+
+32
+00:09:13,596 --> 00:09:15,156
+Damn snitches.
+
+33
+00:09:15,156 --> 00:09:17,238
+It is said, that the "Maschinen Stuermer" are ...
+
+34
+00:09:17,238 --> 00:09:20,341
+... preparing for major sabotage acts.
+
+35
+00:09:20,341 --> 00:09:25,000
+This ship is already decaying, no one would sabotage anything.
+
+36
+00:09:33,673 --> 00:09:37,900
+Lt. Samuel Decker. Space Security Agency.
+
+37
+00:09:37,900 --> 00:09:41,600
+We will seal the cargo compartment in 30 minutes.
+
+38
+00:09:41,600 --> 00:09:46,200
+If you want to get to know someone, better do it now.
+
+39
+00:09:46,200 --> 00:09:47,700
+At 0200 the engines will started.
+
+40
+00:09:47,700 --> 00:09:51,790
+At 0230 we will meet at the cryo chambers.
+
+41
+00:09:51,790 --> 00:09:54,720
+Have a good company.
+
+42
+00:09:57,625 --> 00:10:00,300
+According to resolution 278 of the RBS ...
+
+43
+00:10:00,300 --> 00:10:04,300
+... from now on there will be sky marshals even on cargo flights.
+
+44
+00:10:04,300 --> 00:10:07,637
+Just accept me as a part of the crew.
+
+45
+00:10:14,000 --> 00:10:17,500
+"This is an informational broadcast of the TSA."
+
+46
+00:10:17,500 --> 00:10:22,000
+"The threat of terror attacks has never been as present since the great collapse."
+
+47
+00:10:22,000 --> 00:10:26,730
+"Klaus Bruckner is still on the run after his latest terror attack."
+
+48
+00:10:27,820 --> 00:10:32,000
+"This man is responsible for the latest bombings ...
+
+49
+00:10:32,000 --> 00:10:36,500
+"... on the stations 20, 23 and 24."
+
+50
+00:10:36,500 --> 00:10:40,000
+"While he is claiming responsibility for the current attacks, ..."
+
+51
+00:10:40,000 --> 00:10:43,721
+"... he keeps on propagating the messages of the "Maschinen Stuermer"."
+
+52
+00:10:43,721 --> 00:10:45,882
+"We are living in machines."
+
+53
+00:10:45,882 --> 00:10:48,883
+"What are we producing? Machines."
+
+54
+00:10:48,883 --> 00:10:51,800
+"Our enemy is the TSA."
+
+55
+00:10:51,800 --> 00:10:55,893
+"There will be no peace as long as technology is ruling us."
+
+56
+00:10:55,893 --> 00:10:57,500
+"Down with the machines!"
+
+57
+00:10:57,500 --> 00:11:00,047
+"Down with the stations!"
+
+58
+00:11:00,047 --> 00:11:05,000
+"Because of the latest events, the TSA ordered, ..."
+
+59
+00:11:05,000 --> 00:11:07,576
+"... to ensure the safety of ship and crew, ..."
+
+60
+00:11:07,576 --> 00:11:11,000
+"... each flight to be accompanied by a security officer."
+
+61
+00:11:11,000 --> 00:11:14,838
+"Support the sky marshal on his duty and ..."
+
+62
+00:12:13,600 --> 00:12:16,167
+Listen everybody, this will be the order of shifts.
+
+63
+00:12:16,167 --> 00:12:19,500
+Each shift will take 8 and a half months.
+
+64
+00:12:19,500 --> 00:12:21,767
+I'll take the first.
+
+65
+00:12:21,767 --> 00:12:22,800
+Then Lindbergh...
+
+66
+00:12:22,800 --> 00:12:23,800
+... Yoshida ...
+
+67
+00:12:23,800 --> 00:12:24,900
+... Vespucci ...
+
+68
+00:12:24,900 --> 00:12:25,500
+... Prokoff ...
+
+69
+00:12:25,500 --> 00:12:27,800
+... Portmann.
+
+70
+00:12:27,800 --> 00:12:31,000
+At the end to deploy the cargo, Lindbergh again.
+
+71
+00:12:31,000 --> 00:12:33,400
+And if someone should face any problems, ...
+
+72
+00:12:33,400 --> 00:12:34,791
+... feel free to knock on Deckers tank.
+
+73
+00:14:45,700 --> 00:14:47,000
+"Dear Laura,"
+
+74
+00:14:48,400 --> 00:14:51,571
+"I'm sending you some sunshine from Rhea."
+
+75
+00:14:53,498 --> 00:14:58,500
+"I haven't had you in my arms for such a long time ..."
+
+76
+00:14:58,500 --> 00:15:01,500
+"It's not good that you are doing cargo flights."
+
+77
+00:15:01,500 --> 00:15:03,800
+"We are worried."
+
+78
+00:15:03,800 --> 00:15:06,500
+"People are telling each other that the "Maschinen Stuermer" ..."
+
+79
+00:15:06,500 --> 00:15:08,000
+"... are becoming more and more aggressive."
+
+80
+00:15:08,000 --> 00:15:11,846
+"But what do you expect us to believe from four year's old information?"
+
+81
+00:15:11,846 --> 00:15:16,200
+"I don't even want to think about what could have happened in the mean time."
+
+82
+00:15:16,200 --> 00:15:18,826
+"I really hope that you are doing well."
+
+83
+00:15:18,826 --> 00:15:21,547
+"Please stay in touch."
+
+84
+00:15:21,547 --> 00:15:24,500
+"See you soon."
+
+85
+00:15:24,500 --> 00:15:27,806
+"I miss you."
+
+86
+00:16:46,220 --> 00:16:47,847
+Dear Arianne,
+
+87
+00:16:49,500 --> 00:16:53,627
+I miss you too.
+
+88
+00:16:53,627 --> 00:16:58,500
+It is so unbelievable cold in here, you couldn't imagine.
+
+89
+00:16:58,500 --> 00:17:03,340
+I'll show you some pics of the mess I got myself into.
+
+90
+00:17:03,340 --> 00:17:07,972
+Well... Just two months left till the end of my shift.
+
+91
+00:17:10,000 --> 00:17:13,000
+We are four light years away from earth.
+
+92
+00:17:13,000 --> 00:17:16,300
+And are transporting material to build a station,
+
+93
+00:17:16,300 --> 00:17:20,000
+so that one day, we will be able to fly to Proxima.
+
+94
+00:17:20,000 --> 00:17:23,000
+It has been said that there are inhabitable planets too.
+
+95
+00:17:24,800 --> 00:17:28,272
+I really want to be with you.
+
+96
+00:17:28,272 --> 00:17:30,000
+Please don't worry,
+
+97
+00:17:30,000 --> 00:17:32,000
+I'm doing fine.
+
+98
+00:17:32,000 --> 00:17:34,920
+See you soon.
+
+99
+00:21:26,341 --> 00:21:28,000
+What are you doing here?
+
+100
+00:21:28,000 --> 00:21:30,000
+Someone opened the cargo compartment.
+
+101
+00:21:30,000 --> 00:21:32,906
+I was automatically woken up.
+
+102
+00:21:33,500 --> 00:21:36,000
+Why did you open up the gate?
+
+103
+00:21:36,000 --> 00:21:39,999
+You know that it is strictly forbidden to enter the cargo compartment.
+
+104
+00:21:39,999 --> 00:21:43,800
+Something is inside the port.
+
+105
+00:21:43,800 --> 00:21:45,500
+That's impossible.
+
+106
+00:21:45,500 --> 00:21:46,600
+Something is behind the port.
+
+107
+00:21:46,600 --> 00:21:48,000
+We have to wake the crew now.
+
+108
+00:21:48,000 --> 00:21:51,800
+No, the hibernation phases must be kept intact.
+
+109
+00:21:51,800 --> 00:21:55,200
+But why don't you show it to me?
+
+110
+00:21:55,200 --> 00:21:57,500
+The rules say, that under exceptional circumstances ...
+
+111
+00:21:57,500 --> 00:21:59,161
+... we have to wake up the captain.
+
+112
+00:22:07,000 --> 00:22:10,479
+It seems as if Dr. Portmann isn't able to handle loneliness very well.
+
+113
+00:22:13,000 --> 00:22:15,658
+I'm sorry that we've awakened you.
+
+114
+00:22:17,800 --> 00:22:22,182
+Let's just hope that you are sure.
+
+115
+00:23:14,800 --> 00:23:18,013
+The suits have been thrown around because of the over pressure.
+
+116
+00:23:48,700 --> 00:23:52,695
+The compartment was open for several times throughout your shift.
+
+117
+00:23:53,300 --> 00:23:57,678
+I hope for you that this was just a technical failure.
+
+118
+00:25:41,000 --> 00:25:43,418
+Let's go.
+
+119
+00:26:12,091 --> 00:26:14,508
+The cargo compartment is split up into 9 sectors.
+
+120
+00:26:14,508 --> 00:26:16,411
+You take A to C.
+
+121
+00:26:16,411 --> 00:26:18,000
+You take D to F.
+
+122
+00:26:18,000 --> 00:26:19,200
+And I'll take the rest.
+
+123
+00:26:19,200 --> 00:26:21,521
+Shouldn't we stay together?
+
+124
+00:26:21,521 --> 00:26:24,861
+I don't want to stay overnight.
+
+125
+00:26:26,459 --> 00:26:27,833
+We'll stay in contact...
+
+126
+00:26:50,200 --> 00:26:52,100
+The containers are all locked.
+
+127
+00:26:52,100 --> 00:26:56,313
+That is correct, you should know that Decker.
+
+128
+00:27:42,500 --> 00:27:45,542
+Didn't find anything suspicious 'till now.
+
+129
+00:27:45,542 --> 00:27:48,000
+Except that we are not fully loaded. Answer.
+
+130
+00:27:48,000 --> 00:27:50,200
+Me neither.
+
+131
+00:27:50,200 --> 00:27:52,500
+Roger. Keep searching. Over.
+
+132
+00:28:06,000 --> 00:28:09,380
+Lacroix, here Laura.
+
+133
+00:28:11,500 --> 00:28:13,052
+Lacroix!
+
+134
+00:28:16,000 --> 00:28:17,300
+Fuck!
+
+135
+00:28:18,000 --> 00:28:19,500
+Decker?
+
+136
+00:28:19,500 --> 00:28:21,700
+Decker!
+
+137
+00:28:21,700 --> 00:28:22,200
+"What happened?"
+
+138
+00:28:22,200 --> 00:28:23,700
+I think Lacroix has fallen down.
+
+139
+00:28:23,700 --> 00:28:25,000
+"What? Where are you?"
+
+140
+00:28:25,000 --> 00:28:26,685
+In sector E4-20.
+
+141
+00:28:26,685 --> 00:28:28,000
+I'm going down to sector G.
+
+142
+00:28:28,000 --> 00:28:29,649
+"I'm coming!"
+
+143
+00:28:41,000 --> 00:28:41,800
+Lacroix!
+
+144
+00:28:41,800 --> 00:28:43,530
+Do you hear me?
+
+145
+00:28:45,200 --> 00:28:47,213
+Lacroix, do you hear me?
+
+146
+00:28:49,500 --> 00:28:50,400
+Is he alive?
+
+147
+00:28:50,400 --> 00:28:52,331
+We must get him out of the cold now!
+
+148
+00:28:58,500 --> 00:29:01,000
+The gate!
+
+149
+00:31:06,300 --> 00:31:09,800
+According to the regulations, I'll be in command of the ship.
+
+150
+00:31:09,800 --> 00:31:13,000
+Prokoff, Vespucci fix the gate.
+
+151
+00:31:13,000 --> 00:31:15,600
+The cargo compartment must be sealed as soon as possible.
+
+152
+00:31:15,600 --> 00:31:19,000
+Yoshida, you'll verify all entrys in the main computer ...
+
+153
+00:31:19,000 --> 00:31:21,801
+... and check for suspicious activities.
+
+154
+00:31:21,801 --> 00:31:23,300
+And you will examine Lacroixs corpse.
+
+155
+00:31:23,300 --> 00:31:26,530
+I want the exact cause of death.
+
+156
+00:32:20,700 --> 00:32:22,371
+Start recording.
+
+157
+00:32:28,000 --> 00:32:30,556
+Multiple spline fracture.
+
+158
+00:32:35,000 --> 00:32:38,000
+Craniocerebral injury.
+
+159
+00:32:40,000 --> 00:32:43,236
+Supposedly caused by a fall from a severe height.
+
+160
+00:32:44,000 --> 00:32:46,746
+Time of Death: Some minutes after the impact.
+
+161
+00:34:25,000 --> 00:34:27,500
+I thought that we were just transporting construction materials.
+
+162
+00:34:28,300 --> 00:34:30,200
+That's what I was thinking too.
+
+163
+00:35:01,300 --> 00:35:02,300
+Whats wrong with the gate?
+
+164
+00:35:02,300 --> 00:35:08,000
+The fuck is. Everything is stuck and the gears seem to be broken too.
+
+165
+00:35:34,100 --> 00:35:36,000
+It must have been here.
+
+166
+00:35:38,400 --> 00:35:39,749
+Sealed.
+
+167
+00:35:43,100 --> 00:35:45,355
+I have Lacroix's batch.
+
+168
+00:37:04,300 --> 00:37:06,600
+A child.
+
+169
+00:37:06,600 --> 00:37:08,489
+It's a child!
+
+170
+00:37:15,328 --> 00:37:17,885
+All containers are full of humans.
+
+171
+00:37:25,000 --> 00:37:27,211
+"Vespucci, Prokoff."
+
+172
+00:37:30,300 --> 00:37:32,000
+Yes?
+
+173
+00:37:32,000 --> 00:37:35,152
+"Please come to sector F7-21."
+
+174
+00:37:43,200 --> 00:37:47,000
+Why the heck do we transport humans to Station 42?
+
+175
+00:37:57,500 --> 00:37:59,325
+Fuuuuuuuu
+
+176
+00:38:01,500 --> 00:38:03,143
+Thats really ...
+
+177
+00:38:09,500 --> 00:38:10,498
+Shit!
+
+178
+00:38:13,800 --> 00:38:16,200
+Get moving!
+
+179
+00:38:16,200 --> 00:38:19,000
+Go go go!
+
+180
+00:38:21,500 --> 00:38:22,938
+Laura!
+
+181
+00:38:29,000 --> 00:38:30,075
+Laura!
+
+182
+00:40:30,200 --> 00:40:31,500
+What's going on in here?
+
+183
+00:40:32,400 --> 00:40:34,400
+The containers are full of humans.
+
+184
+00:40:42,200 --> 00:40:44,600
+The cargo is the shipping companies business.
+
+185
+00:40:44,600 --> 00:40:46,300
+Lacroix was murdered.
+
+186
+00:40:46,300 --> 00:40:48,200
+Lacroix opened the door and because of the ...
+
+187
+00:40:48,200 --> 00:40:51,200
+... containers over pressure he had been pushed in to the abyss.
+
+188
+00:40:51,200 --> 00:40:54,600
+Someone set the containers in motion and we got almost killed.
+
+189
+00:40:54,600 --> 00:40:58,300
+The containers are moving automatically, to prevent freezing.
+
+190
+00:40:58,300 --> 00:41:01,448
+That's the reason why it's forbidden to be in the cargo compartment.
+
+191
+00:41:01,448 --> 00:41:03,200
+Somebody is on board of the ship.
+
+192
+00:41:03,200 --> 00:41:05,200
+He killed Lacroix and almost us too.
+
+193
+00:41:05,200 --> 00:41:07,172
+Did you know that there were humans in the containers?
+
+194
+00:41:10,400 --> 00:41:13,529
+This tank will be returned immediately.
+
+195
+00:41:13,529 --> 00:41:14,930
+This is a human!
+
+196
+00:41:16,300 --> 00:41:19,171
+As a doctor, I am responsible for the people on board.
+
+197
+00:41:19,171 --> 00:41:20,857
+And I will examine this girl now.
+
+198
+00:41:20,857 --> 00:41:23,000
+Exactly what I was thinking.
+
+199
+00:41:23,000 --> 00:41:26,500
+And furthermore I am authorized to inspect any incident on this ship.
+
+200
+00:41:26,500 --> 00:41:29,500
+The containers with the tanks may have something to do with Lacroix's death.
+
+201
+00:41:30,000 --> 00:41:31,631
+Then do your duty.
+
+202
+00:41:31,631 --> 00:41:35,405
+But you can be sure that I will report this incident.
+
+203
+00:41:46,300 --> 00:41:49,438
+Inspecting tank. Starting record.
+
+204
+00:42:01,600 --> 00:42:04,600
+No usable scans from the abdomen retrievable.
+
+205
+00:42:04,600 --> 00:42:07,566
+Switching to high frequency.
+
+206
+00:42:14,000 --> 00:42:16,700
+HF scans in the head area possible.
+
+207
+00:42:16,700 --> 00:42:19,700
+The girl shows some minor brain activity.
+
+208
+00:42:19,700 --> 00:42:23,479
+I assume a coma caused by hibernation.
+
+209
+00:42:26,500 --> 00:42:30,215
+Stopping record.
+
+210
+00:42:30,800 --> 00:42:33,246
+Did you find something?
+
+211
+00:42:34,200 --> 00:42:37,500
+It will take some time to have precise results.
+
+212
+00:42:37,500 --> 00:42:39,000
+May I help?
+
+213
+00:42:39,000 --> 00:42:40,578
+Yes, maybe.
+
+214
+00:42:40,578 --> 00:42:45,968
+The tank is blocking the scanner and it's secured with an electronic lock.
+
+215
+00:43:02,800 --> 00:43:05,498
+Did you find something?
+
+216
+00:43:07,800 --> 00:43:12,000
+I need anything you can find on Decker.
+
+217
+00:43:12,000 --> 00:43:16,841
+Something is wrong with him. He should be on our side.
+
+218
+00:43:26,200 --> 00:43:26,900
+And?
+
+219
+00:43:26,900 --> 00:43:29,800
+Because of an asymetric RSA encryption.
+
+220
+00:43:29,800 --> 00:43:32,523
+Could take some time.
+
+221
+00:43:47,100 --> 00:43:50,218
+What do you know about Station 42?
+
+222
+00:43:50,218 --> 00:43:53,000
+En uninhabited station.
+
+223
+00:43:53,000 --> 00:43:57,500
+Is officially being upgraded to a transport hub for ships heading to Proxima.
+
+224
+00:43:57,500 --> 00:44:00,000
+And inofficially?
+
+225
+00:44:01,800 --> 00:44:04,100
+Why did you enlist for this mission?
+
+226
+00:44:04,100 --> 00:44:06,300
+I need money, that's it.
+
+227
+00:44:06,300 --> 00:44:07,600
+You want to go to Rhea.
+
+228
+00:44:07,600 --> 00:44:08,800
+Yes.
+
+229
+00:44:08,800 --> 00:44:09,900
+Why?
+
+230
+00:44:09,900 --> 00:44:12,800
+My sister lives on Rhea.
+
+231
+00:44:12,800 --> 00:44:18,000
+She won the visa to Rhea seven years ago.
+
+232
+00:44:18,000 --> 00:44:20,868
+She is living our dream.
+
+233
+00:44:58,000 --> 00:45:01,367
+Probably the automatic sorting again.
+
+234
+00:45:08,400 --> 00:45:10,500
+And if there is really something on board?
+
+235
+00:45:10,500 --> 00:45:15,010
+Fuck it. Let's just try to fix this mess asap.
+
+236
+00:45:56,300 --> 00:45:58,742
+Starting record.
+
+237
+00:46:04,700 --> 00:46:09,704
+The girls brain is marbled with an anorganic tissue.
+
+238
+00:46:09,704 --> 00:46:12,696
+Entry of the tissue into the body.
+
+239
+00:46:12,696 --> 00:46:16,034
+Cervical C4, neck spline.
+
+240
+00:46:17,400 --> 00:46:20,300
+Looks like ingrowth.
+
+241
+00:46:20,300 --> 00:46:22,737
+Or pitted.
+
+242
+00:46:31,400 --> 00:46:33,200
+A VR connector.
+
+243
+00:46:33,200 --> 00:46:35,100
+Appearantly a perfected one.
+
+244
+00:46:35,100 --> 00:46:36,700
+I've never seen something like this.
+
+245
+00:46:36,700 --> 00:46:39,100
+We could connect her to an external system.
+
+246
+00:46:39,100 --> 00:46:41,300
+That's too dangerous.
+
+247
+00:46:41,300 --> 00:46:45,000
+That could lead to irreperable neural damages.
+
+248
+00:46:45,000 --> 00:46:47,000
+That's the only way to get more information about the access.
+
+249
+00:46:47,000 --> 00:46:48,500
+Under no circumstances.
+
+250
+00:46:48,500 --> 00:46:51,500
+I will not risk this kids life.
+
+251
+00:46:53,000 --> 00:46:54,755
+Well.
+
+252
+00:46:56,400 --> 00:46:59,862
+For now, keep this examinations results between us.
+
+253
+00:46:59,862 --> 00:47:01,705
+Ok?
+
+254
+00:47:16,500 --> 00:47:18,000
+Hi Hanna.
+
+255
+00:47:18,800 --> 00:47:20,486
+So much stuff is going on in here ...
+
+256
+00:47:20,486 --> 00:47:22,228
+... that I would like to share with you.
+
+257
+00:47:23,300 --> 00:47:25,300
+Why are we that far away from each other?
+
+258
+00:47:25,300 --> 00:47:29,315
+And it takes ages for the messages to arrive.
+
+259
+00:47:30,200 --> 00:47:33,100
+I just don't understand what's happening on board anymore.
+
+260
+00:47:33,100 --> 00:47:35,800
+We found a girl in the cargo compartement.
+
+261
+00:47:35,800 --> 00:47:38,800
+I'm trying to help her.
+
+262
+00:47:40,300 --> 00:47:42,100
+We'll see each other soon.
+
+263
+00:47:42,100 --> 00:47:45,266
+And then I'll tell you everything.
+
+264
+00:48:31,300 --> 00:48:34,600
+I was so delighted to receive your message!
+
+265
+00:48:34,600 --> 00:48:38,800
+It's so good to hear your voice and know that you are alive.
+
+266
+00:48:42,100 --> 00:48:44,500
+You found a girl?
+
+267
+00:48:44,500 --> 00:48:47,500
+I don't get it.
+
+268
+00:48:47,500 --> 00:48:50,100
+I would like to talk to you in person.
+
+269
+00:48:50,100 --> 00:48:54,000
+Why is it taking so long for our messages to arrive.
+
+270
+00:48:54,000 --> 00:48:56,100
+Laura listen.
+
+271
+00:48:56,100 --> 00:48:59,300
+We don't want you to do any more cargo flights.
+
+272
+00:48:59,300 --> 00:49:00,800
+Come directly to Rhea.
+
+273
+00:49:00,800 --> 00:49:03,000
+You could stay with us for a while.
+
+274
+00:49:03,000 --> 00:49:07,300
+We will prepare a room for you and...
+
+275
+00:49:07,300 --> 00:49:09,500
+I'm anticipating your arrival.
+
+276
+00:49:09,500 --> 00:49:12,303
+Soon you'll be with us.
+
+277
+00:49:34,000 --> 00:49:37,022
+I don't get what's happening here.
+
+278
+00:49:41,300 --> 00:49:44,502
+How is it possible that my sister answers this fast?
+
+279
+00:49:48,700 --> 00:49:52,081
+Why do you have knowledge about neuronal accesses?
+
+280
+00:49:56,300 --> 00:49:59,858
+Why shouldn't I tell anybody about the examination?
+
+281
+00:50:02,900 --> 00:50:06,258
+What do you know about the people in the tanks?
+
+282
+00:50:10,700 --> 00:50:13,395
+Who the hell are you?
+
+283
+00:51:56,691 --> 00:52:02,000
+Everybody report to the bridge asap.
+
+284
+00:52:04,000 --> 00:52:09,400
+Yoshida scanned all log entries and compared them with the backup.
+
+285
+00:52:09,400 --> 00:52:17,279
+She discovered that a crew member manipulated the log files of the cryo chambers.
+
+286
+00:52:19,100 --> 00:52:23,900
+Why didn't you tell us that you have been awakened on a regular basis?
+
+287
+00:52:23,900 --> 00:52:27,500
+It's part of my duties to check the ship periodically.
+
+288
+00:52:27,500 --> 00:52:31,600
+So you are not denying that you left the cryo chambers without our knowledge.
+
+289
+00:52:31,600 --> 00:52:34,000
+No, that is correct.
+
+290
+00:52:34,000 --> 00:52:35,700
+Where have you been when Lacroix died?
+
+291
+00:52:35,700 --> 00:52:38,686
+I knew it! Damn Snitch!
+
+292
+00:52:40,000 --> 00:52:42,980
+I was in sector F5-17.
+
+293
+00:52:42,980 --> 00:52:49,015
+And you can't demand an account for the work I am doing for RBS.
+
+294
+00:52:49,015 --> 00:52:50,597
+Arrest him.
+
+295
+00:52:51,900 --> 00:52:53,574
+Put your weapon away!
+
+296
+00:52:56,200 --> 00:52:59,300
+I have immunity. You know that.
+
+297
+00:52:59,300 --> 00:53:01,300
+Not if you are suspected of murder.
+
+298
+00:53:01,300 --> 00:53:03,954
+Put your weapon away!
+
+299
+00:53:27,500 --> 00:53:31,000
+I might have believed you if you hadn't resited.
+
+300
+00:53:32,200 --> 00:53:34,800
+Vespucci how much more time do you need with the gate?
+
+301
+00:53:34,800 --> 00:53:36,777
+48 hours.
+
+302
+00:53:40,000 --> 00:53:43,500
+Dr. Portmann return that tank to the cargo compartment asap.
+
+303
+00:53:43,500 --> 00:53:48,900
+That's impossible. I gave the patient a drug that regresses the filaments.
+
+304
+00:53:48,900 --> 00:53:51,200
+She is not stable. She can't be returned.
+
+305
+00:53:51,200 --> 00:53:53,000
+That's none of my business!
+
+306
+00:53:53,000 --> 00:53:55,400
+I want that tank returned before the gate is fixed.
+
+307
+00:53:55,400 --> 00:53:57,000
+This is an order!
+
+308
+00:53:57,000 --> 00:53:58,978
+Do you understand?
+
+309
+00:54:02,000 --> 00:54:04,300
+Get him to the cryo chambers.
+
+310
+00:54:04,300 --> 00:54:06,000
+He must go to the medical station first.
+
+311
+00:54:06,000 --> 00:54:11,959
+I must treat his wounds or the blood will contaminate the cooling fluid.
+
+312
+00:54:39,500 --> 00:54:41,414
+You are doing your job well.
+
+313
+00:54:47,000 --> 00:54:50,639
+Did you receive another message from your sister?
+
+314
+00:55:26,100 --> 00:55:29,333
+Vespucci, medical station please.
+
+315
+00:55:29,333 --> 00:55:30,300
+Laura!
+
+316
+00:55:30,300 --> 00:55:32,172
+Laura wait!
+
+317
+00:55:37,600 --> 00:55:40,500
+We are not flying to Station 42.
+
+318
+00:55:41,500 --> 00:55:43,857
+Where are we heading then?
+
+319
+00:55:45,000 --> 00:55:48,108
+To Rhea.
+
+320
+00:56:37,200 --> 00:56:39,600
+Could you do me a favour?
+
+321
+00:56:39,600 --> 00:56:44,765
+Would you please take a look if we are really heading for Station 42?
+
+322
+00:57:21,500 --> 00:57:24,000
+And?
+
+323
+00:57:24,000 --> 00:57:26,500
+I was on the bridge and locked into the system.
+
+324
+00:57:26,500 --> 00:57:30,252
+The target coordinates of our flight are well protected, but ...
+
+325
+00:57:30,252 --> 00:57:36,400
+... I can tell you for certain that we are not heading for Station 42.
+
+326
+00:57:36,400 --> 00:57:39,500
+And it's definite too that ...
+
+327
+00:57:39,500 --> 00:57:44,300
+... nobody would've been able to change the coordinates while the journey.
+
+328
+00:57:44,300 --> 00:57:48,210
+Because you can only set them before the departure.
+
+329
+00:57:48,210 --> 00:57:54,300
+I'm trying to spot where else we might fly to.
+
+330
+00:57:54,300 --> 00:57:59,800
+But that means that Decker wasn't even able to change the coordinates.
+
+331
+00:57:59,800 --> 00:58:03,971
+How long does it take a message to arrive at Rhea?
+
+332
+00:58:04,800 --> 00:58:06,500
+Probably half an eternity. As always.
+
+333
+00:58:07,800 --> 00:58:09,632
+Several years?
+
+334
+00:58:11,000 --> 00:58:14,800
+My sister answered me within 20 minutes.
+
+335
+00:58:14,800 --> 00:58:19,619
+If that's true, then Lindbergh lied to us.
+
+336
+00:58:19,619 --> 00:58:23,900
+Only she has the logins for the target coordinates.
+
+337
+00:58:23,900 --> 00:58:26,929
+Decker told me that we are flying to Rhea.
+
+338
+00:58:28,335 --> 00:58:31,000
+Hey hey hey, look who's here!
+
+339
+00:58:31,000 --> 00:58:33,061
+The gate has been fixed.
+
+340
+00:58:33,061 --> 00:58:36,837
+And that's why Prokoff and I are throwing a little party in the squad rooms.
+
+341
+00:58:38,500 --> 00:58:40,400
+I don't have any time. Got work to do.
+
+342
+00:58:40,400 --> 00:58:42,700
+And what's with our little party?
+
+343
+00:58:42,700 --> 00:58:45,500
+Thanks for your help!
+
+344
+00:58:45,500 --> 00:58:48,100
+But you are coming, right?
+
+345
+00:58:48,100 --> 00:58:52,487
+We heated the room just for this event.
+
+346
+00:59:05,700 --> 00:59:08,000
+You won't stay that long too, right?
+
+347
+00:59:09,500 --> 00:59:13,000
+The last doctor left afterwards for Rhea.
+
+348
+00:59:15,900 --> 00:59:19,665
+Our lot will never be able to afford that.
+
+349
+00:59:51,600 --> 00:59:54,779
+Doesn't even taste that shitty!
+
+350
+01:00:11,598 --> 01:00:14,117
+Probably the radiator.
+
+351
+01:00:20,488 --> 01:00:21,785
+What are you doing?
+
+352
+01:00:22,402 --> 01:00:24,092
+The party isn't over yet.
+
+353
+01:00:25,074 --> 01:00:26,748
+I'll bring Yoshida some tea too.
+
+354
+01:00:29,012 --> 01:00:30,689
+Ok... but hurry.
+
+355
+01:00:30,689 --> 01:00:33,630
+And make sure Lindbergh doesn't notice anything.
+
+356
+01:00:33,630 --> 01:00:35,544
+She'd ruin our party.
+
+357
+01:00:36,469 --> 01:00:38,332
+Don't worry, I'll be right back.
+
+358
+01:02:02,431 --> 01:02:03,864
+Decker...
+
+359
+01:02:03,864 --> 01:02:06,173
+That son of a bitch is gone.
+
+360
+01:02:08,221 --> 01:02:10,779
+If I get my hands on him...
+
+361
+01:02:12,226 --> 01:02:14,142
+He was woken up manually.
+
+362
+01:02:15,068 --> 01:02:17,019
+Someone must have let him out.
+
+363
+01:02:17,019 --> 01:02:20,135
+So we have a stowaway on board after all.
+
+364
+01:02:20,135 --> 01:02:21,324
+Crap...
+
+365
+01:02:22,106 --> 01:02:24,583
+We'll search the whole ship.
+
+366
+01:02:24,583 --> 01:02:26,163
+You go with Portmann.
+
+367
+01:02:26,163 --> 01:02:28,029
+I'll go with Prokoff.
+
+368
+01:02:28,804 --> 01:02:30,408
+We'll start on the main section.
+
+369
+01:02:30,408 --> 01:02:32,093
+I'll lock all cargo bay access.
+
+370
+01:02:32,093 --> 01:02:34,542
+If we don't find anything, we'll check out the rest.
+
+371
+01:03:39,725 --> 01:03:41,531
+Sick bay is clear.
+
+372
+01:03:41,531 --> 01:03:42,920
+What's your situation?
+
+373
+01:03:43,843 --> 01:03:44,760
+Nothing so far.
+
+374
+01:03:44,760 --> 01:03:46,546
+We're at the sluice.
+
+375
+01:03:58,632 --> 01:04:00,092
+There's something below us.
+
+376
+01:04:06,496 --> 01:04:08,631
+Let's check out the lower deck.
+
+377
+01:04:33,089 --> 01:04:35,266
+Looks like we have him.
+
+378
+01:04:35,266 --> 01:04:37,201
+He must be in this duct.
+
+379
+01:04:41,201 --> 01:04:42,539
+Ok... you go in here.
+
+380
+01:04:42,539 --> 01:04:44,677
+I'll come from the other side.
+
+381
+01:04:44,677 --> 01:04:45,924
+We'll kick his ass.
+
+382
+01:04:57,745 --> 01:05:01,576
+Once he notices that I'm front of him, he'll have to turn around.
+
+383
+01:05:01,576 --> 01:05:03,909
+When you see him, you shoot.
+
+384
+01:05:03,909 --> 01:05:05,290
+Boom, over and done.
+
+385
+01:05:05,290 --> 01:05:09,307
+That bastard...he killed Yoshida and Lacroix.
+
+386
+01:05:09,307 --> 01:05:09,999
+Don't forget that.
+
+387
+01:07:07,424 --> 01:07:10,730
+...blow...up...
+
+388
+01:09:09,436 --> 01:09:12,636
+Everythings grows again like it used to.
+
+389
+01:09:13,746 --> 01:09:15,894
+We've been lied to from the very beginning.
+
+390
+01:09:17,099 --> 01:09:18,283
+These plants here...
+
+391
+01:09:18,283 --> 01:09:19,241
+they're edible.
+
+392
+01:09:20,006 --> 01:09:23,913
+The greenhouses keep out the acid rain.
+
+393
+01:09:24,882 --> 01:09:28,562
+We purify our own water in underground tanks.
+
+394
+01:09:28,562 --> 01:09:32,346
+We're completely independent from the system.
+
+395
+01:09:32,346 --> 01:09:34,728
+And we continue to grow stronger.
+
+396
+01:09:34,728 --> 01:09:38,032
+More people join us every day.
+
+397
+01:09:53,607 --> 01:09:54,431
+Freeze!
+
+398
+01:09:57,115 --> 01:09:57,702
+Laura..
+
+399
+01:09:57,702 --> 01:10:00,000
+Thank god, you're alive.
+
+400
+01:10:00,000 --> 01:10:01,053
+Calm down.
+
+401
+01:10:01,053 --> 01:10:02,161
+Where the hell were you?
+
+402
+01:10:02,161 --> 01:10:03,867
+We have everything under control.
+
+403
+01:10:03,867 --> 01:10:05,095
+We got him.
+
+404
+01:10:05,858 --> 01:10:06,862
+Did you shoot?
+
+405
+01:10:10,933 --> 01:10:12,222
+Who is that?
+
+406
+01:10:13,668 --> 01:10:14,488
+Bruckner...
+
+407
+01:10:21,400 --> 01:10:23,247
+What was your plan?
+
+408
+01:10:41,010 --> 01:10:42,775
+No point in playing the hero.
+
+409
+01:10:43,744 --> 01:10:44,802
+Bruckner is dead.
+
+410
+01:10:44,802 --> 01:10:46,365
+Who are you trying to protect?
+
+411
+01:10:48,146 --> 01:10:50,895
+Rhea...is a simulation, a lie.
+
+412
+01:10:53,188 --> 01:10:54,482
+The people in the tanks...
+
+413
+01:10:54,482 --> 01:10:55,373
+Bullshit.
+
+414
+01:10:55,373 --> 01:11:00,417
+Their brains are beeing used as neural units to create the simulation.
+
+415
+01:11:00,417 --> 01:11:02,699
+We talk to the people on Rhea all the time.
+
+416
+01:11:02,699 --> 01:11:04,623
+Kuiper is lying to all of humanity.
+
+417
+01:11:05,282 --> 01:11:06,707
+Everything is covered up.
+
+418
+01:11:06,707 --> 01:11:07,696
+Get him out of here.
+
+419
+01:11:08,375 --> 01:11:11,737
+If people knew that parts of earth are habitable again...
+
+420
+01:11:11,737 --> 01:11:14,528
+the whole system would break down.
+
+421
+01:11:15,483 --> 01:11:16,974
+You killed him, didn't you?
+
+422
+01:11:19,013 --> 01:11:20,803
+He went nuts.
+
+423
+01:11:20,803 --> 01:11:21,606
+He killed Lacroix.
+
+424
+01:11:22,120 --> 01:11:23,543
+And Yoshida?
+
+425
+01:11:26,033 --> 01:11:27,699
+Move it.
+
+426
+01:11:36,296 --> 01:11:38,317
+How's your little patient?
+
+427
+01:11:38,317 --> 01:11:39,057
+Good.
+
+428
+01:11:40,756 --> 01:11:44,086
+I think we can move her back into the cargo hold.
+
+429
+01:11:45,226 --> 01:11:46,344
+Excellent.
+
+430
+01:11:47,000 --> 01:11:48,974
+Prokoff and Vespucci will give you a hand.
+
+431
+01:11:49,692 --> 01:11:51,602
+Then we can finally close the cargo hold and...
+
+432
+01:11:51,602 --> 01:11:53,535
+you'll go into crysleep.
+
+433
+01:11:53,535 --> 01:11:55,251
+I will handle your shift.
+
+434
+01:12:44,005 --> 01:12:46,037
+So.. you know about Rhea...
+
+435
+01:13:16,052 --> 01:13:18,499
+The simulation is only temporary...
+
+436
+01:13:24,552 --> 01:13:27,330
+The colonization of Rhea was a failure from the get-go.
+
+437
+01:13:30,340 --> 01:13:34,503
+Our changes to the planet's ecosystem caused unforeseen consequences.
+
+438
+01:13:37,126 --> 01:13:39,154
+We will find another planet.
+
+439
+01:13:40,000 --> 01:13:43,019
+And we won't repeat the mistakes we made on Rhea.
+
+440
+01:13:43,940 --> 01:13:45,374
+But until then...
+
+441
+01:13:45,374 --> 01:13:47,971
+people need something to keep them alive.
+
+442
+01:13:49,049 --> 01:13:50,536
+And that thing is hope.
+
+443
+01:13:55,443 --> 01:13:59,259
+What happens to those who find out they're living in a simulation?
+
+444
+01:14:06,589 --> 01:14:08,922
+The simulation is perfect...
+
+445
+01:14:08,922 --> 01:14:10,570
+I was in there myself.
+
+446
+01:14:10,570 --> 01:14:13,663
+It's impossible for anyone to notice anything.
+
+447
+01:14:15,167 --> 01:14:17,111
+Why are you doing all this?
+
+448
+01:14:22,000 --> 01:14:24,015
+You just don't get it.
+
+449
+01:14:26,625 --> 01:14:28,742
+Soon we'll be on Rhea.
+
+450
+01:14:28,742 --> 01:14:31,547
+But you and your.. saboteur.. won't make it there alive.
+
+451
+01:14:31,547 --> 01:14:35,782
+Noone will care about the death of the ones who murdered the captain.
+
+452
+01:14:39,588 --> 01:14:41,895
+Did you know that we were going to Rhea?
+
+453
+01:15:11,077 --> 01:15:13,660
+But... Rhea is a simulation...
+
+454
+01:15:13,660 --> 01:15:14,839
+Who cares?
+
+455
+01:15:14,839 --> 01:15:16,881
+Better than staying on this piece of junk.
+
+456
+01:15:20,596 --> 01:15:22,579
+What about all my plants?
+
+457
+01:15:22,579 --> 01:15:25,942
+You idiot, there will be more plants than you ever dreamed of.
+
+458
+01:15:26,685 --> 01:15:27,995
+On Rhea, there is everything.
+
+459
+01:15:27,995 --> 01:15:28,737
+Everything.
+
+460
+01:15:41,601 --> 01:15:43,498
+I couldn't tell you the truth.
+
+461
+01:15:57,134 --> 01:16:00,211
+Laura.. there's many reasons not to trust me...
+
+462
+01:16:06,792 --> 01:16:10,044
+But we are the only ones who can finish this mission.
+
+463
+01:16:12,936 --> 01:16:13,994
+Will you help me?
+
+464
+01:16:16,545 --> 01:16:18,675
+Will you help me get my sister out of there?
+
+465
+01:16:20,542 --> 01:16:22,574
+We need two people to do this.
+
+466
+01:16:22,574 --> 01:16:24,315
+It's impossible to enter the simulation on your own.
+
+467
+01:16:25,328 --> 01:16:27,817
+We'll dock at Station 42 according to plan.
+
+468
+01:16:28,536 --> 01:16:31,811
+We can delay the cargo unload procedure by 30 minutes.
+
+469
+01:16:31,811 --> 01:16:33,751
+The Kassandra will then unload automatically.
+
+470
+01:16:33,751 --> 01:16:36,276
+Laura and me will be flying to the station.
+
+471
+01:16:36,847 --> 01:16:39,434
+And log into the system right here.
+
+472
+01:16:39,434 --> 01:16:40,863
+How's that going to work?
+
+473
+01:16:42,114 --> 01:16:45,677
+The hardware used for connecting is here, in the connection modules.
+
+474
+01:16:51,882 --> 01:16:57,845
+I will connect Laura to the simulation here on the main module.
+
+475
+01:16:58,448 --> 01:17:01,012
+Once she's in, she will send a message to Earth.
+
+476
+01:17:01,012 --> 01:17:02,990
+Meanwhile, I'll go look for her sister's tank.
+
+477
+01:17:05,100 --> 01:17:07,673
+When we're done, we'll blow up the transponder of the main antenna.
+
+478
+01:17:09,875 --> 01:17:11,778
+The station itself stays fully operational.
+
+479
+01:17:11,778 --> 01:17:13,095
+That means...
+
+480
+01:17:13,095 --> 01:17:16,194
+Everyone will keep living in the simulation.
+
+481
+01:17:16,194 --> 01:17:18,036
+But they won't be able to send any more messages.
+
+482
+01:17:18,036 --> 01:17:19,868
+Laura's message..
+
+483
+01:17:19,868 --> 01:17:21,400
+will be the last.
+
+484
+01:17:22,178 --> 01:17:24,337
+I hope people back home will believe us.
+
+485
+01:18:03,910 --> 01:18:05,790
+Is the Earth really habitable again?
+
+486
+01:18:06,917 --> 01:18:08,579
+We had 3 expeditions.
+
+487
+01:18:10,836 --> 01:18:12,660
+Nature is rampant.
+
+488
+01:18:13,797 --> 01:18:15,105
+She's talking everything back.
+
+489
+01:18:18,245 --> 01:18:20,992
+Whole cities are grown over up to the second floor.
+
+490
+01:18:25,352 --> 01:18:27,654
+I'll bring Ariane back to Earth.
+
+491
+01:18:30,488 --> 01:18:32,296
+There's millions of tanks, Laura..
+
+492
+01:18:33,840 --> 01:18:36,013
+Even if we do find her....
+
+493
+01:18:36,013 --> 01:18:39,095
+I don't know in what condition she'll be in.
+
+494
+01:18:40,256 --> 01:18:42,130
+She was in the simulation for a long time.
+
+495
+01:18:46,346 --> 01:18:47,706
+We have to try.
+
+496
+01:18:48,766 --> 01:18:51,100
+I want to show her the Earth...
+
+497
+01:19:48,213 --> 01:19:50,206
+Has this interface been used before?
+
+498
+01:19:50,811 --> 01:19:52,049
+No, it's a prototype.
+
+499
+01:19:52,049 --> 01:19:54,841
+It works like a neural connection for the simulation.
+
+500
+01:20:03,208 --> 01:20:04,383
+Don't be scared.
+
+501
+01:20:10,902 --> 01:20:12,452
+27 minutes.
+
+502
+01:20:17,230 --> 01:20:18,383
+Don't you think we should...
+
+503
+01:20:18,383 --> 01:20:20,436
+What?
+
+504
+01:20:20,436 --> 01:20:23,488
+I'm doing this for you, and me. For both of us!
+
+505
+01:20:23,488 --> 01:20:24,681
+As if I'll let this pass us by.
+
+506
+01:20:24,681 --> 01:20:27,724
+We'll throw some guys out of their tanks and go in ourselves.
+
+507
+01:20:27,724 --> 01:20:29,963
+Once the ship is unloaded, we'll be on Rhea!
+
+508
+01:20:42,095 --> 01:20:43,630
+God damnit....
+
+509
+01:22:23,881 --> 01:22:24,324
+Prokoff.
+
+510
+01:22:24,324 --> 01:22:25,055
+Do you hear me?
+
+511
+01:22:25,055 --> 01:22:27,873
+I have Lindbergh's card.
+
+512
+01:22:28,549 --> 01:22:32,662
+Reprogram the unload timer to 10 minutes, got it?
+
+513
+01:22:32,662 --> 01:22:35,226
+Otherwise those 2 will make it back....
+
+514
+01:22:35,226 --> 01:22:36,674
+and the containers won't be unloaded....
+
+515
+01:22:36,674 --> 01:22:38,591
+and we won't be on Rhea, got it?
+
+516
+01:22:46,554 --> 01:22:49,154
+We have to hurry.. let's meet in the cargo hold, ok?
+
+517
+01:22:54,418 --> 01:22:56,548
+Decker? Can you hear me?
+
+518
+01:22:57,895 --> 01:23:00,571
+I have problems with my fuel cell.
+
+519
+01:23:07,056 --> 01:23:09,263
+The cell is... *garbage*
+
+520
+01:23:09,263 --> 01:23:11,980
+[scrambled]
+
+521
+01:23:11,980 --> 01:23:15,510
+...under no circumstances..open..gate
+
+522
+01:24:12,175 --> 01:24:13,662
+Rhea here we come!
+
+523
+01:24:38,262 --> 01:24:40,359
+...find..cell...
+
+524
+01:24:41,312 --> 01:24:42,992
+..found nothing...
+
+525
+01:24:42,992 --> 01:24:44,944
+...coming anyway...
+
+526
+01:24:47,443 --> 01:24:49,570
+I don't think that's a good ide.....
+
+527
+01:24:49,570 --> 01:24:49,802
+..where you are...
+
+528
+01:24:49,802 --> 01:24:53,024
+I'm trying to find Ariane's tank.
+
+529
+01:24:53,024 --> 01:24:55,246
+Laura... copy..?
+
+530
+01:25:31,202 --> 01:25:32,349
+Decker, can you hear me?
+
+531
+01:25:32,349 --> 01:25:33,170
+Decker!
+
+532
+01:25:33,829 --> 01:25:35,624
+I can't control my thrusters anymore!
+
+533
+01:25:37,633 --> 01:25:38,863
+I'm drifting off!
+
+534
+01:25:42,149 --> 01:25:43,507
+Decker! Where are you?!
+
+535
+01:26:22,132 --> 01:26:23,317
+Decker..where are you?
+
+536
+01:26:39,536 --> 01:26:40,587
+I see you.
+
+537
+01:27:43,315 --> 01:27:44,969
+I found Ariane's tank...
+
+538
+01:27:46,607 --> 01:27:47,540
+Impossible...
+
+539
+01:27:49,419 --> 01:27:50,485
+I'm sorry.
+
+540
+01:27:52,762 --> 01:27:53,647
+I want to see her.
+
+541
+01:27:55,222 --> 01:27:57,719
+Set the module to my sister's simulation.
+
+542
+01:27:59,348 --> 01:28:01,156
+I'll send the message from there.
+
+543
+01:28:37,930 --> 01:28:40,611
+The Kassandra.
+
+544
+01:28:49,112 --> 01:28:51,059
+Prokoff and Vespucci...
+
+545
+01:28:51,059 --> 01:28:52,144
+Those idiots.
+
+546
+01:28:52,668 --> 01:28:54,954
+That means we have 7 minutes at the most...
+
+547
+01:28:54,954 --> 01:28:56,595
+then I'll get you out manually.
+
+548
+01:28:56,595 --> 01:28:57,768
+OK.
+
+549
+01:32:53,967 --> 01:32:55,839
+Look how beatiful we have it here....
+
+550
+01:33:00,048 --> 01:33:02,000
+Finally you can actually see it.
+
+551
+01:33:02,000 --> 01:33:03,079
+Finally...
+
+552
+01:33:04,928 --> 01:33:06,743
+And your room is almost ready too!
+
+553
+01:33:08,420 --> 01:33:09,691
+You look beatiful.
+
+554
+01:33:11,661 --> 01:33:12,247
+Come in.
+
+555
+01:33:13,123 --> 01:33:14,061
+I'll show you everything.
+
+556
+01:33:15,369 --> 01:33:17,138
+Kids, look who's here!
+
+557
+01:33:21,762 --> 01:33:23,004
+Laura are you crying?
+
+558
+01:33:32,789 --> 01:33:35,555
+Ariane, I have to go for a minute.
+
+559
+01:33:36,890 --> 01:33:37,961
+What's wrong?
+
+560
+01:33:39,408 --> 01:33:41,145
+I love you, Ariane.
+
+561
+01:33:48,260 --> 01:33:49,776
+Laura, where are you going?
+
+562
+01:34:47,332 --> 01:34:49,430
+My name is Laura Portmann.
+
+563
+01:34:49,959 --> 01:34:52,012
+This is the last message from Rhea.
+
+564
+01:34:52,921 --> 01:34:54,898
+Rhea is not paradise.
+
+565
+01:34:55,905 --> 01:34:58,094
+Rhea is a simulation.
+
+566
+01:34:59,095 --> 01:35:00,785
+We will bring you proof.
+
+567
+01:35:02,425 --> 01:35:04,111
+We were all betrayed.
+
+568
+01:35:06,588 --> 01:35:09,136
+Everything about Rhea is a lie.
+
+569
+01:35:10,387 --> 01:35:11,834
+We don't need Rhea.
+
+570
+01:35:13,183 --> 01:35:15,246
+However, we still have Earth.
+
+571
+01:35:15,970 --> 01:35:18,215
+Earth is habitable again.
+
+572
+01:35:20,085 --> 01:35:23,709
+Nobody will ever have contact with Rhea again.
+
+573
+01:35:25,364 --> 01:35:26,611
+We're destroying the antennas now.
+
+574
+01:35:56,171 --> 01:35:57,035
+Do you hear me?
+
+575
+01:35:58,163 --> 01:35:58,634
+Yes.
+
+576
+01:36:00,479 --> 01:36:02,335
+Good, we must hurry.
+
+577
+01:36:02,335 --> 01:36:03,988
+The Kassandra could launch anytime now...
+
+578
+01:36:05,856 --> 01:36:07,325
+and you have to go back on your own.
+
+579
+01:36:07,325 --> 01:36:08,665
+On my own?
+
+580
+01:36:11,336 --> 01:36:11,998
+Yes.
+
+581
+01:36:14,709 --> 01:36:16,373
+I'm not leaving without you.
+
+582
+01:36:16,373 --> 01:36:17,598
+You have to.
+
+583
+01:36:17,598 --> 01:36:20,454
+We won't make it far with just one jetpack.
+
+584
+01:36:20,454 --> 01:36:22,499
+I gave you my fuel cell.
+
+585
+01:36:22,499 --> 01:36:25,987
+It has enough fuel to get you to the Kassandra.
+
+586
+01:36:25,987 --> 01:36:27,477
+I'm not leaving without you.
+
+587
+01:36:30,326 --> 01:36:32,035
+Go back to the girl.
+
+588
+01:36:32,035 --> 01:36:34,367
+She's our only proof.
+
+589
+01:37:04,115 --> 01:37:04,809
+Go.
+
+590
+01:37:08,420 --> 01:37:09,627
+I can't!
+
+591
+01:37:09,627 --> 01:37:09,903
+You can.
+
+592
+01:37:12,591 --> 01:37:13,217
+No...
+
+593
+01:37:16,965 --> 01:37:18,135
+I love you.
+
+594
+01:40:02,744 --> 01:40:03,680
+Where is the girl!?
+
+595
+01:40:27,432 --> 01:40:29,895
+Noone will be able to send messages from Rhea now.
+
+596
+01:43:28,009 --> 01:43:30,438
+My name is Laura Portmann.
+
+597
+01:43:30,438 --> 01:43:33,337
+This is the last message from Rhea.
+
+598
+01:43:34,618 --> 01:43:36,501
+Rhea is not paradise.
+
+599
+01:43:37,269 --> 01:43:39,786
+Rhea is a simulation.
+
+600
+01:43:40,548 --> 01:43:42,673
+We will bring you proof.
+
+601
+01:43:43,676 --> 01:43:45,592
+We were all betrayed.
+
+602
+01:43:47,348 --> 01:43:48,714
+We don't need Rhea.
+
+603
+01:43:50,279 --> 01:43:52,859
+However, we still have have Earth.
+
+604
+01:43:52,859 --> 01:43:55,218
+Earth is habitable again.
+
+605
+01:43:57,081 --> 01:44:01,904
+Nobody will ever have contact with Rhea again.
+
+606
+01:44:03,025 --> 01:44:04,709
+We're destroying the antennas now.
+
+607
+01:44:13,500 --> 01:44:16,000
+Subtitled by
+
+608
+01:44:16,000 --> 01:44:18,700
+PumpAction
+
+609
+01:44:18,700 --> 01:44:21,300
+Surray
+
+610
+01:44:21,300 --> 01:44:24,000
+and very special thanks to
+
+611
+01:44:24,000 --> 01:44:27,000
+Zotten
+
+612
+01:44:27,000 --> 01:44:31,615
+and our fellow humpers!
+
+613
+01:44:32,989 --> 01:44:39,610
+Sorry Ronhrin that I didn't mention your name specifically, as I already uploaded this subtitle :)
+
+614
+01:44:42,000 --> 01:44:45,000
+Huh... V1.01 ... fucked the first one a little bit up :D
