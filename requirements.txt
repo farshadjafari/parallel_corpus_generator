@@ -23,4 +23,4 @@ stevedore==1.28.0
 subliminal==2.0.5
 tqdm==4.19.9
 translation==1.0.5
-urllib3==1.22
+urllib3==1.26.5
